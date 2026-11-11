@@ -1,0 +1,275 @@
+player,team,role,overseas,age,price_crore,forecast_impact_2027,has_forecast,impact_2026,value_per_crore,fair_price_crore,paid_minus_fair
+Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,88.64120834312612,True,162.57834619859236,3.9,30.95,-7.95
+Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.20733855333398,True,162.2022460417318,3.3,29.78,-3.03
+Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,80.8661214119092,True,159.02241101387477,3.9,25.12,-4.12
+Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.27347499252123,True,115.03862578974984,8.9,21.61,-13.11
+KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.42812263378957,True,112.23350222977211,5.2,20.02,-6.02
+Shubman Gill,Gujarat Titans,Batter,False,27,16.5,61.50820873234623,True,132.20504516779062,3.7,14.92,1.58
+Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.07768988414731,True,6.866635315342975,4.9,10.68,-0.68
+Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.41239004778758,True,54.460628443401205,2.8,9.18,6.57
+Nicholas Pooran,Lucknow Super Giants,Batter,True,31,21.0,41.24532181838268,True,-107.96690679075446,2.0,8.66,12.34
+Abhishek Sharma,Sunrisers Hyderabad,All-rounder,False,26,14.0,38.84515920480176,True,90.71477698494552,2.8,8.11,5.89
+Rinku Singh,Kolkata Knight Riders,Batter,False,29,13.0,36.68460259963858,True,104.25911420226836,2.8,7.66,5.34
+Rajat Patidar,Royal Challengers Bengaluru,Batter,False,33,11.0,36.08419594350356,True,129.19010355937704,3.3,7.53,3.47
+Venkatesh Iyer,Royal Challengers Bengaluru,Batter,False,31,7.0,34.1783846184844,True,71.02988983488825,4.9,7.16,-0.16
+Sanju Samson,Chennai Super Kings,Wicket-keeper batter,False,32,18.0,30.838394459361588,True,85.48927618158473,1.7,6.54,11.46
+Prabhsimran Singh,Punjab Kings,Batter,False,26,4.0,30.01554300259997,True,78.12263309568797,7.5,6.4,-2.4
+Ashutosh Sharma,Delhi Capitals,Batter,False,28,3.8,28.84784060767539,True,39.94165270262408,7.6,6.2,-2.4
+Josh Inglis,Lucknow Super Giants,Wicket-keeper batter,True,31,8.6,28.74821995101543,True,77.16944173438178,3.3,6.19,2.41
+Ishan Kishan,Sunrisers Hyderabad,Wicket-keeper batter,False,28,11.25,28.691277026514527,True,114.64156893525102,2.6,6.18,5.07
+Dhruv Jurel,Rajasthan Royals,Wicket-keeper batter,False,25,14.0,27.654741267894963,True,48.9712823936581,2.0,6.01,7.99
+David Miller,Delhi Capitals,Batter,True,37,2.0,26.632292950575128,True,27.990181168744098,13.3,5.84,-3.84
+Shivam Dube,Chennai Super Kings,All-rounder,False,33,12.0,26.068400820101736,True,39.925139746883,2.2,5.76,6.24
+Tim David,Royal Challengers Bengaluru,Batter,True,30,3.0,25.655474319639502,True,48.303767550520675,8.6,5.69,-2.69
+Sunil Narine,Kolkata Knight Riders,Bowler,True,38,12.0,25.343633465896787,True,121.38133888654032,2.1,5.64,6.36
+Shashank Singh,Punjab Kings,Batter,False,34,5.5,24.170900571410463,True,17.379740041739645,4.4,5.47,0.03
+Varun Chakravarthy,Kolkata Knight Riders,Bowler,False,35,12.0,21.83320040060699,True,-17.895004177079628,1.8,5.14,6.86
+Suryakumar Yadav,Mumbai Indians,Batter,False,36,16.35,21.170763275831508,True,-84.961163772018,1.3,5.05,11.3
+Ryan Rickelton,Mumbai Indians,Wicket-keeper batter,True,30,1.0,20.569156847034066,True,73.04693699083298,20.6,4.96,-3.96
+Bhuvneshwar Kumar,Royal Challengers Bengaluru,Bowler,False,36,10.75,18.772124854332773,True,298.5482114546781,1.7,4.73,6.02
+Mitchell Marsh,Lucknow Super Giants,All-rounder,True,35,3.4,17.64469500932503,True,90.7710650242664,5.2,4.59,-1.19
+Riyan Parag,Rajasthan Royals,All-rounder,False,25,14.0,17.533883734580712,True,-35.68203849927616,1.3,4.58,9.42
+Phil Salt,Royal Challengers Bengaluru,Batter,True,30,11.5,17.494805895516272,True,1.7148689537476685,1.5,4.57,6.93
+Tilak Varma,Mumbai Indians,Batter,False,24,8.0,16.924469725161117,True,-5.290945352854909,2.1,4.5,3.5
+Angkrish Raghuvanshi,Kolkata Knight Riders,Batter,False,22,3.0,16.15786150627953,True,49.27435831792399,5.4,4.41,-1.41
+Cooper Connolly,Punjab Kings,All-rounder,True,23,3.0,16.024477977416716,True,96.17231967686293,5.3,4.39,-1.39
+Ravindra Jadeja,Rajasthan Royals,All-rounder,False,37,14.0,13.6563193156264,True,127.00147798244518,1.0,4.12,9.88
+Marcus Stoinis,Punjab Kings,All-rounder,True,37,11.0,12.676534423729604,True,20.136617938140397,1.2,4.02,6.98
+Ayush Mhatre,Chennai Super Kings,Batter,False,19,0.3,11.735522772727697,True,20.21917790037039,39.1,3.91,-3.61
+Finn Allen,Kolkata Knight Riders,Batter,True,27,2.0,10.991167210069314,True,47.362938438089216,5.5,3.84,-1.84
+Sai Kishore,Gujarat Titans,Bowler,False,30,2.0,10.547213904477475,True,-9.967342592534752,5.3,3.79,-1.79
+Priyansh Arya,Punjab Kings,Batter,False,25,3.8,9.183218803976963,True,5.645233512921026,2.4,3.66,0.14
+Sherfane Rutherford,Mumbai Indians,Batter,True,28,2.6,7.628134273916023,True,-4.574154528074846,2.9,3.51,-0.91
+Donovan Ferreira,Rajasthan Royals,Wicket-keeper batter,True,28,1.0,7.519119606153691,True,56.13200068316792,7.5,3.5,-2.5
+Ruturaj Gaikwad,Chennai Super Kings,Batter,False,29,18.0,7.0345268977724436,True,-61.40088778543323,0.4,3.45,14.55
+Rishabh Pant,Delhi Capitals,Wicket-keeper batter,False,29,15.0,7.018745438675973,True,-19.086643768273422,0.5,3.45,11.55
+Jasprit Bumrah,Mumbai Indians,Bowler,False,32,18.0,6.7861526305149,True,-117.33713898026676,0.4,3.43,14.57
+Prasidh Krishna,Gujarat Titans,Bowler,False,30,9.5,6.3700362989642345,True,33.90181815120085,0.7,3.39,6.11
+Sameer Rizvi,Delhi Capitals,Batter,False,22,0.95,5.741090030579459,True,22.46905741628622,6.0,3.33,-2.38
+Yashasvi Jaiswal,Rajasthan Royals,Batter,False,24,18.0,5.504546331737388,True,-25.45310159802698,0.3,3.31,14.69
+Kartik Sharma,Chennai Super Kings,Batter,False,20,14.2,5.408824984390277,True,9.317700177481758,0.4,3.3,10.9
+Travis Head,Sunrisers Hyderabad,Batter,True,32,14.0,4.639839590464536,True,-25.352627231871075,0.3,3.24,10.76
+Rovman Powell,Kolkata Knight Riders,Batter,True,33,1.5,4.5335226098811505,True,18.61780766714635,3.0,3.23,-1.73
+Cameron Green,Kolkata Knight Riders,All-rounder,True,27,25.2,3.413051387100163,True,-1.7943619453128612,0.1,3.13,22.07
+Mukul Choudhary,Lucknow Super Giants,Batter,False,22,2.6,3.173829602383948,True,11.54911245682318,1.2,3.11,-0.51
+Khaleel Ahmed,Sunrisers Hyderabad,Bowler,False,28,4.8,2.9909746544272307,True,-27.641626822123584,0.6,3.09,1.71
+Mitchell Santner,Mumbai Indians,All-rounder,True,34,2.0,2.8389194525520676,True,45.79673729845817,1.4,3.08,-1.08
+Naman Dhir,Mumbai Indians,All-rounder,False,26,5.25,2.247698465411391,True,-34.91550056472123,0.4,3.03,2.22
+Rahul Tewatia,Gujarat Titans,All-rounder,False,33,4.0,1.6857068034391192,True,2.49027172779656,0.4,2.99,1.01
+Suryansh Shedge,Punjab Kings,All-rounder,False,23,0.3,1.4252570058712168,True,32.64295565054583,4.8,2.97,-2.67
+Rohit Sharma,Mumbai Indians,Batter,False,39,16.3,1.3584264620807704,True,-16.11363743670353,0.1,2.96,13.34
+Manish Pandey,Kolkata Knight Riders,Batter,False,37,0.75,1.2134289231169095,True,-1.467861404291213,1.6,2.95,-2.2
+Trent Boult,Mumbai Indians,Bowler,True,37,12.5,0.998520973191515,True,-87.03377658140226,0.1,2.93,9.57
+Krunal Pandya,Royal Challengers Bengaluru,All-rounder,False,35,5.75,0.8283839689129948,True,80.74260995261564,0.1,2.92,2.83
+Devdutt Padikkal,Royal Challengers Bengaluru,Batter,False,26,2.0,0.6239625450520356,True,11.238903950395231,0.3,2.9,-0.9
+Prashant Veer,Chennai Super Kings,Batter,False,20,14.2,0.4442891148861325,True,7.139218350398597,0.0,2.89,11.31
+Ayush Badoni,Lucknow Super Giants,Batter,False,26,4.0,0.3992557938022361,True,-62.16135741132435,0.1,2.89,1.11
+Harshal Patel,Sunrisers Hyderabad,Bowler,False,35,8.0,0.3088331822706124,True,-131.41132231098268,0.0,2.88,5.12
+Eshan Malinga,Sunrisers Hyderabad,Bowler,True,25,1.2,0.1875356083393524,True,64.05446579990738,0.2,2.87,-1.67
+Aman Rao,Rajasthan Royals,Batter,False,22,0.3,0.0,False,,0.0,2.86,-2.56
+Dilshan Madushanka,Sunrisers Hyderabad,Bowler,True,26,0.75,0.0,False,,0.0,2.86,-2.11
+Emanjot Chahal,Rajasthan Royals,Bowler,False,22,0.3,0.0,False,,0.0,2.86,-2.56
+Sushant Mishra,Rajasthan Royals,Bowler,False,25,0.3,0.0,False,,0.0,2.86,-2.56
+Shivam Mavi,Sunrisers Hyderabad,Bowler,False,27,0.75,0.0,False,,0.0,2.86,-2.11
+Lhuan-dre Pretorius,Rajasthan Royals,Batter,True,20,0.3,0.0,False,,0.0,2.86,-2.56
+Dian Forrester,Chennai Super Kings,All-rounder,True,26,0.75,0.0,False,,0.0,2.86,-2.11
+Karun Nair,Delhi Capitals,Batter,False,34,0.5,0.0,False,,0.0,2.86,-2.36
+Zak Foulkes,Chennai Super Kings,All-rounder,True,24,0.75,0.0,False,,0.0,2.86,-2.11
+Pyla Avinash,Punjab Kings,Bowler,False,26,0.3,0.0,False,,0.0,2.86,-2.56
+Akash Singh,Lucknow Super Giants,Bowler,False,24,0.3,0.0,False,,0.0,2.86,-2.56
+RS Ambrish,Sunrisers Hyderabad,Bowler,False,19,0.45,0.0,False,,0.0,2.86,-2.41
+Aman Hakim Khan,Chennai Super Kings,All-rounder,False,29,0.4,0.0,False,,0.0,2.86,-2.46
+Arjun Tendulkar,Lucknow Super Giants,Bowler,False,27,0.3,0.0,False,,0.0,2.86,-2.56
+Kuldip Yadav,Chennai Super Kings,Bowler,False,30,0.3,0.0,False,,0.0,2.86,-2.56
+Matthew Breetzke,Lucknow Super Giants,Bowler,True,28,0.75,0.0,False,,0.0,2.86,-2.11
+Akash Madhwal,Chennai Super Kings,Wicket-keeper batter,False,32,0.3,0.0,False,,0.0,2.86,-2.56
+Naman Tiwari,Lucknow Super Giants,Bowler,False,21,1.0,0.0,False,,0.0,2.86,-1.86
+Wanindu Hasaranga,Lucknow Super Giants,All-rounder,True,29,2.0,0.0,False,,0.0,2.86,-0.86
+Shreyas Gopal,Chennai Super Kings,All-rounder,False,33,0.3,0.0,False,,0.0,2.86,-2.56
+Anrich Nortje,Lucknow Super Giants,Bowler,True,32,2.0,0.0,False,,0.0,2.86,-0.86
+Arshin Kulkarni,Lucknow Super Giants,Bowler,False,21,0.3,0.0,False,,0.0,2.86,-2.56
+Keshav Maharaj,Mumbai Indians,Bowler,True,36,0.75,0.0,False,,0.0,2.86,-2.11
+Musheer Khan,Punjab Kings,All-rounder,False,21,0.3,0.0,False,,0.0,2.86,-2.56
+Vignesh Puthur,Rajasthan Royals,Bowler,False,25,0.3,0.0,False,,0.0,2.86,-2.56
+Vishnu Vinod,Punjab Kings,Wicket-keeper batter,False,32,0.95,0.0,False,,0.0,2.86,-1.91
+Harpreet Brar,Punjab Kings,Bowler,False,31,1.5,0.0,False,,0.0,2.86,-1.36
+Yash Thakur,Punjab Kings,Bowler,False,27,1.6,0.0,False,,0.0,2.86,-1.26
+Adam Milne,Rajasthan Royals,Bowler,True,34,2.4,0.0,False,,0.0,2.86,-0.46
+Sam Curran,Rajasthan Royals,All-rounder,True,28,2.4,0.0,False,,0.0,2.86,-0.46
+Dasun Shanaka,Rajasthan Royals,All-rounder,True,35,2.0,0.0,False,,0.0,2.86,-0.86
+Mitchell Owen,Punjab Kings,Bowler,True,25,3.0,0.0,False,,0.0,2.86,0.14
+MS Dhoni,Chennai Super Kings,Wicket-keeper batter,False,45,4.0,0.0,False,,0.0,2.86,1.14
+Amit Kumar,Sunrisers Hyderabad,Bowler,False,24,0.3,0.0,False,,0.0,2.86,-2.56
+Krains Fuletra,Sunrisers Hyderabad,All-rounder,False,22,0.3,0.0,False,,0.0,2.86,-2.56
+Kwena Maphaka,Rajasthan Royals,Bowler,True,20,1.5,0.0,False,,0.0,2.86,-1.36
+Ben Dwarshuis,Punjab Kings,All-rounder,True,32,4.4,0.0,False,,0.0,2.86,1.54
+Smaran Ravichandran,Sunrisers Hyderabad,Bowler,False,23,0.3,0.0,False,,0.0,2.86,-2.56
+Vaibhav Sooryavanshi,Rajasthan Royals,Batter,False,15,1.1,0.0,False,,0.0,2.86,-1.76
+Praveen Dubey,Punjab Kings,Bowler,False,33,0.3,0.0,False,,0.0,2.86,-2.56
+Zeeshan Ansari,Delhi Capitals,Bowler,False,26,0.4,0.0,False,,0.0,2.86,-2.46
+Ravi Singh,Rajasthan Royals,Wicket-keeper batter,False,25,0.95,0.0,False,,0.0,2.86,-1.91
+Nathan Ellis,Sunrisers Hyderabad,Bowler,True,32,2.0,0.0,False,,0.0,2.86,-0.86
+Atharva Ankolekar,Mumbai Indians,All-rounder,False,26,0.3,0.0,False,,0.0,2.86,-2.56
+Raghu Sharma,Mumbai Indians,Bowler,False,33,0.3,0.0,False,,0.0,2.86,-2.56
+Mayank Rawat,Mumbai Indians,All-rounder,False,26,0.3,0.0,False,,0.0,2.86,-2.56
+Kuldeep Sen,Rajasthan Royals,Bowler,False,30,0.75,0.0,False,,0.0,2.86,-2.11
+Danish Malewar,Mumbai Indians,Batter,False,23,0.3,0.0,False,,0.0,2.86,-2.56
+Mohammad Izhar,Mumbai Indians,Bowler,False,22,0.3,0.0,False,,0.0,2.86,-2.56
+Ruchit Ahir,Mumbai Indians,Bowler,False,26,0.3,0.0,False,,0.0,2.86,-2.56
+Vishal Nishad,Punjab Kings,All-rounder,False,21,0.3,0.0,False,,0.0,2.86,-2.56
+Yudhvir Singh,Rajasthan Royals,Bowler,False,29,0.35,0.0,False,,0.0,2.86,-2.51
+Mahipal Lomror,Mumbai Indians,All-rounder,False,26,0.5,0.0,False,,0.0,2.86,-2.36
+Robin Minz,Mumbai Indians,Wicket-keeper batter,False,24,0.65,0.0,False,,0.0,2.86,-2.21
+Macneil Noronha,Chennai Super Kings,Bowler,False,25,0.3,0.0,False,,0.0,2.86,-2.56
+Harnoor Singh,Punjab Kings,Bowler,False,23,0.3,0.0,False,,0.0,2.86,-2.56
+Kamindu Mendis,Sunrisers Hyderabad,Bowler,True,28,0.75,0.0,False,,0.0,2.86,-2.11
+Gurnoor Brar,Gujarat Titans,Bowler,False,26,1.3,0.0,False,,0.0,2.86,-1.56
+Matheesha Pathirana,Kolkata Knight Riders,Bowler,True,23,18.0,0.0,False,,0.0,2.86,15.14
+Prithvi Raj,Gujarat Titans,Bowler,False,28,0.3,0.0,False,,0.0,2.86,-2.56
+Swapnil Singh,Royal Challengers Bengaluru,Bowler,False,35,0.5,0.0,False,,0.0,2.86,-2.36
+Anuj Rawat,Gujarat Titans,Wicket-keeper batter,False,27,0.3,0.0,False,,0.0,2.86,-2.56
+Kulwant Khejroliya,Gujarat Titans,Bowler,False,34,0.3,0.0,False,,0.0,2.86,-2.56
+Onkar Tarmale,Sunrisers Hyderabad,Bowler,False,24,0.3,0.0,False,,0.0,2.86,-2.56
+Kumar Kushagra,Gujarat Titans,Batter,False,22,0.65,0.0,False,,0.0,2.86,-2.21
+Luke Wood,Gujarat Titans,Bowler,True,31,0.75,0.0,False,,0.0,2.86,-2.11
+Connor Esterhuizen,Gujarat Titans,Batter,True,25,0.75,0.0,False,,0.0,2.86,-2.11
+Ishant Sharma,Gujarat Titans,Bowler,False,38,0.75,0.0,False,,0.0,2.86,-2.11
+Jayant Yadav,Gujarat Titans,Bowler,False,36,0.75,0.0,False,,0.0,2.86,-2.11
+Kanishk Chouhan,Royal Challengers Bengaluru,All-rounder,False,20,0.3,0.0,False,,0.0,2.86,-2.56
+Satvik Deswal,Royal Challengers Bengaluru,All-rounder,False,19,0.3,0.0,False,,0.0,2.86,-2.56
+Gerald Coetzee,Sunrisers Hyderabad,Bowler,True,26,2.0,0.0,False,,0.0,2.86,-0.86
+Tom Banton,Gujarat Titans,Wicket-keeper batter,True,28,2.0,0.0,False,,0.0,2.86,-0.86
+Vihaan Malhotra,Royal Challengers Bengaluru,All-rounder,False,19,0.3,0.0,False,,0.0,2.86,-2.56
+Abhishek Porel,Delhi Capitals,Wicket-keeper batter,False,24,4.0,0.0,False,,0.0,2.86,1.14
+Vicky Ostwal,Royal Challengers Bengaluru,All-rounder,False,24,0.3,0.0,False,,0.0,2.86,-2.56
+Kyle Jamieson,Delhi Capitals,Bowler,True,31,2.0,0.0,False,,0.0,2.86,-0.86
+Ben Duckett,Delhi Capitals,Batter,True,32,2.0,0.0,False,,0.0,2.86,-0.86
+Rehan Ahmed,Delhi Capitals,Bowler,True,22,0.75,0.0,False,,0.0,2.86,-2.11
+Dushmantha Chameera,Delhi Capitals,Bowler,True,34,0.75,0.0,False,,0.0,2.86,-2.11
+Prithvi Shaw,Delhi Capitals,Batter,False,27,0.75,0.0,False,,0.0,2.86,-2.11
+Liam Livingstone,Chennai Super Kings,Batter,True,33,6.0,0.0,False,,0.0,2.86,3.14
+Ajay Mandal,Delhi Capitals,Bowler,False,30,0.3,0.0,False,,0.0,2.86,-2.56
+Tripurana Vijay,Delhi Capitals,Bowler,False,25,0.3,0.0,False,,0.0,2.86,-2.56
+Nitish Kumar Reddy,Sunrisers Hyderabad,All-rounder,False,23,6.0,0.0,False,,0.0,2.86,3.14
+Jack Edwards,Chennai Super Kings,All-rounder,True,26,3.0,0.0,False,,0.0,2.86,0.14
+Mustafizur Rahman,Kolkata Knight Riders,Bowler,True,31,9.2,0.0,False,,0.0,2.86,6.34
+Navdeep Saini,Kolkata Knight Riders,Bowler,False,33,0.75,0.0,False,,0.0,2.86,-2.11
+Brydon Carse,Sunrisers Hyderabad,Bowler,True,31,1.0,0.0,False,,0.0,2.86,-1.86
+Mangesh Yadav,Royal Challengers Bengaluru,All-rounder,False,4,5.2,0.0,False,,0.0,2.86,2.34
+Yash Dayal,Royal Challengers Bengaluru,Bowler,False,28,5.0,0.0,False,,0.0,2.86,2.14
+Ramakrishna Ghosh,Chennai Super Kings,All-rounder,False,29,0.3,0.0,False,,0.0,2.86,-2.56
+David Payne,Sunrisers Hyderabad,Bowler,True,35,1.5,0.0,False,,0.0,2.86,-1.36
+Prashant Solanki,Kolkata Knight Riders,Bowler,False,26,0.3,0.0,False,,0.0,2.86,-2.56
+Luvnith Sisodia,Kolkata Knight Riders,Bowler,False,26,0.3,0.0,False,,0.0,2.86,-2.56
+Daksh Kamra,Kolkata Knight Riders,All-rounder,False,23,0.3,0.0,False,,0.0,2.86,-2.56
+Sarthak Ranjan,Kolkata Knight Riders,All-rounder,False,30,0.3,0.0,False,,0.0,2.86,-2.56
+Richard Gleeson,Royal Challengers Bengaluru,Bowler,True,38,1.6,0.0,False,,0.0,2.86,-1.26
+Blessing Muzarabani,Kolkata Knight Riders,Bowler,True,30,0.75,0.0,False,,0.0,2.86,-2.11
+Umran Malik,Kolkata Knight Riders,Bowler,False,26,0.75,0.0,False,,0.0,2.86,-2.11
+Rahul Tripathi,Kolkata Knight Riders,Batter,False,35,0.75,0.0,False,,0.0,2.86,-2.11
+Akash Deep,Kolkata Knight Riders,Bowler,False,29,1.0,0.0,False,,0.0,2.86,-1.86
+Ramandeep Singh,Kolkata Knight Riders,Bowler,False,29,4.0,0.0,False,,0.0,2.86,1.14
+Nuwan Thushara,Royal Challengers Bengaluru,Bowler,True,32,1.6,0.0,False,,0.0,2.86,-1.26
+Jordan Cox,Royal Challengers Bengaluru,Wicket-keeper batter,True,26,0.75,0.0,False,,0.0,2.86,-2.11
+Harshit Rana,Kolkata Knight Riders,Bowler,False,24,4.0,0.0,False,,0.0,2.86,1.14
+Rahul Chahar,Chennai Super Kings,Bowler,False,27,5.2,0.0,False,,0.0,2.86,2.34
+Tejasvi Singh,Kolkata Knight Riders,Wicket-keeper batter,False,24,3.0,0.0,False,,0.0,2.86,0.14
+Rachin Ravindra,Kolkata Knight Riders,Bowler,True,26,2.0,0.0,False,,0.0,2.86,-0.86
+Mohammed Siraj,Gujarat Titans,Bowler,False,32,12.25,-0.3716317023604034,True,32.59510250042654,-0.0,2.83,9.42
+Himmat Singh,Lucknow Super Giants,Bowler,False,30,0.3,-0.839319611916626,True,6.852816496180856,-2.8,2.79,-2.49
+Mitchell Starc,Delhi Capitals,Bowler,True,36,11.75,-0.9986355018004356,True,55.563826219616345,-0.1,2.78,8.97
+Will Jacks,Mumbai Indians,Batter,True,27,5.25,-1.0013529813584772,True,-13.412950389601608,-0.2,2.78,2.47
+Madhav Tiwari,Delhi Capitals,Bowler,False,23,0.4,-1.044382423520211,True,41.77365875240751,-2.6,2.78,-2.38
+Saurabh Dubey,Kolkata Knight Riders,Bowler,False,28,0.3,-1.1648718939961005,True,45.421879821578464,-3.9,2.77,-2.47
+Vaibhav Arora,Kolkata Knight Riders,Bowler,False,28,1.8,-1.2938707611085851,True,-28.839124629399866,-0.7,2.76,-0.96
+Pathum Nissanka,Delhi Capitals,Batter,True,28,4.0,-1.4182966746774102,True,-36.65616564090816,-0.4,2.75,1.25
+Nandre Burger,Rajasthan Royals,Bowler,True,31,3.5,-1.7145860239604434,True,0.910376025066288,-0.5,2.73,0.77
+Shubham Dubey,Rajasthan Royals,Bowler,False,32,0.8,-1.878512487149432,True,-14.465245155791546,-2.3,2.71,-1.91
+Akshat Raghuwanshi,Lucknow Super Giants,Batter,False,23,2.2,-1.878952348445536,True,-21.63587960347253,-0.9,2.71,-0.51
+Vipraj Nigam,Delhi Capitals,Batter,False,22,0.5,-2.112914127445043,True,-41.408642184351606,-4.2,2.7,-2.2
+Ashwani Kumar,Mumbai Indians,Bowler,False,25,0.3,-2.7462022876498686,True,44.79801348279465,-9.2,2.65,-2.35
+Salil Arora,Sunrisers Hyderabad,Wicket-keeper batter,False,24,1.5,-3.0528685567259055,True,-19.001079151222957,-2.0,2.63,-1.13
+Akeal Hosein,Chennai Super Kings,Bowler,True,33,2.0,-3.071443751890498,True,60.01393092800678,-1.5,2.63,-0.63
+Sarfaraz Khan,Chennai Super Kings,Batter,False,29,0.75,-3.282013684420156,True,-25.93340237248488,-4.4,2.61,-1.86
+Abdul Samad,Lucknow Super Giants,Batter,False,25,4.2,-3.288134382008064,True,-37.69472228360258,-0.8,2.61,1.59
+Shimron Hetmyer,Rajasthan Royals,Batter,True,29,11.0,-3.309673026055932,True,-66.94467524164345,-0.3,2.61,8.39
+Sandeep Sharma,Rajasthan Royals,Bowler,False,33,4.0,-3.472478342247455,True,-52.07229297783841,-0.9,2.6,1.4
+Abhinandan Singh,Royal Challengers Bengaluru,Bowler,False,29,0.3,-3.5831154460507135,True,-23.85961235974243,-11.9,2.59,-2.29
+Quinton de Kock,Mumbai Indians,Wicket-keeper batter,True,33,1.0,-3.621148182910241,True,39.76890526136018,-3.6,2.59,-1.59
+Aniket Verma,Sunrisers Hyderabad,Batter,False,24,0.3,-3.674998796410335,True,-50.09091570210509,-12.2,2.59,-2.29
+Glenn Phillips,Gujarat Titans,Bowler,True,29,2.0,-3.7050709028827846,True,-30.48624383121402,-1.9,2.58,-0.58
+Raj Angad Bawa,Mumbai Indians,Bowler,False,23,0.3,-3.7260065398800113,True,-4.919022455845511,-12.4,2.58,-2.28
+Praful Hinge,Sunrisers Hyderabad,Bowler,False,24,0.3,-3.811540835734807,True,32.107996782250154,-12.7,2.58,-2.28
+Corbin Bosch,Mumbai Indians,All-rounder,True,32,0.75,-3.8438731847259526,True,120.60984643805996,-5.1,2.58,-1.83
+Jaydev Unadkat,Sunrisers Hyderabad,Bowler,False,35,1.0,-4.152247003661249,True,-8.07033011564043,-4.2,2.55,-1.55
+Mayank Yadav,Lucknow Super Giants,Bowler,False,24,11.0,-4.200147622613001,True,-125.70125526661856,-0.4,2.55,8.45
+Krish Bhagat,Mumbai Indians,Bowler,False,22,0.3,-4.2394044402241375,True,-54.089999718635134,-14.1,2.55,-2.25
+Shahrukh Khan,Gujarat Titans,Batter,False,31,4.0,-4.244617468318681,True,-44.143257976488826,-1.1,2.55,1.45
+Nitish Rana,Delhi Capitals,Batter,False,32,4.2,-4.284734886504831,True,-75.59524919869753,-1.0,2.54,1.66
+Tim Seifert,Kolkata Knight Riders,Wicket-keeper batter,True,31,1.5,-4.490760727588764,True,-46.40399177618782,-3.0,2.53,-1.03
+Allah Ghazanfar,Mumbai Indians,Bowler,True,20,4.8,-4.680913428722905,True,50.12880002793244,-1.0,2.52,2.28
+Manimaran Siddharth,Lucknow Super Giants,Bowler,False,28,0.75,-4.792235535306404,True,23.284677797748063,-6.4,2.51,-1.76
+George Linde,Lucknow Super Giants,Bowler,True,34,1.0,-4.810007376518061,True,-38.6070086299423,-4.8,2.51,-1.51
+Manav Suthar,Gujarat Titans,All-rounder,False,24,0.3,-4.850803985211124,True,-10.266504236406153,-16.2,2.51,-2.21
+Shahbaz Ahmed,Lucknow Super Giants,All-rounder,False,31,2.4,-4.984921617708883,True,41.47011219327308,-2.1,2.5,-0.1
+Sahil Parakh,Delhi Capitals,Batter,False,19,0.3,-5.019315929432038,True,-47.69776410608751,-16.7,2.5,-2.2
+Lockie Ferguson,Punjab Kings,Bowler,True,35,2.0,-5.038987275966841,True,-73.73138242948033,-2.5,2.49,-0.49
+Jacob Duffy,Royal Challengers Bengaluru,Bowler,True,32,2.0,-5.113287514292365,True,13.911896175269636,-2.6,2.49,-0.49
+Arshdeep Singh,Mumbai Indians,Bowler,False,27,18.0,-5.152295981504145,True,-49.881350501364246,-0.3,2.49,15.51
+Josh Hazlewood,Royal Challengers Bengaluru,Bowler,True,35,12.5,-5.411262521094815,True,-7.577285755104988,-0.4,2.47,10.03
+Urvil Patel,Chennai Super Kings,Batter,False,28,0.3,-5.469110472758765,True,-38.25160571927917,-18.2,2.47,-2.17
+Nishant Sindhu,Gujarat Titans,Bowler,False,22,0.3,-5.629118502832786,True,-59.040427444641594,-18.8,2.45,-2.15
+Deepak Chahar,Mumbai Indians,Bowler,False,34,9.25,-5.736511404741092,True,-16.135740117572734,-0.6,2.45,6.8
+Dewald Brevis,Chennai Super Kings,Batter,True,23,2.2,-5.829892315273513,True,-56.28958296478528,-2.6,2.44,-0.24
+Mayank Markande,Mumbai Indians,Bowler,False,29,0.3,-5.837932366775387,True,-51.975092371236656,-19.5,2.44,-2.14
+Yash Raj Punja,Rajasthan Royals,Bowler,False,20,0.9,-6.2837722632660835,True,10.822758713967785,-7.0,2.41,-1.51
+Kuldeep Yadav,Lucknow Super Giants,Bowler,False,31,13.5,-6.293371567675281,True,-95.2502418645835,-0.5,2.41,11.09
+Lungi Ngidi,Delhi Capitals,Bowler,True,30,2.0,-6.298788406003508,True,38.36525489118944,-3.1,2.41,-0.41
+Ashok Sharma,Gujarat Titans,Bowler,False,24,0.9,-6.372173239002863,True,-39.792480283186414,-7.1,2.41,-1.51
+Washington Sundar,Gujarat Titans,All-rounder,False,27,3.2,-6.3725281371888585,True,43.149057029729825,-2.0,2.41,0.79
+Sakib Hussain,Sunrisers Hyderabad,Bowler,False,21,0.3,-6.3892950334686525,True,47.14864079313475,-21.3,2.4,-2.1
+Arshad Khan,Gujarat Titans,Bowler,False,28,1.3,-6.411482436113912,True,-0.0959648682584983,-4.9,2.4,-1.1
+Harsh Dubey,Sunrisers Hyderabad,Bowler,False,24,0.3,-6.4251932436030295,True,-14.28482429114821,-21.4,2.4,-2.1
+Tushar Deshpande,Rajasthan Royals,Bowler,False,31,6.5,-6.971203779446835,True,-114.55153473664276,-1.1,2.37,4.13
+Matthew Short,Chennai Super Kings,All-rounder,True,31,1.5,-7.085485752641277,True,-50.51193859826234,-4.7,2.36,-0.86
+Pat Cummins,Sunrisers Hyderabad,Bowler,True,33,18.0,-7.123243677189987,True,-50.28400281572059,-0.4,2.36,15.64
+Jofra Archer,Rajasthan Royals,Bowler,True,31,12.5,-7.45504142543434,True,90.88620709390688,-0.6,2.34,10.16
+Yuzvendra Chahal,Punjab Kings,Bowler,False,36,18.0,-7.792669912711634,True,-1.496095512406633,-0.4,2.32,15.68
+Matt Henry,Chennai Super Kings,Bowler,True,34,2.0,-7.826825450197439,True,-78.96376700379206,-3.9,2.31,-0.31
+Avesh Khan,Lucknow Super Giants,Bowler,False,29,9.75,-7.89229748417422,True,-75.54909594711035,-0.8,2.31,7.44
+Azmatullah Omarzai,Punjab Kings,Bowler,True,26,2.4,-8.048269708368307,True,5.479165746521897,-3.4,2.3,0.1
+Mukesh Kumar,Delhi Capitals,Bowler,False,33,8.0,-8.163261159876583,True,-96.10891921966773,-1.0,2.29,5.71
+Auqib Nabi,Delhi Capitals,Bowler,False,30,8.4,-8.259603627349428,True,-80.55503796209781,-1.0,2.29,6.11
+Aiden Markram,Lucknow Super Giants,Batter,True,32,2.0,-8.318403955120504,True,-95.8752762034782,-4.2,2.28,-0.28
+Mohsin Khan,Lucknow Super Giants,Bowler,False,28,4.0,-9.017183963717477,True,53.84385360239153,-2.3,2.24,1.76
+Gurjapneet Singh,Chennai Super Kings,Bowler,False,28,2.2,-9.094082079554838,True,-58.240452020982374,-4.1,2.24,-0.04
+Jacob Bethell,Royal Challengers Bengaluru,Bowler,True,23,2.6,-9.30252469546123,True,-85.45999171395073,-3.6,2.22,0.38
+Mukesh Choudhary,Chennai Super Kings,Bowler,False,30,0.3,-9.345020360996552,True,23.534958227647103,-31.2,2.22,-1.92
+Nehal Wadhera,Punjab Kings,Batter,False,26,4.2,-9.470929063501238,True,-70.76849144417578,-2.3,2.21,1.99
+Brijesh Sharma,Rajasthan Royals,Bowler,False,27,0.3,-9.731151974098324,True,-8.427674822738325,-32.4,2.2,-1.9
+Spencer Johnson,Chennai Super Kings,Bowler,True,30,1.5,-10.11679409775964,True,-42.930605310479464,-6.7,2.18,-0.68
+Kagiso Rabada,Gujarat Titans,Bowler,True,31,10.75,-10.287068705022556,True,180.71382549355377,-1.0,2.17,8.58
+Kartik Tyagi,Kolkata Knight Riders,Bowler,False,26,0.3,-10.309079831487796,True,-13.641594052680585,-34.4,2.16,-1.86
+Jason Holder,Gujarat Titans,All-rounder,True,35,7.0,-10.396181644691238,True,125.8697040187652,-1.5,2.16,4.84
+Anshul Kamboj,Chennai Super Kings,All-rounder,False,25,3.4,-10.5209406241846,True,69.39813259503424,-3.1,2.15,1.25
+Jamie Overton,Chennai Super Kings,Bowler,True,32,1.5,-10.531983371636302,True,113.27511430763371,-7.0,2.15,-0.65
+Anukul Roy,Kolkata Knight Riders,Bowler,False,27,0.4,-11.29599683031482,True,-14.989921847835962,-28.2,2.11,-1.71
+T. Natarajan,Sunrisers Hyderabad,Bowler,False,35,5.0,-11.435384238842737,True,-133.5246670400078,-2.3,2.1,2.9
+Noor Ahmad,Chennai Super Kings,Bowler,True,21,10.0,-11.72405002677255,True,-36.59866903936315,-1.2,2.08,7.92
+Rashid Khan,Gujarat Titans,All-rounder,True,28,18.0,-12.851758706828202,True,51.86410669349983,-0.7,2.02,15.98
+Rasikh Salam,Royal Challengers Bengaluru,Bowler,False,26,6.0,-12.903639757385235,True,121.59540666316362,-2.2,2.02,3.98
+Jitesh Sharma,Royal Challengers Bengaluru,Wicket-keeper batter,False,33,11.0,-13.414220220266168,True,-90.53189576511537,-1.2,1.99,9.01
+Digvesh Rathi,Lucknow Super Giants,Bowler,False,26,0.3,-13.453495844744651,True,-135.48328567192073,-44.8,1.99,-1.69
+Suyash Sharma,Royal Challengers Bengaluru,Bowler,False,23,2.6,-13.66582297457694,True,-32.65602288622669,-5.3,1.98,0.62
+Shardul Thakur,Mumbai Indians,Bowler,False,35,2.0,-13.686345082581605,True,10.102971908325774,-6.8,1.98,0.02
+Vijaykumar Vyshak,Punjab Kings,Bowler,False,29,1.8,-14.008685373083498,True,-41.26643386215438,-7.8,1.96,-0.16
+Hardik Pandya,Punjab Kings,All-rounder,False,33,18.0,-15.108418283203228,True,-114.1667348387927,-0.8,1.9,16.1
+Mohammed Shami,Lucknow Super Giants,Bowler,False,36,10.0,-16.219600369293502,True,-76.97052125672181,-1.6,1.85,8.15
+Prince Yadav,Lucknow Super Giants,Bowler,False,24,0.3,-16.502558944701185,True,40.10749958276146,-55.0,1.83,-1.53
+Shivang Kumar,Sunrisers Hyderabad,Bowler,False,24,0.3,-16.61232947720425,True,-115.76240592611089,-55.4,1.83,-1.53
+Xavier Bartlett,Punjab Kings,Bowler,True,27,0.8,-17.106190070267914,True,-144.73296722097166,-21.4,1.8,-1.0
+Ravi Bishnoi,Rajasthan Royals,Bowler,False,26,7.2,-23.323959955717715,True,9.076439351460904,-3.2,1.53,5.67
+Axar Patel,Delhi Capitals,All-rounder,False,32,16.5,-23.551938987175667,True,-39.5051067437862,-1.4,1.52,14.98
+Romario Shepherd,Royal Challengers Bengaluru,Bowler,True,31,1.5,-25.241842676670032,True,-89.51958165550755,-16.8,1.45,0.05
+Ajinkya Rahane,Kolkata Knight Riders,Batter,False,38,1.5,-26.08841441294009,True,-80.31856509758966,-17.4,1.42,0.08
+Marco Jansen,Punjab Kings,Bowler,True,26,7.0,-28.26298519993626,True,-150.35108424605636,-4.0,1.34,5.66

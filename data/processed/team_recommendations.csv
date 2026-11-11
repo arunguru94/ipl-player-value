@@ -1,0 +1,437 @@
+team,action,player,role,overseas,age,price_crore,forecast_impact_2027,has_forecast,in_best_xi
+Chennai Super Kings,Keep,Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Chennai Super Kings,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Chennai Super Kings,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Chennai Super Kings,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Chennai Super Kings,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Chennai Super Kings,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Chennai Super Kings,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Chennai Super Kings,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Chennai Super Kings,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Chennai Super Kings,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Chennai Super Kings,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Chennai Super Kings,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Chennai Super Kings,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Chennai Super Kings,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Chennai Super Kings,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Chennai Super Kings,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Chennai Super Kings,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Chennai Super Kings,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Chennai Super Kings,Release / not needed,Sanju Samson,Wicket-keeper batter,False,32,18.0,41.0,True,False
+Chennai Super Kings,Release / not needed,Ruturaj Gaikwad,Batter,False,29,18.0,12.0,True,False
+Chennai Super Kings,Release / not needed,Prashant Veer,Batter,False,20,14.2,-1.0,True,False
+Chennai Super Kings,Release / not needed,Kartik Sharma,Batter,False,20,14.2,10.0,True,False
+Chennai Super Kings,Release / not needed,Shivam Dube,All-rounder,False,33,12.0,25.0,True,False
+Chennai Super Kings,Release / not needed,Noor Ahmad,Bowler,True,21,10.0,-14.0,True,False
+Chennai Super Kings,Release / not needed,Rahul Chahar,Bowler,False,27,5.2,0.0,False,False
+Chennai Super Kings,Release / not needed,MS Dhoni,Wicket-keeper batter,False,45,4.0,0.0,False,False
+Chennai Super Kings,Release / not needed,Anshul Kamboj,All-rounder,False,25,3.4,-13.0,True,False
+Chennai Super Kings,Release / not needed,Gurjapneet Singh,Bowler,False,28,2.2,-12.0,True,False
+Chennai Super Kings,Release / not needed,Dewald Brevis,Batter,True,23,2.2,-1.0,True,False
+Chennai Super Kings,Release / not needed,Akeal Hosein,Bowler,True,33,2.0,-5.0,True,False
+Chennai Super Kings,Release / not needed,Matt Henry,Bowler,True,34,2.0,-11.0,True,False
+Chennai Super Kings,Release / not needed,Matthew Short,All-rounder,True,31,1.5,-5.0,True,False
+Chennai Super Kings,Release / not needed,Spencer Johnson,Bowler,True,30,1.5,-14.0,True,False
+Chennai Super Kings,Release / not needed,Jamie Overton,Bowler,True,32,1.5,-6.0,True,False
+Chennai Super Kings,Release / not needed,Dian Forrester,All-rounder,True,26,0.75,0.0,False,False
+Chennai Super Kings,Release / not needed,Zak Foulkes,All-rounder,True,24,0.75,0.0,False,False
+Chennai Super Kings,Release / not needed,Sarfaraz Khan,Batter,False,29,0.75,-2.0,True,False
+Chennai Super Kings,Release / not needed,Aman Hakim Khan,All-rounder,False,29,0.4,0.0,False,False
+Chennai Super Kings,Release / not needed,Kuldip Yadav,Bowler,False,30,0.3,0.0,False,False
+Chennai Super Kings,Release / not needed,Akash Madhwal,Wicket-keeper batter,False,32,0.3,0.0,False,False
+Chennai Super Kings,Release / not needed,Shreyas Gopal,All-rounder,False,33,0.3,0.0,False,False
+Chennai Super Kings,Release / not needed,Macneil Noronha,Bowler,False,25,0.3,0.0,False,False
+Chennai Super Kings,Release / not needed,Urvil Patel,Batter,False,28,0.3,-2.0,True,False
+Chennai Super Kings,Release / not needed,Mukesh Choudhary,Bowler,False,30,0.3,-11.0,True,False
+Chennai Super Kings,Release / not needed,Ramakrishna Ghosh,All-rounder,False,29,0.3,0.0,False,False
+Chennai Super Kings,Release / not needed,Liam Livingstone,Batter,True,33,6.0,0.0,False,False
+Chennai Super Kings,Release / not needed,Jack Edwards,All-rounder,True,26,3.0,0.0,False,False
+Delhi Capitals,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Delhi Capitals,Keep,KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Delhi Capitals,Keep,Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Delhi Capitals,Keep,Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Delhi Capitals,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Delhi Capitals,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Delhi Capitals,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Delhi Capitals,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Delhi Capitals,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Delhi Capitals,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Delhi Capitals,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Delhi Capitals,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Delhi Capitals,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Delhi Capitals,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Delhi Capitals,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Delhi Capitals,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Delhi Capitals,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Delhi Capitals,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Delhi Capitals,Release / not needed,Axar Patel,All-rounder,False,32,16.5,-27.0,True,False
+Delhi Capitals,Release / not needed,Mitchell Starc,Bowler,True,36,11.75,-5.0,True,False
+Delhi Capitals,Release / not needed,Tristan Stubbs,Batter,True,26,10.0,34.0,True,False
+Delhi Capitals,Release / not needed,Auqib Nabi,Bowler,False,30,8.4,-12.0,True,False
+Delhi Capitals,Release / not needed,Mukesh Kumar,Bowler,False,33,8.0,-15.0,True,False
+Delhi Capitals,Release / not needed,Nitish Rana,Batter,False,32,4.2,-8.0,True,False
+Delhi Capitals,Release / not needed,Abhishek Porel,Wicket-keeper batter,False,24,4.0,0.0,False,False
+Delhi Capitals,Release / not needed,Pathum Nissanka,Batter,True,28,4.0,5.0,True,False
+Delhi Capitals,Release / not needed,Ashutosh Sharma,Batter,False,28,3.8,10.0,True,False
+Delhi Capitals,Release / not needed,David Miller,Batter,True,37,2.0,17.0,True,False
+Delhi Capitals,Release / not needed,Lungi Ngidi,Bowler,True,30,2.0,-9.0,True,False
+Delhi Capitals,Release / not needed,Kyle Jamieson,Bowler,True,31,2.0,0.0,False,False
+Delhi Capitals,Release / not needed,Ben Duckett,Batter,True,32,2.0,0.0,False,False
+Delhi Capitals,Release / not needed,Rehan Ahmed,Bowler,True,22,0.75,0.0,False,False
+Delhi Capitals,Release / not needed,Dushmantha Chameera,Bowler,True,34,0.75,0.0,False,False
+Delhi Capitals,Release / not needed,Prithvi Shaw,Batter,False,27,0.75,0.0,False,False
+Delhi Capitals,Release / not needed,Vipraj Nigam,Batter,False,22,0.5,-5.0,True,False
+Delhi Capitals,Release / not needed,Karun Nair,Batter,False,34,0.5,0.0,False,False
+Delhi Capitals,Release / not needed,Tripurana Vijay,Bowler,False,25,0.3,0.0,False,False
+Delhi Capitals,Release / not needed,Ajay Mandal,Bowler,False,30,0.3,0.0,False,False
+Delhi Capitals,Release / not needed,Sahil Parakh,Batter,False,19,0.3,-2.0,True,False
+Delhi Capitals,Release / not needed,Rishabh Pant,Wicket-keeper batter,False,29,15.0,9.0,True,False
+Delhi Capitals,Release / not needed,Zeeshan Ansari,Bowler,False,26,0.4,0.0,False,False
+Gujarat Titans,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Gujarat Titans,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Gujarat Titans,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Gujarat Titans,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Gujarat Titans,Keep,Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Gujarat Titans,Keep,Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Gujarat Titans,Keep,Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Gujarat Titans,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Gujarat Titans,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Gujarat Titans,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Gujarat Titans,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Gujarat Titans,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Gujarat Titans,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Gujarat Titans,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Gujarat Titans,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Gujarat Titans,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Gujarat Titans,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Gujarat Titans,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Gujarat Titans,Release / not needed,Rashid Khan,All-rounder,True,28,18.0,-19.0,True,False
+Gujarat Titans,Release / not needed,Jos Buttler,Batter,True,36,15.75,50.0,True,False
+Gujarat Titans,Release / not needed,Mohammed Siraj,Bowler,False,32,12.25,-15.0,True,False
+Gujarat Titans,Release / not needed,Kagiso Rabada,Bowler,True,31,10.75,-18.0,True,False
+Gujarat Titans,Release / not needed,Prasidh Krishna,Bowler,False,30,9.5,14.0,True,False
+Gujarat Titans,Release / not needed,Jason Holder,All-rounder,True,35,7.0,-10.0,True,False
+Gujarat Titans,Release / not needed,Shahrukh Khan,Batter,False,31,4.0,-3.0,True,False
+Gujarat Titans,Release / not needed,Rahul Tewatia,All-rounder,False,33,4.0,-10.0,True,False
+Gujarat Titans,Release / not needed,Washington Sundar,All-rounder,False,27,3.2,-5.0,True,False
+Gujarat Titans,Release / not needed,Glenn Phillips,Bowler,True,29,2.0,-2.0,True,False
+Gujarat Titans,Release / not needed,Tom Banton,Wicket-keeper batter,True,28,2.0,0.0,False,False
+Gujarat Titans,Release / not needed,Arshad Khan,Bowler,False,28,1.3,-9.0,True,False
+Gujarat Titans,Release / not needed,Gurnoor Brar,Bowler,False,26,1.3,0.0,False,False
+Gujarat Titans,Release / not needed,Ashok Sharma,Bowler,False,24,0.9,-9.0,True,False
+Gujarat Titans,Release / not needed,Jayant Yadav,Bowler,False,36,0.75,0.0,False,False
+Gujarat Titans,Release / not needed,Ishant Sharma,Bowler,False,38,0.75,0.0,False,False
+Gujarat Titans,Release / not needed,Connor Esterhuizen,Batter,True,25,0.75,0.0,False,False
+Gujarat Titans,Release / not needed,Luke Wood,Bowler,True,31,0.75,0.0,False,False
+Gujarat Titans,Release / not needed,Kumar Kushagra,Batter,False,22,0.65,0.0,False,False
+Gujarat Titans,Release / not needed,Manav Suthar,All-rounder,False,24,0.3,-5.0,True,False
+Gujarat Titans,Release / not needed,Kulwant Khejroliya,Bowler,False,34,0.3,0.0,False,False
+Gujarat Titans,Release / not needed,Anuj Rawat,Wicket-keeper batter,False,27,0.3,0.0,False,False
+Gujarat Titans,Release / not needed,Nishant Sindhu,Bowler,False,22,0.3,-5.0,True,False
+Gujarat Titans,Release / not needed,Prithvi Raj,Bowler,False,28,0.3,0.0,False,False
+Kolkata Knight Riders,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Kolkata Knight Riders,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Kolkata Knight Riders,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Kolkata Knight Riders,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Kolkata Knight Riders,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Kolkata Knight Riders,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Kolkata Knight Riders,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Kolkata Knight Riders,Keep,Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Kolkata Knight Riders,Keep,Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Kolkata Knight Riders,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Kolkata Knight Riders,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Kolkata Knight Riders,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Kolkata Knight Riders,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Kolkata Knight Riders,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Kolkata Knight Riders,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Kolkata Knight Riders,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Kolkata Knight Riders,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Kolkata Knight Riders,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Kolkata Knight Riders,Release / not needed,Cameron Green,All-rounder,True,27,25.2,2.0,True,False
+Kolkata Knight Riders,Release / not needed,Matheesha Pathirana,Bowler,True,23,18.0,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Rinku Singh,Batter,False,29,13.0,24.0,True,False
+Kolkata Knight Riders,Release / not needed,Varun Chakravarthy,Bowler,False,35,12.0,23.0,True,False
+Kolkata Knight Riders,Release / not needed,Mustafizur Rahman,Bowler,True,31,9.2,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Ramandeep Singh,Bowler,False,29,4.0,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Harshit Rana,Bowler,False,24,4.0,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Angkrish Raghuvanshi,Batter,False,22,3.0,25.0,True,False
+Kolkata Knight Riders,Release / not needed,Tejasvi Singh,Wicket-keeper batter,False,24,3.0,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Rachin Ravindra,Bowler,True,26,2.0,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Finn Allen,Batter,True,27,2.0,18.0,True,False
+Kolkata Knight Riders,Release / not needed,Vaibhav Arora,Bowler,False,28,1.8,-12.0,True,False
+Kolkata Knight Riders,Release / not needed,Ajinkya Rahane,Batter,False,38,1.5,-2.0,True,False
+Kolkata Knight Riders,Release / not needed,Tim Seifert,Wicket-keeper batter,True,31,1.5,-2.0,True,False
+Kolkata Knight Riders,Release / not needed,Rovman Powell,Batter,True,33,1.5,2.0,True,False
+Kolkata Knight Riders,Release / not needed,Akash Deep,Bowler,False,29,1.0,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Manish Pandey,Batter,False,37,0.75,4.0,True,False
+Kolkata Knight Riders,Release / not needed,Navdeep Saini,Bowler,False,33,0.75,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Umran Malik,Bowler,False,26,0.75,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Rahul Tripathi,Batter,False,35,0.75,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Blessing Muzarabani,Bowler,True,30,0.75,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Anukul Roy,Bowler,False,27,0.4,-16.0,True,False
+Kolkata Knight Riders,Release / not needed,Sarthak Ranjan,All-rounder,False,30,0.3,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Kartik Tyagi,Bowler,False,26,0.3,-16.0,True,False
+Kolkata Knight Riders,Release / not needed,Daksh Kamra,All-rounder,False,23,0.3,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Luvnith Sisodia,Bowler,False,26,0.3,0.0,False,False
+Kolkata Knight Riders,Release / not needed,Prashant Solanki,Bowler,False,26,0.3,0.0,False,False
+Lucknow Super Giants,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Lucknow Super Giants,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Lucknow Super Giants,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Lucknow Super Giants,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Lucknow Super Giants,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Lucknow Super Giants,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Lucknow Super Giants,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Lucknow Super Giants,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Lucknow Super Giants,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Lucknow Super Giants,Keep,Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Lucknow Super Giants,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Lucknow Super Giants,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Lucknow Super Giants,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Lucknow Super Giants,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Lucknow Super Giants,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Lucknow Super Giants,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Lucknow Super Giants,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Lucknow Super Giants,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Lucknow Super Giants,Release / not needed,Kuldeep Yadav,Bowler,False,31,13.5,-14.0,True,False
+Lucknow Super Giants,Release / not needed,Nicholas Pooran,Batter,True,31,21.0,29.0,True,False
+Lucknow Super Giants,Release / not needed,Mayank Yadav,Bowler,False,24,11.0,-6.0,True,False
+Lucknow Super Giants,Release / not needed,Mohammed Shami,Bowler,False,36,10.0,-24.0,True,False
+Lucknow Super Giants,Release / not needed,Avesh Khan,Bowler,False,29,9.75,-13.0,True,False
+Lucknow Super Giants,Release / not needed,Josh Inglis,Wicket-keeper batter,True,31,8.6,28.0,True,False
+Lucknow Super Giants,Release / not needed,Abdul Samad,Batter,False,25,4.2,-7.0,True,False
+Lucknow Super Giants,Release / not needed,Ayush Badoni,Batter,False,26,4.0,-0.0,True,False
+Lucknow Super Giants,Release / not needed,Mohsin Khan,Bowler,False,28,4.0,-10.0,True,False
+Lucknow Super Giants,Release / not needed,Mukul Choudhary,Batter,False,22,2.6,2.0,True,False
+Lucknow Super Giants,Release / not needed,Shahbaz Ahmed,All-rounder,False,31,2.4,-15.0,True,False
+Lucknow Super Giants,Release / not needed,Akshat Raghuwanshi,Batter,False,23,2.2,0.0,True,False
+Lucknow Super Giants,Release / not needed,Anrich Nortje,Bowler,True,32,2.0,0.0,False,False
+Lucknow Super Giants,Release / not needed,Aiden Markram,Batter,True,32,2.0,-4.0,True,False
+Lucknow Super Giants,Release / not needed,Wanindu Hasaranga,All-rounder,True,29,2.0,0.0,False,False
+Lucknow Super Giants,Release / not needed,Naman Tiwari,Bowler,False,21,1.0,0.0,False,False
+Lucknow Super Giants,Release / not needed,George Linde,Bowler,True,34,1.0,-5.0,True,False
+Lucknow Super Giants,Release / not needed,Matthew Breetzke,Bowler,True,28,0.75,0.0,False,False
+Lucknow Super Giants,Release / not needed,Manimaran Siddharth,Bowler,False,28,0.75,-5.0,True,False
+Lucknow Super Giants,Release / not needed,Arjun Tendulkar,Bowler,False,27,0.3,0.0,False,False
+Lucknow Super Giants,Release / not needed,Prince Yadav,Bowler,False,24,0.3,-24.0,True,False
+Lucknow Super Giants,Release / not needed,Arshin Kulkarni,Bowler,False,21,0.3,0.0,False,False
+Lucknow Super Giants,Release / not needed,Himmat Singh,Bowler,False,30,0.3,-0.0,True,False
+Lucknow Super Giants,Release / not needed,Akash Singh,Bowler,False,24,0.3,0.0,False,False
+Lucknow Super Giants,Release / not needed,Digvesh Rathi,Bowler,False,26,0.3,-22.0,True,False
+Mumbai Indians,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Mumbai Indians,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Mumbai Indians,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Mumbai Indians,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Mumbai Indians,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Mumbai Indians,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Mumbai Indians,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Mumbai Indians,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Mumbai Indians,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Mumbai Indians,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Mumbai Indians,Keep,Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Mumbai Indians,Keep,Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Mumbai Indians,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Mumbai Indians,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Mumbai Indians,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Mumbai Indians,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Mumbai Indians,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Mumbai Indians,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Mumbai Indians,Release / not needed,Jasprit Bumrah,Bowler,False,32,18.0,-1.0,True,False
+Mumbai Indians,Release / not needed,Suryakumar Yadav,Batter,False,36,16.35,25.0,True,False
+Mumbai Indians,Release / not needed,Rohit Sharma,Batter,False,39,16.3,24.0,True,False
+Mumbai Indians,Release / not needed,Trent Boult,Bowler,True,37,12.5,-2.0,True,False
+Mumbai Indians,Release / not needed,Deepak Chahar,Bowler,False,34,9.25,-10.0,True,False
+Mumbai Indians,Release / not needed,Tilak Varma,Batter,False,24,8.0,19.0,True,False
+Mumbai Indians,Release / not needed,Naman Dhir,All-rounder,False,26,5.25,4.0,True,False
+Mumbai Indians,Release / not needed,Will Jacks,Batter,True,27,5.25,1.0,True,False
+Mumbai Indians,Release / not needed,Allah Ghazanfar,Bowler,True,20,4.8,-8.0,True,False
+Mumbai Indians,Release / not needed,Sherfane Rutherford,Batter,True,28,2.6,4.0,True,False
+Mumbai Indians,Release / not needed,Shardul Thakur,Bowler,False,35,2.0,-21.0,True,False
+Mumbai Indians,Release / not needed,Mitchell Santner,All-rounder,True,34,2.0,2.0,True,False
+Mumbai Indians,Release / not needed,Quinton de Kock,Wicket-keeper batter,True,33,1.0,10.0,True,False
+Mumbai Indians,Release / not needed,Corbin Bosch,All-rounder,True,32,0.75,-5.0,True,False
+Mumbai Indians,Release / not needed,Keshav Maharaj,Bowler,True,36,0.75,0.0,False,False
+Mumbai Indians,Release / not needed,Robin Minz,Wicket-keeper batter,False,24,0.65,0.0,False,False
+Mumbai Indians,Release / not needed,Mahipal Lomror,All-rounder,False,26,0.5,0.0,False,False
+Mumbai Indians,Release / not needed,Krish Bhagat,Bowler,False,22,0.3,-6.0,True,False
+Mumbai Indians,Release / not needed,Ruchit Ahir,Bowler,False,26,0.3,0.0,False,False
+Mumbai Indians,Release / not needed,Mohammad Izhar,Bowler,False,22,0.3,0.0,False,False
+Mumbai Indians,Release / not needed,Danish Malewar,Batter,False,23,0.3,0.0,False,False
+Mumbai Indians,Release / not needed,Mayank Markande,Bowler,False,29,0.3,-8.0,True,False
+Mumbai Indians,Release / not needed,Mayank Rawat,All-rounder,False,26,0.3,0.0,False,False
+Mumbai Indians,Release / not needed,Raghu Sharma,Bowler,False,33,0.3,0.0,False,False
+Mumbai Indians,Release / not needed,Raj Angad Bawa,Bowler,False,23,0.3,-5.0,True,False
+Mumbai Indians,Release / not needed,Atharva Ankolekar,All-rounder,False,26,0.3,0.0,False,False
+Mumbai Indians,Release / not needed,Arshdeep Singh,Bowler,False,27,18.0,-13.0,True,False
+Punjab Kings,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Punjab Kings,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Punjab Kings,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Punjab Kings,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Punjab Kings,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Punjab Kings,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Punjab Kings,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Punjab Kings,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Punjab Kings,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Punjab Kings,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Punjab Kings,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Punjab Kings,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Punjab Kings,Keep,Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Punjab Kings,Keep,Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Punjab Kings,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Punjab Kings,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Punjab Kings,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Punjab Kings,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Punjab Kings,Release / not needed,Hardik Pandya,All-rounder,False,33,18.0,-21.0,True,False
+Punjab Kings,Release / not needed,Shreyas Iyer,Batter,False,31,26.75,61.0,True,False
+Punjab Kings,Release / not needed,Yuzvendra Chahal,Bowler,False,36,18.0,-9.0,True,False
+Punjab Kings,Release / not needed,Marcus Stoinis,All-rounder,True,37,11.0,5.0,True,False
+Punjab Kings,Release / not needed,Marco Jansen,Bowler,True,26,7.0,-33.0,True,False
+Punjab Kings,Release / not needed,Shashank Singh,Batter,False,34,5.5,9.0,True,False
+Punjab Kings,Release / not needed,Ben Dwarshuis,All-rounder,True,32,4.4,0.0,False,False
+Punjab Kings,Release / not needed,Nehal Wadhera,Batter,False,26,4.2,-6.0,True,False
+Punjab Kings,Release / not needed,Priyansh Arya,Batter,False,25,3.8,24.0,True,False
+Punjab Kings,Release / not needed,Mitchell Owen,Bowler,True,25,3.0,0.0,False,False
+Punjab Kings,Release / not needed,Azmatullah Omarzai,Bowler,True,26,2.4,-12.0,True,False
+Punjab Kings,Release / not needed,Lockie Ferguson,Bowler,True,35,2.0,-7.0,True,False
+Punjab Kings,Release / not needed,Vijaykumar Vyshak,Bowler,False,29,1.8,-17.0,True,False
+Punjab Kings,Release / not needed,Yash Thakur,Bowler,False,27,1.6,0.0,False,False
+Punjab Kings,Release / not needed,Harpreet Brar,Bowler,False,31,1.5,0.0,False,False
+Punjab Kings,Release / not needed,Vishnu Vinod,Wicket-keeper batter,False,32,0.95,0.0,False,False
+Punjab Kings,Release / not needed,Xavier Bartlett,Bowler,True,27,0.8,-19.0,True,False
+Punjab Kings,Release / not needed,Suryansh Shedge,All-rounder,False,23,0.3,-6.0,True,False
+Punjab Kings,Release / not needed,Praveen Dubey,Bowler,False,33,0.3,0.0,False,False
+Punjab Kings,Release / not needed,Vishal Nishad,All-rounder,False,21,0.3,0.0,False,False
+Punjab Kings,Release / not needed,Musheer Khan,All-rounder,False,21,0.3,0.0,False,False
+Punjab Kings,Release / not needed,Pyla Avinash,Bowler,False,26,0.3,0.0,False,False
+Punjab Kings,Release / not needed,Harnoor Singh,Bowler,False,23,0.3,0.0,False,False
+Rajasthan Royals,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Rajasthan Royals,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Rajasthan Royals,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Rajasthan Royals,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Rajasthan Royals,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Rajasthan Royals,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Rajasthan Royals,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Rajasthan Royals,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Rajasthan Royals,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Rajasthan Royals,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Rajasthan Royals,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Rajasthan Royals,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Rajasthan Royals,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Rajasthan Royals,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Rajasthan Royals,Keep,Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Rajasthan Royals,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Rajasthan Royals,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Rajasthan Royals,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Rajasthan Royals,Release / not needed,Yashasvi Jaiswal,Batter,False,24,18.0,29.0,True,False
+Rajasthan Royals,Release / not needed,Riyan Parag,All-rounder,False,25,14.0,21.0,True,False
+Rajasthan Royals,Release / not needed,Ravindra Jadeja,All-rounder,False,37,14.0,15.0,True,False
+Rajasthan Royals,Release / not needed,Dhruv Jurel,Wicket-keeper batter,False,25,14.0,29.0,True,False
+Rajasthan Royals,Release / not needed,Jofra Archer,Bowler,True,31,12.5,-12.0,True,False
+Rajasthan Royals,Release / not needed,Shimron Hetmyer,Batter,True,29,11.0,-5.0,True,False
+Rajasthan Royals,Release / not needed,Ravi Bishnoi,Bowler,False,26,7.2,-19.0,True,False
+Rajasthan Royals,Release / not needed,Tushar Deshpande,Bowler,False,31,6.5,-16.0,True,False
+Rajasthan Royals,Release / not needed,Sandeep Sharma,Bowler,False,33,4.0,-5.0,True,False
+Rajasthan Royals,Release / not needed,Nandre Burger,Bowler,True,31,3.5,-13.0,True,False
+Rajasthan Royals,Release / not needed,Adam Milne,Bowler,True,34,2.4,0.0,False,False
+Rajasthan Royals,Release / not needed,Sam Curran,All-rounder,True,28,2.4,0.0,False,False
+Rajasthan Royals,Release / not needed,Dasun Shanaka,All-rounder,True,35,2.0,0.0,False,False
+Rajasthan Royals,Release / not needed,Kwena Maphaka,Bowler,True,20,1.5,0.0,False,False
+Rajasthan Royals,Release / not needed,Vaibhav Sooryavanshi,Batter,False,15,1.1,0.0,False,False
+Rajasthan Royals,Release / not needed,Donovan Ferreira,Wicket-keeper batter,True,28,1.0,4.0,True,False
+Rajasthan Royals,Release / not needed,Ravi Singh,Wicket-keeper batter,False,25,0.95,0.0,False,False
+Rajasthan Royals,Release / not needed,Yash Raj Punja,Bowler,False,20,0.9,-8.0,True,False
+Rajasthan Royals,Release / not needed,Shubham Dubey,Bowler,False,32,0.8,-4.0,True,False
+Rajasthan Royals,Release / not needed,Kuldeep Sen,Bowler,False,30,0.75,0.0,False,False
+Rajasthan Royals,Release / not needed,Vignesh Puthur,Bowler,False,25,0.3,0.0,False,False
+Rajasthan Royals,Release / not needed,Lhuan-dre Pretorius,Batter,True,20,0.3,0.0,False,False
+Rajasthan Royals,Release / not needed,Brijesh Sharma,Bowler,False,27,0.3,-14.0,True,False
+Rajasthan Royals,Release / not needed,Sushant Mishra,Bowler,False,25,0.3,0.0,False,False
+Rajasthan Royals,Release / not needed,Emanjot Chahal,Bowler,False,22,0.3,0.0,False,False
+Rajasthan Royals,Release / not needed,Aman Rao,Batter,False,22,0.3,0.0,False,False
+Royal Challengers Bengaluru,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Royal Challengers Bengaluru,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Royal Challengers Bengaluru,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Royal Challengers Bengaluru,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Royal Challengers Bengaluru,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Royal Challengers Bengaluru,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Royal Challengers Bengaluru,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Royal Challengers Bengaluru,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Royal Challengers Bengaluru,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Royal Challengers Bengaluru,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Royal Challengers Bengaluru,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Royal Challengers Bengaluru,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Royal Challengers Bengaluru,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Royal Challengers Bengaluru,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Royal Challengers Bengaluru,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Royal Challengers Bengaluru,Keep,Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Royal Challengers Bengaluru,Target (from Sunrisers Hyderabad),Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Royal Challengers Bengaluru,Target (from Sunrisers Hyderabad),Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Royal Challengers Bengaluru,Release / not needed,Josh Hazlewood,Bowler,True,35,12.5,-12.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Phil Salt,Batter,True,30,11.5,26.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Jitesh Sharma,Wicket-keeper batter,False,33,11.0,-11.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Rajat Patidar,Batter,False,33,11.0,34.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Bhuvneshwar Kumar,Bowler,False,36,10.75,14.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Venkatesh Iyer,Batter,False,31,7.0,30.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Rasikh Salam,Bowler,False,26,6.0,-11.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Krunal Pandya,All-rounder,False,35,5.75,-3.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Mangesh Yadav,All-rounder,False,4,5.2,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Yash Dayal,Bowler,False,28,5.0,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Tim David,Batter,True,30,3.0,16.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Suyash Sharma,Bowler,False,23,2.6,-19.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Jacob Bethell,Bowler,True,23,2.6,-4.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Jacob Duffy,Bowler,True,32,2.0,-7.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Devdutt Padikkal,Batter,False,26,2.0,5.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Richard Gleeson,Bowler,True,38,1.6,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Nuwan Thushara,Bowler,True,32,1.6,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Romario Shepherd,Bowler,True,31,1.5,-26.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Jordan Cox,Wicket-keeper batter,True,26,0.75,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Swapnil Singh,Bowler,False,35,0.5,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Abhinandan Singh,Bowler,False,29,0.3,-6.0,True,False
+Royal Challengers Bengaluru,Release / not needed,Kanishk Chouhan,All-rounder,False,20,0.3,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Satvik Deswal,All-rounder,False,19,0.3,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Vihaan Malhotra,All-rounder,False,19,0.3,0.0,False,False
+Royal Challengers Bengaluru,Release / not needed,Vicky Ostwal,All-rounder,False,24,0.3,0.0,False,False
+Sunrisers Hyderabad,Target (from Chennai Super Kings),Ayush Mhatre,Batter,False,19,0.3,14.0,True,False
+Sunrisers Hyderabad,Target (from Delhi Capitals),KL Rahul,Wicket-keeper batter,False,34,14.0,73.0,True,True
+Sunrisers Hyderabad,Target (from Delhi Capitals),Sameer Rizvi,Batter,False,22,0.95,11.0,True,False
+Sunrisers Hyderabad,Target (from Delhi Capitals),Madhav Tiwari,Bowler,False,23,0.4,1.0,True,False
+Sunrisers Hyderabad,Target (from Gujarat Titans),Shubman Gill,Batter,False,27,16.5,80.0,True,True
+Sunrisers Hyderabad,Target (from Gujarat Titans),Sai Sudharsan,Batter,False,25,8.5,85.0,True,True
+Sunrisers Hyderabad,Target (from Gujarat Titans),Sai Kishore,Bowler,False,30,2.0,11.0,True,True
+Sunrisers Hyderabad,Target (from Kolkata Knight Riders),Sunil Narine,Bowler,True,38,12.0,33.0,True,True
+Sunrisers Hyderabad,Target (from Kolkata Knight Riders),Saurabh Dubey,Bowler,False,28,0.3,1.0,True,False
+Sunrisers Hyderabad,Target (from Lucknow Super Giants),Mitchell Marsh,All-rounder,True,35,3.4,35.0,True,True
+Sunrisers Hyderabad,Target (from Mumbai Indians),Ryan Rickelton,Wicket-keeper batter,True,30,1.0,31.0,True,False
+Sunrisers Hyderabad,Target (from Mumbai Indians),Ashwani Kumar,Bowler,False,25,0.3,2.0,True,False
+Sunrisers Hyderabad,Target (from Punjab Kings),Prabhsimran Singh,Batter,False,26,4.0,36.0,True,True
+Sunrisers Hyderabad,Target (from Punjab Kings),Cooper Connolly,All-rounder,True,23,3.0,19.0,True,True
+Sunrisers Hyderabad,Target (from Rajasthan Royals),Yudhvir Singh,Bowler,False,29,0.35,0.0,False,False
+Sunrisers Hyderabad,Target (from Royal Challengers Bengaluru),Virat Kohli,Batter,False,38,21.0,101.0,True,True
+Sunrisers Hyderabad,Keep,Heinrich Klaasen,Wicket-keeper batter,True,35,23.0,84.0,True,True
+Sunrisers Hyderabad,Keep,Abhishek Sharma,All-rounder,False,26,14.0,44.0,True,True
+Sunrisers Hyderabad,Release / not needed,Khaleel Ahmed,Bowler,False,28,4.8,0.0,True,False
+Sunrisers Hyderabad,Release / not needed,Nathan Ellis,Bowler,True,32,2.0,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,T. Natarajan,Bowler,False,35,5.0,-14.0,True,False
+Sunrisers Hyderabad,Release / not needed,Pat Cummins,Bowler,True,33,18.0,-11.0,True,False
+Sunrisers Hyderabad,Release / not needed,Travis Head,Batter,True,32,14.0,25.0,True,False
+Sunrisers Hyderabad,Release / not needed,Ishan Kishan,Wicket-keeper batter,False,28,11.25,36.0,True,False
+Sunrisers Hyderabad,Release / not needed,Harshal Patel,Bowler,False,35,8.0,-1.0,True,False
+Sunrisers Hyderabad,Release / not needed,Nitish Kumar Reddy,All-rounder,False,23,6.0,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Gerald Coetzee,Bowler,True,26,2.0,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Salil Arora,Wicket-keeper batter,False,24,1.5,-8.0,True,False
+Sunrisers Hyderabad,Release / not needed,David Payne,Bowler,True,35,1.5,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Eshan Malinga,Bowler,True,25,1.2,6.0,True,False
+Sunrisers Hyderabad,Release / not needed,Jaydev Unadkat,Bowler,False,35,1.0,-9.0,True,False
+Sunrisers Hyderabad,Release / not needed,Brydon Carse,Bowler,True,31,1.0,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Kamindu Mendis,Bowler,True,28,0.75,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Dilshan Madushanka,Bowler,True,26,0.75,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Shivam Mavi,Bowler,False,27,0.75,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,RS Ambrish,Bowler,False,19,0.45,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Harsh Dubey,Bowler,False,24,0.3,-8.0,True,False
+Sunrisers Hyderabad,Release / not needed,Smaran Ravichandran,Bowler,False,23,0.3,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Praful Hinge,Bowler,False,24,0.3,-6.0,True,False
+Sunrisers Hyderabad,Release / not needed,Krains Fuletra,All-rounder,False,22,0.3,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Sakib Hussain,Bowler,False,21,0.3,-7.0,True,False
+Sunrisers Hyderabad,Release / not needed,Shivang Kumar,Bowler,False,24,0.3,-19.0,True,False
+Sunrisers Hyderabad,Release / not needed,Amit Kumar,Bowler,False,24,0.3,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Onkar Tarmale,Bowler,False,24,0.3,0.0,False,False
+Sunrisers Hyderabad,Release / not needed,Aniket Verma,Batter,False,24,0.3,-3.0,True,False

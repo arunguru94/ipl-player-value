@@ -1,0 +1,81 @@
+team,player,from_team,role,overseas,age,price_crore,forecast_impact_2027,has_forecast,fit_gain,in_best_xi_if_added,squad_cost_change_crore,gain_per_extra_crore
+Chennai Super Kings,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,88.6,True,19.0,4.7
+Chennai Super Kings,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,87.2,True,22.8,3.8
+Chennai Super Kings,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,80.9,True,17.0,4.8
+Chennai Super Kings,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,75.3,True,4.5,16.7
+Chennai Super Kings,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,72.4,True,10.0,7.2
+Chennai Super Kings,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,61.5,True,12.5,4.9
+Chennai Super Kings,Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.0,True,49.1,True,6.0,8.2
+Chennai Super Kings,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,43.4,True,11.8,3.7
+Delhi Capitals,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,83.8,True,11.2,7.5
+Delhi Capitals,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,83.2,True,26.3,3.2
+Delhi Capitals,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,76.8,True,20.6,3.7
+Delhi Capitals,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,71.2,True,8.1,8.8
+Delhi Capitals,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,57.5,True,16.1,3.6
+Delhi Capitals,Abhishek Sharma,Sunrisers Hyderabad,All-rounder,False,26,14.0,39.0,True,39.1,True,13.6,2.9
+Delhi Capitals,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,38.6,True,4.0,9.6
+Delhi Capitals,Nicholas Pooran,Lucknow Super Giants,Batter,True,31,21.0,41.0,True,36.4,True,9.2,4.0
+Gujarat Titans,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,89.6,True,21.0,4.3
+Gujarat Titans,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,88.1,True,24.8,3.6
+Gujarat Titans,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,81.8,True,19.0,4.3
+Gujarat Titans,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,73.4,True,12.0,6.1
+Gujarat Titans,Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.0,True,50.0,True,8.0,6.2
+Gujarat Titans,Nicholas Pooran,Lucknow Super Giants,Batter,True,31,21.0,41.0,True,42.2,True,19.0,2.2
+Gujarat Titans,Abhishek Sharma,Sunrisers Hyderabad,All-rounder,False,26,14.0,39.0,True,39.8,True,12.0,3.3
+Gujarat Titans,Rinku Singh,Kolkata Knight Riders,Batter,False,29,13.0,37.0,True,37.6,True,11.0,3.4
+Kolkata Knight Riders,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,87.2,True,2.3,37.9
+Kolkata Knight Riders,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,86.3,True,6.8,12.7
+Kolkata Knight Riders,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,80.0,True,1.0,80.0
+Kolkata Knight Riders,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,74.4,True,-11.5,
+Kolkata Knight Riders,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,73.6,True,-6.7,
+Kolkata Knight Riders,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,60.6,True,-3.5,
+Kolkata Knight Riders,Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.0,True,45.7,True,-10.0,
+Kolkata Knight Riders,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,42.0,True,-5.0,
+Lucknow Super Giants,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,89.8,True,22.0,4.1
+Lucknow Super Giants,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,89.0,True,25.8,3.4
+Lucknow Super Giants,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,82.7,True,20.0,4.1
+Lucknow Super Giants,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,77.1,True,7.5,10.3
+Lucknow Super Giants,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,74.3,True,13.0,5.7
+Lucknow Super Giants,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,63.3,True,15.5,4.1
+Lucknow Super Giants,Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.0,True,50.3,True,9.0,5.6
+Lucknow Super Giants,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,44.6,True,14.8,3.0
+Mumbai Indians,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,87.9,True,22.4,3.9
+Mumbai Indians,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,87.2,True,26.0,3.4
+Mumbai Indians,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,80.9,True,20.2,4.0
+Mumbai Indians,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,75.3,True,7.8,9.7
+Mumbai Indians,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,72.4,True,13.4,5.4
+Mumbai Indians,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,61.5,True,15.8,3.9
+Mumbai Indians,Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.0,True,48.3,True,9.2,5.2
+Mumbai Indians,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,42.7,True,15.1,2.8
+Punjab Kings,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,89.9,True,21.0,4.3
+Punjab Kings,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,82.1,True,19.0,4.3
+Punjab Kings,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,76.5,True,6.5,11.8
+Punjab Kings,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,73.7,True,12.0,6.1
+Punjab Kings,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,62.8,True,14.5,4.3
+Punjab Kings,Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.0,True,50.3,True,8.0,6.3
+Punjab Kings,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,44.7,True,13.8,3.2
+Punjab Kings,Nicholas Pooran,Lucknow Super Giants,Batter,True,31,21.0,41.0,True,42.5,True,19.0,2.2
+Rajasthan Royals,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,88.6,True,20.6,4.3
+Rajasthan Royals,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,87.2,True,24.4,3.6
+Rajasthan Royals,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,80.9,True,18.6,4.3
+Rajasthan Royals,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,75.3,True,6.1,12.3
+Rajasthan Royals,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,72.4,True,11.6,6.2
+Rajasthan Royals,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,61.5,True,14.1,4.4
+Rajasthan Royals,Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.0,True,49.1,True,7.6,6.5
+Rajasthan Royals,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,43.4,True,13.4,3.2
+Royal Challengers Bengaluru,Heinrich Klaasen,Sunrisers Hyderabad,Wicket-keeper batter,True,35,23.0,89.0,True,90.0,True,22.7,4.0
+Royal Challengers Bengaluru,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,74.1,True,21.5,3.4
+Royal Challengers Bengaluru,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,73.8,True,13.7,5.4
+Royal Challengers Bengaluru,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,62.2,True,3.3,18.8
+Royal Challengers Bengaluru,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,48.4,True,11.3,4.3
+Royal Challengers Bengaluru,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,44.8,True,15.5,2.9
+Royal Challengers Bengaluru,Nicholas Pooran,Lucknow Super Giants,Batter,True,31,21.0,41.0,True,42.6,True,20.7,2.1
+Royal Challengers Bengaluru,Abhishek Sharma,Sunrisers Hyderabad,All-rounder,False,26,14.0,39.0,True,38.8,True,8.8,4.4
+Sunrisers Hyderabad,Shreyas Iyer,Punjab Kings,Batter,False,31,26.75,87.0,True,87.2,True,20.0,4.4
+Sunrisers Hyderabad,Virat Kohli,Royal Challengers Bengaluru,Batter,False,38,21.0,81.0,True,80.9,True,14.2,5.7
+Sunrisers Hyderabad,Sai Sudharsan,Gujarat Titans,Batter,False,25,8.5,75.0,True,75.3,True,1.8,41.8
+Sunrisers Hyderabad,KL Rahul,Delhi Capitals,Wicket-keeper batter,False,34,14.0,72.0,True,72.4,True,7.2,10.1
+Sunrisers Hyderabad,Shubman Gill,Gujarat Titans,Batter,False,27,16.5,62.0,True,61.5,True,9.8,6.3
+Sunrisers Hyderabad,Tristan Stubbs,Delhi Capitals,Batter,True,26,10.0,49.0,True,49.1,True,2.8,17.5
+Sunrisers Hyderabad,Jos Buttler,Gujarat Titans,Batter,True,36,15.75,43.0,True,43.4,True,8.5,5.1
+Sunrisers Hyderabad,Nicholas Pooran,Lucknow Super Giants,Batter,True,31,21.0,41.0,True,41.2,True,13.8,3.0

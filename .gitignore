@@ -1,0 +1,11 @@
+# regenerable or large: rebuild with the scripts (see README)
+data/raw/ipl_csv2.zip
+data/raw/matches/
+data/processed/ipl.db
+data/processed/balls.csv
+# python / mac
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.env

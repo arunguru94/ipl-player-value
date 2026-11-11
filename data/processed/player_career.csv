@@ -1,0 +1,813 @@
+player,player_id,teams,first_season,last_season,matches,bat_innings,runs,balls_faced,fours,sixes,dismissals,highest,fifties,hundreds,ducks,bat_avg,bat_sr,bowl_innings,legal_balls,runs_conceded,wickets,maidens,dots_bowled,four_wkts,five_wkts,best_bowling,overs,economy,bowl_avg,bowl_sr,player_of_match_awards,catches_or_stumpings
+V Kohli,ba607b88,"Royal Challengers Bangalore, Royal Challengers Bengaluru",2008,2026,282,275.0,9336.0,6926.0,844.0,317.0,231.0,113.0,68.0,9.0,12.0,40.42,134.8,26.0,251.0,368.0,4.0,0.0,52.0,0.0,0.0,2/25,41.5,8.8,92.0,62.8,22,126.0
+RG Sharma,740742ef,"Deccan Chargers, Mumbai Indians",2008,2026,281,276.0,7329.0,5514.0,661.0,324.0,246.0,109.0,49.0,2.0,19.0,29.79,132.92,32.0,339.0,453.0,15.0,0.0,88.0,1.0,0.0,4/6,56.3,8.02,30.2,22.6,21,101.0
+S Dhawan,0a476045,"Deccan Chargers, Delhi Capitals, Delhi Daredevils, Mumbai Indians, Punjab Kings, Sunrisers Hyderabad",2008,2024,222,221.0,6769.0,5324.0,768.0,153.0,193.0,106.0,51.0,2.0,12.0,35.07,127.14,6.0,48.0,66.0,4.0,0.0,17.0,0.0,0.0,1/7,8.0,8.25,16.5,12.0,12,100.0
+DA Warner,dcce6f09,"Delhi Capitals, Delhi Daredevils, Sunrisers Hyderabad",2009,2024,184,184.0,6565.0,4697.0,663.0,236.0,162.0,126.0,62.0,4.0,11.0,40.52,139.77,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0/2,0.1,12.0,,,18,88.0
+KL Rahul,b17e2f24,"Delhi Capitals, Kings XI Punjab, Lucknow Super Giants, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",2013,2026,160,150.0,5815.0,4179.0,508.0,239.0,126.0,152.0,45.0,6.0,5.0,46.15,139.15,,,,,,,,,,,,,,17,91.0
+SK Raina,1dc12ab9,"Chennai Super Kings, Gujarat Lions",2008,2021,204,200.0,5528.0,4043.0,506.0,203.0,170.0,100.0,39.0,1.0,8.0,32.52,136.73,69.0,908.0,1118.0,25.0,2.0,280.0,0.0,0.0,2/0,151.2,7.39,44.72,36.3,14,106.0
+MS Dhoni,4a8a2e3b,"Chennai Super Kings, Rising Pune Supergiant, Rising Pune Supergiants",2008,2025,277,242.0,5439.0,3957.0,375.0,264.0,142.0,84.0,24.0,0.0,6.0,38.3,137.45,,,,,,,,,,,,,,18,205.0
+AM Rahane,29e95537,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Mumbai Indians, Rajasthan Royals, Rising Pune Supergiant, Rising Pune Supergiants",2008,2026,212,197.0,5367.0,4273.0,539.0,141.0,178.0,105.0,35.0,2.0,15.0,30.15,125.6,1.0,6.0,5.0,1.0,0.0,2.0,0.0,0.0,1/5,1.0,5.0,5.0,6.0,13,85.0
+SV Samson,a4cc73aa,"Chennai Super Kings, Delhi Daredevils, Rajasthan Royals",2013,2026,190,186.0,5181.0,3671.0,432.0,243.0,164.0,119.0,27.0,5.0,12.0,31.59,141.13,,,,,,,,,,,,,,14,109.0
+AB de Villiers,c4487b84,"Delhi Daredevils, Royal Challengers Bangalore",2008,2021,183,170.0,5162.0,3403.0,413.0,251.0,130.0,133.0,40.0,3.0,10.0,39.71,151.69,,,,,,,,,,,,,,25,128.0
+CH Gayle,db584dad,"Kings XI Punjab, Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore",2009,2021,141,141.0,4965.0,3333.0,404.0,357.0,125.0,175.0,31.0,6.0,8.0,39.72,148.96,38.0,554.0,729.0,18.0,0.0,180.0,0.0,0.0,3/21,92.2,7.9,40.5,30.8,22,29.0
+RV Uthappa,1c17e270,"Chennai Super Kings, Kolkata Knight Riders, Mumbai Indians, Pune Warriors, Rajasthan Royals, Royal Challengers Bangalore",2008,2022,205,197.0,4952.0,3799.0,481.0,182.0,180.0,88.0,27.0,0.0,8.0,27.51,130.35,,,,,,,,,,,,,,7,124.0
+KD Karthik,c03f1114,"Delhi Daredevils, Gujarat Lions, Kings XI Punjab, Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bangalore, Royal Challengers Bengaluru",2008,2024,257,234.0,4842.0,3577.0,466.0,161.0,184.0,97.0,22.0,0.0,18.0,26.32,135.36,,,,,,,,,,,,,,7,182.0
+F du Plessis,3355b542,"Chennai Super Kings, Delhi Capitals, Rising Pune Supergiant, Rising Pune Supergiants, Royal Challengers Bangalore, Royal Challengers Bengaluru",2012,2025,154,147.0,4773.0,3515.0,439.0,174.0,136.0,96.0,39.0,0.0,7.0,35.1,135.79,1.0,6.0,16.0,0.0,0.0,0.0,0.0,0.0,0/16,1.0,16.0,,,10,86.0
+JC Buttler,99b75528,"Gujarat Titans, Mumbai Indians, Rajasthan Royals",2016,2026,138,136.0,4646.0,3103.0,458.0,211.0,117.0,124.0,28.0,7.0,8.0,39.71,149.73,,,,,,,,,,,,,,14,92.0
+Shubman Gill,b4b99816,"Gujarat Titans, Kolkata Knight Riders",2018,2026,134,131.0,4598.0,3236.0,446.0,152.0,114.0,129.0,32.0,5.0,4.0,40.33,142.09,,,,,,,,,,,,,,14,57.0
+SA Yadav,271f83cd,"Kolkata Knight Riders, Mumbai Indians",2012,2026,179,164.0,4581.0,3083.0,482.0,178.0,136.0,103.0,31.0,2.0,12.0,33.68,148.59,1.0,6.0,8.0,0.0,0.0,2.0,0.0,0.0,0/8,1.0,8.0,,,10,77.0
+AT Rayudu,70d205c9,"Chennai Super Kings, Mumbai Indians",2010,2023,204,187.0,4348.0,3409.0,359.0,173.0,155.0,100.0,22.0,1.0,15.0,28.05,127.54,,,,,,,,,,,,,,10,66.0
+SS Iyer,85ec8e33,"Delhi Capitals, Delhi Daredevils, Kolkata Knight Riders, Punjab Kings",2015,2026,147,145.0,4229.0,3093.0,353.0,182.0,118.0,101.0,32.0,1.0,7.0,35.84,136.73,1.0,6.0,7.0,0.0,0.0,4.0,0.0,0.0,0/7,1.0,7.0,,,11,64.0
+G Gambhir,bb345e0b,"Delhi Daredevils, Kolkata Knight Riders",2008,2018,154,152.0,4217.0,3404.0,492.0,59.0,136.0,93.0,36.0,0.0,12.0,31.01,123.88,,,,,,,,,,,,,,13,28.0
+MK Pandey,93b4fc78,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, Pune Warriors, Royal Challengers Bangalore, Sunrisers Hyderabad",2008,2026,180,164.0,4012.0,3293.0,348.0,117.0,136.0,114.0,22.0,1.0,14.0,29.5,121.83,,,,,,,,,,,,,,6,89.0
+SR Watson,4329fbb5,"Chennai Super Kings, Rajasthan Royals, Royal Challengers Bangalore",2008,2020,145,141.0,3874.0,2809.0,376.0,190.0,125.0,117.0,21.0,4.0,7.0,30.99,137.91,105.0,2029.0,2682.0,92.0,3.0,803.0,1.0,0.0,4/29,338.1,7.93,29.15,22.1,16,38.0
+RR Pant,919a3be2,"Delhi Capitals, Delhi Daredevils, Lucknow Super Giants",2016,2026,139,136.0,3865.0,2633.0,349.0,181.0,115.0,128.0,20.0,2.0,7.0,33.61,146.79,,,,,,,,,,,,,,8,114.0
+Ishan Kishan,752f7486,"Gujarat Lions, Mumbai Indians, Sunrisers Hyderabad",2016,2026,134,127.0,3600.0,2508.0,348.0,166.0,118.0,106.0,23.0,1.0,11.0,30.51,143.54,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0/4,0.1,24.0,,,9,73.0
+RA Jadeja,fe93fd9d,"Chennai Super Kings, Gujarat Lions, Kochi Tuskers Kerala, Rajasthan Royals",2008,2026,267,209.0,3526.0,2699.0,264.0,122.0,121.0,77.0,5.0,0.0,9.0,29.14,130.64,237.0,4254.0,5465.0,180.0,2.0,1342.0,3.0,1.0,5/16,709.0,7.71,30.36,23.6,17,104.0
+Q de Kock,372455c4,"Delhi Daredevils, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, Royal Challengers Bangalore, Sunrisers Hyderabad",2013,2026,118,118.0,3441.0,2550.0,334.0,143.0,110.0,140.0,24.0,3.0,4.0,31.28,134.94,,,,,,,,,,,,,,7,92.0
+KA Pollard,a757b0d8,Mumbai Indians,2010,2022,189,171.0,3412.0,2316.0,218.0,223.0,119.0,87.0,16.0,0.0,5.0,28.67,147.32,107.0,1488.0,2180.0,69.0,0.0,405.0,1.0,0.0,4/44,248.0,8.79,31.59,21.6,14,97.0
+DA Miller,d67d5f00,"Delhi Capitals, Gujarat Titans, Kings XI Punjab, Lucknow Super Giants, Rajasthan Royals",2012,2026,152,145.0,3288.0,2357.0,235.0,152.0,92.0,101.0,14.0,1.0,5.0,35.74,139.5,,,,,,,,,,,,,,5,92.0
+YK Pathan,3c6ffae8,"Kolkata Knight Riders, Rajasthan Royals, Sunrisers Hyderabad",2008,2019,174,154.0,3204.0,2241.0,262.0,159.0,110.0,100.0,13.0,1.0,9.0,29.13,142.97,82.0,1147.0,1415.0,42.0,1.0,393.0,0.0,0.0,3/20,191.1,7.4,33.69,27.3,16,41.0
+N Rana,fb2d1dda,"Delhi Capitals, Kolkata Knight Riders, Mumbai Indians, Rajasthan Royals",2016,2026,127,121.0,3078.0,2235.0,288.0,151.0,112.0,91.0,22.0,0.0,8.0,27.48,137.72,27.0,216.0,325.0,10.0,1.0,65.0,0.0,0.0,2/11,36.0,9.03,32.5,21.6,6,29.0
+HH Pandya,dbe50b21,"Gujarat Titans, Mumbai Indians",2015,2026,162,150.0,2955.0,2020.0,228.0,156.0,106.0,91.0,10.0,0.0,6.0,27.88,146.29,116.0,1764.0,2751.0,82.0,0.0,584.0,0.0,1.0,5/36,294.0,9.36,33.55,21.5,8,68.0
+WP Saha,fe11caa6,"Chennai Super Kings, Gujarat Titans, Kings XI Punjab, Kolkata Knight Riders, Sunrisers Hyderabad",2008,2024,169,145.0,2934.0,2300.0,296.0,87.0,121.0,115.0,13.0,1.0,7.0,24.25,127.57,,,,,,,,,,,,,,5,119.0
+BB McCullum,b8a55852,"Chennai Super Kings, Gujarat Lions, Kochi Tuskers Kerala, Kolkata Knight Riders, Royal Challengers Bangalore",2008,2018,109,109.0,2880.0,2186.0,293.0,130.0,104.0,158.0,13.0,2.0,6.0,27.69,131.75,,,,,,,,,,,,,,5,44.0
+PA Patel,b5da6c24,"Chennai Super Kings, Deccan Chargers, Kochi Tuskers Kerala, Mumbai Indians, Royal Challengers Bangalore, Sunrisers Hyderabad",2008,2019,139,137.0,2848.0,2358.0,365.0,49.0,126.0,81.0,13.0,0.0,13.0,22.6,120.78,,,,,,,,,,,,,,5,85.0
+RD Gaikwad,45a43fe2,Chennai Super Kings,2020,2026,85,84.0,2839.0,2093.0,260.0,107.0,74.0,108.0,22.0,2.0,7.0,38.36,135.64,,,,,,,,,,,,,,12,44.0
+GJ Maxwell,b681e71e,"Delhi Daredevils, Kings XI Punjab, Mumbai Indians, Punjab Kings, Royal Challengers Bangalore, Royal Challengers Bengaluru",2012,2025,141,135.0,2819.0,1817.0,237.0,161.0,118.0,95.0,18.0,0.0,19.0,23.89,155.15,85.0,1022.0,1413.0,41.0,1.0,328.0,0.0,0.0,2/15,170.2,8.3,34.46,24.9,9,52.0
+MA Agarwal,00ea847a,"Delhi Daredevils, Kings XI Punjab, Punjab Kings, Rising Pune Supergiant, Royal Challengers Bangalore, Royal Challengers Bengaluru, Sunrisers Hyderabad",2011,2025,130,125.0,2756.0,2064.0,273.0,100.0,120.0,106.0,13.0,1.0,7.0,22.97,133.53,,,,,,,,,,,,,,4,59.0
+Yuvraj Singh,1c914163,"Delhi Daredevils, Kings XI Punjab, Mumbai Indians, Pune Warriors, Royal Challengers Bangalore, Sunrisers Hyderabad",2008,2019,132,126.0,2750.0,2120.0,217.0,149.0,111.0,83.0,13.0,0.0,4.0,24.77,129.72,73.0,869.0,1077.0,36.0,0.0,258.0,2.0,0.0,4/29,144.5,7.44,29.92,24.1,5,29.0
+V Sehwag,8ba8195d,"Delhi Daredevils, Kings XI Punjab",2008,2015,104,104.0,2728.0,1755.0,334.0,106.0,99.0,122.0,16.0,2.0,7.0,27.56,155.44,15.0,136.0,235.0,6.0,0.0,44.0,0.0,0.0,2/18,22.4,10.37,39.17,22.7,11,34.0
+AD Russell,bbd41817,"Delhi Daredevils, Kolkata Knight Riders",2012,2025,139,115.0,2651.0,1522.0,186.0,223.0,94.0,88.0,12.0,0.0,6.0,28.2,174.18,121.0,1806.0,2863.0,123.0,5.0,612.0,2.0,1.0,5/15,301.0,9.51,23.28,14.7,16,36.0
+M Vijay,4b57e452,"Chennai Super Kings, Delhi Daredevils, Kings XI Punjab",2009,2020,106,106.0,2619.0,2149.0,247.0,91.0,101.0,127.0,13.0,2.0,5.0,25.93,121.87,4.0,36.0,49.0,0.0,0.0,8.0,0.0,0.0,0/8,6.0,8.17,,,6,47.0
+YBK Jaiswal,6c19c6e5,Rajasthan Royals,2020,2026,82,82.0,2593.0,1697.0,310.0,110.0,77.0,124.0,18.0,2.0,4.0,33.68,152.8,1.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0/6,0.1,36.0,,,6,32.0
+N Pooran,3241e3fd,"Kings XI Punjab, Lucknow Super Giants, Punjab Kings, Sunrisers Hyderabad",2019,2026,104,101.0,2527.0,1540.0,168.0,186.0,80.0,87.0,15.0,0.0,9.0,31.59,164.09,,,,,,,,,,,,,,4,49.0
+B Sai Sudharsan,d5130a30,Gujarat Titans,2022,2026,57,57.0,2515.0,1686.0,258.0,83.0,52.0,108.0,20.0,3.0,1.0,48.37,149.17,,,,,,,,,,,,,,4,14.0
+SPD Smith,30a45b23,"Delhi Capitals, Pune Warriors, Rajasthan Royals, Rising Pune Supergiant, Rising Pune Supergiants",2012,2021,103,93.0,2485.0,1940.0,225.0,60.0,72.0,101.0,11.0,1.0,1.0,34.51,128.09,1.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0/5,0.2,15.0,,,5,54.0
+SE Marsh,508a1ea7,Kings XI Punjab,2008,2017,71,69.0,2477.0,1866.0,266.0,78.0,62.0,115.0,20.0,1.0,1.0,39.95,132.74,,,,,,,,,,,,,,9,26.0
+JH Kallis,86dc8f2e,"Kolkata Knight Riders, Royal Challengers Bangalore",2008,2014,98,96.0,2427.0,2222.0,255.0,44.0,85.0,89.0,17.0,0.0,9.0,28.55,109.23,89.0,1742.0,2293.0,65.0,3.0,601.0,0.0,0.0,3/13,290.2,7.9,35.28,26.8,10,30.0
+DR Smith,35205dfc,"Chennai Super Kings, Deccan Chargers, Gujarat Lions, Mumbai Indians",2008,2017,91,89.0,2385.0,1764.0,245.0,117.0,84.0,87.0,17.0,0.0,8.0,28.39,135.2,46.0,539.0,810.0,26.0,0.0,168.0,1.0,0.0,4/8,89.5,9.02,31.15,20.7,11,41.0
+Abhishek Sharma,f29185a1,"Delhi Daredevils, Sunrisers Hyderabad",2018,2026,92,89.0,2379.0,1389.0,224.0,144.0,81.0,141.0,13.0,2.0,6.0,29.37,171.27,36.0,365.0,550.0,11.0,0.0,97.0,0.0,0.0,2/4,60.5,9.04,50.0,33.2,7,35.0
+SR Tendulkar,d2c2b2d5,Mumbai Indians,2008,2013,78,78.0,2334.0,1948.0,295.0,29.0,69.0,100.0,13.0,1.0,4.0,33.83,119.82,4.0,36.0,58.0,0.0,0.0,4.0,0.0,0.0,0/7,6.0,9.67,,,8,23.0
+RA Tripathi,77255a9e,"Chennai Super Kings, Kolkata Knight Riders, Rajasthan Royals, Rising Pune Supergiant, Sunrisers Hyderabad",2017,2025,100,98.0,2291.0,1662.0,229.0,85.0,88.0,93.0,12.0,0.0,4.0,26.03,137.85,1.0,6.0,12.0,0.0,0.0,0.0,0.0,0.0,0/12,1.0,12.0,,,4,34.0
+D Padikkal,2c25d4f5,"Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bangalore, Royal Challengers Bengaluru",2020,2026,90,89.0,2270.0,1705.0,239.0,80.0,85.0,101.0,14.0,1.0,6.0,26.71,133.14,,,,,,,,,,,,,,2,42.0
+MP Stoinis,d9273ee7,"Delhi Capitals, Kings XI Punjab, Lucknow Super Giants, Punjab Kings, Royal Challengers Bangalore",2016,2026,123,108.0,2242.0,1520.0,181.0,117.0,78.0,124.0,10.0,1.0,10.0,28.74,147.5,75.0,935.0,1547.0,46.0,0.0,249.0,1.0,0.0,4/15,155.5,9.93,33.63,20.3,9,26.0
+R Dravid,0184dc35,"Rajasthan Royals, Royal Challengers Bangalore",2008,2013,89,82.0,2174.0,1882.0,268.0,28.0,77.0,75.0,11.0,0.0,3.0,28.23,115.52,,,,,,,,,,,,,,2,18.0
+S Dube,a4e37e47,"Chennai Super Kings, Rajasthan Royals, Royal Challengers Bangalore",2019,2026,92,87.0,2129.0,1464.0,132.0,137.0,68.0,95.0,10.0,0.0,3.0,31.31,145.42,19.0,154.0,277.0,6.0,0.0,30.0,0.0,0.0,2/15,25.4,10.79,46.17,25.7,2,27.0
+KS Williamson,d027ba9f,"Gujarat Titans, Sunrisers Hyderabad",2015,2024,79,77.0,2128.0,1694.0,185.0,64.0,60.0,89.0,18.0,0.0,2.0,35.47,125.62,2.0,18.0,31.0,0.0,0.0,2.0,0.0,0.0,0/7,3.0,10.33,,,6,40.0
+H Klaasen,235c2bb6,"Rajasthan Royals, Royal Challengers Bangalore, Sunrisers Hyderabad",2018,2026,64,60.0,2104.0,1262.0,146.0,120.0,50.0,105.0,13.0,2.0,1.0,42.08,166.72,,,,,,,,,,,,,,2,42.0
+AJ Finch,b8d490fd,"Delhi Daredevils, Gujarat Lions, Kings XI Punjab, Kolkata Knight Riders, Mumbai Indians, Pune Warriors, Rajasthan Royals, Royal Challengers Bangalore, Sunrisers Hyderabad",2010,2022,92,90.0,2091.0,1631.0,214.0,78.0,84.0,88.0,15.0,0.0,8.0,24.89,128.2,5.0,43.0,67.0,1.0,0.0,13.0,0.0,0.0,1/11,7.1,9.35,67.0,43.0,5,28.0
+AR Patel,2e171977,"Delhi Capitals, Kings XI Punjab",2014,2026,177,135.0,2089.0,1562.0,146.0,100.0,97.0,66.0,4.0,0.0,9.0,21.54,133.74,173.0,3579.0,4431.0,139.0,2.0,1165.0,1.0,0.0,4/21,596.3,7.43,31.88,25.7,8,79.0
+AC Gilchrist,2b6e6dec,"Deccan Chargers, Kings XI Punjab",2008,2013,80,80.0,2069.0,1495.0,239.0,92.0,76.0,109.0,11.0,2.0,7.0,27.22,138.39,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1/0,0.1,0.0,0.0,1.0,7,67.0
+JP Duminy,2e8994e7,"Deccan Chargers, Delhi Daredevils, Mumbai Indians",2009,2018,83,77.0,2029.0,1636.0,126.0,79.0,51.0,78.0,14.0,0.0,1.0,39.78,124.02,49.0,678.0,834.0,23.0,0.0,234.0,1.0,0.0,4/17,113.0,7.38,36.26,29.5,4,30.0
+KH Pandya,5b8c830e,"Lucknow Super Giants, Mumbai Indians, Royal Challengers Bengaluru",2016,2026,158,127.0,1982.0,1481.0,173.0,76.0,87.0,86.0,3.0,0.0,7.0,22.78,133.83,147.0,2701.0,3410.0,107.0,3.0,845.0,1.0,0.0,4/45,450.1,7.57,31.87,25.2,9,49.0
+MEK Hussey,48fd7349,"Chennai Super Kings, Mumbai Indians",2008,2015,59,58.0,1977.0,1612.0,198.0,52.0,51.0,116.0,15.0,1.0,1.0,38.76,122.64,,,,,,,,,,,,,,12,26.0
+PP Shaw,8b3e9c7c,"Delhi Capitals, Delhi Daredevils",2018,2024,79,79.0,1892.0,1283.0,238.0,61.0,79.0,99.0,14.0,0.0,7.0,23.95,147.47,,,,,,,,,,,,,,4,18.0
+R Parag,04a418e8,Rajasthan Royals,2019,2026,97,86.0,1875.0,1300.0,135.0,108.0,73.0,95.0,9.0,0.0,3.0,25.68,144.23,34.0,319.0,515.0,9.0,0.0,70.0,0.0,0.0,1/5,53.1,9.69,57.22,35.4,2,49.0
+P Simran Singh,9418198b,"Kings XI Punjab, Punjab Kings",2019,2026,66,65.0,1865.0,1189.0,196.0,94.0,63.0,103.0,14.0,1.0,5.0,29.6,156.85,,,,,,,,,,,,,,3,15.0
+Tilak Varma,b0482a1d,Mumbai Indians,2022,2026,68,65.0,1858.0,1284.0,143.0,91.0,52.0,101.0,10.0,1.0,2.0,35.73,144.7,4.0,22.0,28.0,0.0,0.0,8.0,0.0,0.0,0/6,3.4,7.64,,,2,44.0
+MR Marsh,3d8feaf8,"Deccan Chargers, Delhi Capitals, Lucknow Super Giants, Pune Warriors, Rising Pune Supergiants, Sunrisers Hyderabad",2010,2026,68,62.0,1855.0,1249.0,155.0,111.0,60.0,117.0,12.0,2.0,7.0,30.92,148.52,34.0,560.0,795.0,37.0,2.0,181.0,2.0,0.0,4/25,93.2,8.52,21.49,15.1,6,15.0
+SP Narine,9d430b40,Kolkata Knight Riders,2012,2026,201,126.0,1820.0,1101.0,191.0,120.0,104.0,109.0,7.0,1.0,18.0,17.5,165.3,200.0,4651.0,5261.0,207.0,5.0,1784.0,7.0,1.0,5/19,775.1,6.79,25.42,22.5,18,29.0
+DPMD Jayawardene,d18f9182,"Delhi Daredevils, Kings XI Punjab, Kochi Tuskers Kerala",2008,2013,80,78.0,1802.0,1462.0,200.0,39.0,63.0,110.0,10.0,1.0,2.0,28.6,123.26,,,,,,,,,,,,,,5,32.0
+KK Nair,944533a5,"Delhi Capitals, Delhi Daredevils, Kings XI Punjab, Rajasthan Royals, Royal Challengers Bangalore",2013,2026,86,78.0,1712.0,1304.0,188.0,49.0,73.0,89.0,11.0,0.0,5.0,23.45,131.29,,,,,,,,,,,,,,3,29.0
+Mandeep Singh,c3a96caf,"Delhi Capitals, Kings XI Punjab, Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore",2010,2023,111,98.0,1706.0,1388.0,176.0,38.0,82.0,77.0,6.0,0.0,15.0,20.8,122.91,2.0,12.0,26.0,0.0,0.0,1.0,0.0,0.0,0/8,2.0,13.0,,,3,38.0
+MK Tiwary,26e5cabf,"Delhi Daredevils, Kings XI Punjab, Kolkata Knight Riders, Rising Pune Supergiant",2008,2018,98,85.0,1695.0,1449.0,156.0,40.0,59.0,75.0,7.0,0.0,8.0,28.73,116.98,6.0,42.0,83.0,1.0,0.0,9.0,0.0,0.0,1/11,7.0,11.86,83.0,42.0,3,47.0
+KC Sangakkara,6b71e6cf,"Deccan Chargers, Kings XI Punjab, Sunrisers Hyderabad",2008,2013,71,68.0,1687.0,1392.0,195.0,27.0,65.0,94.0,10.0,0.0,4.0,25.95,121.19,,,,,,,,,,,,,,5,54.0
+VR Iyer,a24be938,"Kolkata Knight Riders, Royal Challengers Bengaluru",2021,2026,68,62.0,1677.0,1181.0,157.0,78.0,53.0,104.0,13.0,1.0,2.0,31.64,142.0,9.0,81.0,143.0,3.0,0.0,15.0,0.0,0.0,2/29,13.3,10.59,47.67,27.0,4,23.0
+JM Bairstow,abb83e27,"Mumbai Indians, Punjab Kings, Sunrisers Hyderabad",2019,2025,52,52.0,1674.0,1146.0,173.0,74.0,48.0,114.0,9.0,2.0,3.0,34.88,146.07,,,,,,,,,,,,,,6,33.0
+AK Markram,6a26221c,"Lucknow Super Giants, Punjab Kings, Sunrisers Hyderabad",2021,2026,69,66.0,1671.0,1233.0,131.0,68.0,55.0,68.0,10.0,0.0,3.0,30.38,135.52,24.0,223.0,357.0,6.0,0.0,55.0,0.0,0.0,2/30,37.1,9.61,59.5,37.2,1,39.0
+RM Patidar,c740ea83,"Royal Challengers Bangalore, Royal Challengers Bengaluru",2021,2026,57,52.0,1612.0,980.0,106.0,110.0,48.0,112.0,14.0,1.0,1.0,33.58,164.49,,,,,,,,,,,,,,5,20.0
+SO Hetmyer,48a1d7b7,"Delhi Capitals, Rajasthan Royals, Royal Challengers Bangalore",2019,2026,94,86.0,1560.0,1045.0,98.0,96.0,57.0,75.0,5.0,0.0,4.0,27.37,149.28,,,,,,,,,,,,,,3,50.0
+DJ Bravo,87e562a9,"Chennai Super Kings, Gujarat Lions, Mumbai Indians",2008,2022,160,113.0,1560.0,1204.0,120.0,66.0,69.0,70.0,5.0,0.0,5.0,22.61,129.57,158.0,3120.0,4360.0,183.0,7.0,998.0,2.0,0.0,4/22,520.0,8.38,23.83,17.0,4,69.0
+TM Head,12b610c2,"Royal Challengers Bangalore, Sunrisers Hyderabad",2016,2026,53,52.0,1556.0,915.0,172.0,78.0,48.0,102.0,10.0,1.0,6.0,32.42,170.05,7.0,64.0,120.0,3.0,1.0,10.0,0.0,0.0,2/30,10.4,11.25,40.0,21.3,3,6.0
+NV Ojha,890946a0,"Delhi Daredevils, Rajasthan Royals, Sunrisers Hyderabad",2009,2018,113,94.0,1554.0,1313.0,121.0,79.0,75.0,94.0,6.0,0.0,8.0,20.72,118.35,,,,,,,,,,,,,,1,75.0
+DJ Hooda,73ad96ed,"Chennai Super Kings, Kings XI Punjab, Lucknow Super Giants, Punjab Kings, Rajasthan Royals, Sunrisers Hyderabad",2015,2025,125,101.0,1496.0,1172.0,98.0,62.0,85.0,64.0,8.0,0.0,5.0,17.6,127.65,34.0,379.0,546.0,10.0,0.0,102.0,0.0,0.0,2/16,63.1,8.64,54.6,37.9,1,59.0
+SS Tiwary,709b0bac,"Delhi Daredevils, Mumbai Indians, Rising Pune Supergiants, Royal Challengers Bangalore",2008,2021,92,73.0,1494.0,1244.0,111.0,50.0,52.0,61.0,8.0,0.0,1.0,28.73,120.1,,,,,,,,,,,,,,0,25.0
+S Badrinath,3576e47e,Chennai Super Kings,2008,2013,94,67.0,1441.0,1212.0,154.0,28.0,47.0,71.0,11.0,0.0,6.0,30.66,118.89,,,,,,,,,,,,,,1,16.0
+EJG Morgan,d2a6c0e6,"Kings XI Punjab, Kolkata Knight Riders, Royal Challengers Bangalore, Sunrisers Hyderabad",2010,2021,83,75.0,1405.0,1146.0,112.0,64.0,62.0,68.0,5.0,0.0,6.0,22.66,122.6,,,,,,,,,,,,,,2,36.0
+BJ Hodge,b57f8a9a,"Kochi Tuskers Kerala, Kolkata Knight Riders, Rajasthan Royals",2008,2014,66,63.0,1400.0,1118.0,122.0,43.0,42.0,73.0,6.0,0.0,3.0,33.33,125.22,20.0,234.0,303.0,17.0,0.0,75.0,1.0,0.0,4/13,39.0,7.77,17.82,13.8,6,22.0
+RK Singh,0a509d6b,Kolkata Knight Riders,2018,2026,72,62.0,1394.0,955.0,114.0,67.0,41.0,83.0,6.0,0.0,1.0,34.0,145.97,,,,,,,,,,,,,,4,51.0
+SC Ganguly,725529bc,"Kolkata Knight Riders, Pune Warriors",2008,2012,59,56.0,1349.0,1263.0,137.0,42.0,53.0,91.0,7.0,0.0,4.0,25.45,106.81,20.0,276.0,363.0,10.0,0.0,75.0,0.0,0.0,2/21,46.0,7.89,36.3,27.6,5,22.0
+CA Lynn,45eda7c8,"Deccan Chargers, Kolkata Knight Riders, Mumbai Indians",2012,2021,42,42.0,1329.0,945.0,132.0,66.0,39.0,93.0,10.0,0.0,3.0,34.08,140.63,,,,,,,,,,,,,,4,12.0
+DJ Hussey,fd835ab3,"Chennai Super Kings, Kings XI Punjab, Kolkata Knight Riders",2008,2014,64,61.0,1322.0,1075.0,90.0,60.0,49.0,71.0,5.0,0.0,4.0,26.98,122.98,26.0,317.0,474.0,8.0,0.0,86.0,0.0,0.0,2/2,52.5,8.97,59.25,39.6,2,25.0
+R Tewatia,39a2dfa8,"Delhi Capitals, Delhi Daredevils, Gujarat Titans, Kings XI Punjab, Rajasthan Royals",2014,2026,124,92.0,1302.0,943.0,110.0,62.0,55.0,68.0,2.0,0.0,4.0,23.67,138.07,52.0,843.0,1111.0,32.0,2.0,264.0,0.0,0.0,3/18,140.3,7.91,34.72,26.3,2,47.0
+PD Salt,3d284ca3,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",2023,2026,40,40.0,1258.0,721.0,138.0,67.0,37.0,89.0,12.0,0.0,4.0,34.0,174.48,,,,,,,,,,,,,,4,32.0
+V Shankar,0994d0ae,"Chennai Super Kings, Delhi Daredevils, Gujarat Titans, Sunrisers Hyderabad",2014,2025,78,65.0,1233.0,950.0,88.0,48.0,47.0,69.0,7.0,0.0,2.0,26.23,129.79,22.0,238.0,344.0,9.0,0.0,80.0,0.0,0.0,2/19,39.4,8.67,38.22,26.4,0,35.0
+KM Jadhav,99d63244,"Chennai Super Kings, Delhi Daredevils, Kochi Tuskers Kerala, Royal Challengers Bangalore, Sunrisers Hyderabad",2010,2023,95,81.0,1208.0,981.0,102.0,40.0,54.0,69.0,4.0,0.0,6.0,22.37,123.14,,,,,,,,,,,,,,2,38.0
+Dhruv Jurel,bcf325d2,Rajasthan Royals,2023,2026,57,51.0,1195.0,775.0,98.0,62.0,38.0,81.0,10.0,0.0,5.0,31.45,154.19,,,,,,,,,,,,,,0,38.0
+A Badoni,872b03f7,Lucknow Super Giants,2022,2026,66,56.0,1178.0,836.0,96.0,47.0,46.0,74.0,7.0,0.0,5.0,25.61,140.91,8.0,41.0,63.0,4.0,1.0,8.0,0.0,0.0,2/4,6.5,9.22,15.75,10.2,0,18.0
+MM Ali,bb351c23,"Chennai Super Kings, Kolkata Knight Riders, Royal Challengers Bangalore",2018,2025,73,59.0,1167.0,835.0,95.0,67.0,53.0,93.0,6.0,0.0,6.0,22.02,139.76,57.0,854.0,1029.0,41.0,1.0,295.0,1.0,0.0,4/26,142.2,7.23,25.1,20.8,2,22.0
+TM Dilshan,5bdcdb72,"Delhi Daredevils, Royal Challengers Bangalore",2008,2013,51,50.0,1153.0,1007.0,140.0,24.0,43.0,76.0,9.0,0.0,6.0,26.81,114.5,25.0,271.0,366.0,5.0,0.0,79.0,0.0,0.0,1/3,45.1,8.1,73.2,54.2,1,21.0
+TH David,f1f99156,"Mumbai Indians, Royal Challengers Bangalore, Royal Challengers Bengaluru",2021,2026,66,59.0,1151.0,650.0,76.0,83.0,35.0,70.0,2.0,0.0,4.0,32.89,177.08,1.0,6.0,18.0,0.0,0.0,1.0,0.0,0.0,0/18,1.0,18.0,,,3,32.0
+IK Pathan,5fa06777,"Delhi Daredevils, Gujarat Lions, Kings XI Punjab, Rising Pune Supergiants, Sunrisers Hyderabad",2008,2017,103,82.0,1139.0,946.0,87.0,37.0,53.0,60.0,1.0,0.0,3.0,21.49,120.4,101.0,2043.0,2649.0,80.0,9.0,835.0,0.0,0.0,3/24,340.3,7.78,33.11,25.5,2,28.0
+JM Sharma,800d2d97,"Punjab Kings, Royal Challengers Bengaluru",2022,2026,71,59.0,1107.0,726.0,86.0,68.0,48.0,85.0,1.0,0.0,3.0,23.06,152.48,,,,,,,,,,,,,,1,66.0
+ML Hayden,d8699ab7,Chennai Super Kings,2008,2010,32,32.0,1107.0,805.0,121.0,44.0,30.0,93.0,8.0,0.0,1.0,36.9,137.52,,,,,,,,,,,,,,4,11.0
+M Vohra,c03e2850,"Kings XI Punjab, Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bangalore",2013,2023,56,51.0,1083.0,829.0,104.0,43.0,49.0,95.0,3.0,0.0,3.0,22.1,130.64,,,,,,,,,,,,,,3,13.0
+DP Conway,df5a6881,Chennai Super Kings,2022,2025,29,28.0,1080.0,773.0,116.0,34.0,25.0,92.0,11.0,0.0,3.0,43.2,139.72,,,,,,,,,,,,,,4,10.0
+LMP Simmons,89f64c19,Mumbai Indians,2014,2017,29,29.0,1079.0,852.0,109.0,44.0,27.0,100.0,11.0,1.0,2.0,39.96,126.64,1.0,18.0,34.0,1.0,0.0,2.0,0.0,0.0,1/34,3.0,11.33,34.0,18.0,3,10.0
+LS Livingstone,50c6bc2b,"Punjab Kings, Rajasthan Royals, Royal Challengers Bengaluru, Sunrisers Hyderabad",2019,2026,51,49.0,1066.0,687.0,70.0,76.0,42.0,94.0,7.0,0.0,3.0,25.38,155.17,27.0,312.0,469.0,13.0,0.0,81.0,0.0,0.0,3/27,52.0,9.02,36.08,24.0,1,25.0
+C Green,eaa76d3c,"Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",2023,2026,43,42.0,1029.0,681.0,84.0,49.0,27.0,100.0,4.0,1.0,1.0,38.11,151.1,39.0,571.0,898.0,23.0,0.0,192.0,0.0,0.0,2/12,95.1,9.44,39.04,24.8,3,18.0
+V Suryavanshi,470f446b,Rajasthan Royals,2025,2026,23,23.0,1028.0,449.0,81.0,96.0,23.0,103.0,6.0,2.0,2.0,44.7,228.95,,,,,,,,,,,,,,4,2.0
+LRPL Taylor,b61a3e1a,"Delhi Daredevils, Pune Warriors, Rajasthan Royals, Royal Challengers Bangalore",2008,2014,55,54.0,1017.0,822.0,66.0,46.0,40.0,81.0,3.0,0.0,3.0,25.42,123.72,2.0,12.0,24.0,0.0,0.0,0.0,0.0,0.0,0/11,2.0,12.0,,,3,18.0
+KP Pietersen,39f01cdb,"Delhi Daredevils, Rising Pune Supergiants, Royal Challengers Bangalore",2009,2016,36,36.0,1001.0,743.0,91.0,40.0,28.0,103.0,4.0,1.0,4.0,35.75,134.72,13.0,174.0,215.0,7.0,0.0,54.0,0.0,0.0,2/31,29.0,7.41,30.71,24.9,3,12.0
+MC Henriques,32198ae0,"Delhi Daredevils, Kolkata Knight Riders, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",2009,2021,62,54.0,1000.0,788.0,87.0,28.0,36.0,74.0,5.0,0.0,2.0,27.78,126.9,60.0,950.0,1289.0,42.0,0.0,306.0,0.0,0.0,3/12,158.2,8.14,30.69,22.6,2,29.0
+SM Curran,e94915e6,"Chennai Super Kings, Kings XI Punjab, Punjab Kings",2019,2025,64,53.0,997.0,731.0,85.0,41.0,40.0,88.0,6.0,0.0,4.0,24.92,136.39,63.0,1253.0,2033.0,59.0,1.0,394.0,1.0,0.0,4/11,208.5,9.74,34.46,21.2,4,24.0
+Y Venugopal Rao,fe763256,"Deccan Chargers, Delhi Daredevils, Sunrisers Hyderabad",2008,2014,65,54.0,985.0,836.0,77.0,37.0,44.0,71.0,3.0,0.0,2.0,22.39,117.82,20.0,216.0,337.0,6.0,0.0,59.0,0.0,0.0,2/23,36.0,9.36,56.17,36.0,0,13.0
+T Stubbs,85b3fab2,"Delhi Capitals, Mumbai Indians",2022,2026,47,43.0,980.0,648.0,69.0,46.0,25.0,71.0,5.0,0.0,2.0,39.2,151.23,5.0,36.0,69.0,4.0,0.0,12.0,0.0,0.0,2/11,6.0,11.5,17.25,9.0,1,25.0
+A Symonds,bd77eb62,"Deccan Chargers, Mumbai Indians",2008,2011,39,36.0,974.0,750.0,74.0,41.0,27.0,117.0,5.0,1.0,0.0,36.07,129.87,30.0,527.0,674.0,20.0,0.0,190.0,0.0,0.0,3/21,87.5,7.67,33.7,26.4,3,20.0
+JA Morkel,c3d35165,"Chennai Super Kings, Delhi Daredevils, Rising Pune Supergiants, Royal Challengers Bangalore",2008,2016,90,68.0,974.0,686.0,61.0,55.0,40.0,73.0,3.0,0.0,3.0,24.35,141.98,87.0,1723.0,2359.0,85.0,3.0,646.0,1.0,0.0,4/32,287.1,8.21,27.75,20.3,2,17.0
+CL White,d0513f63,"Deccan Chargers, Royal Challengers Bangalore, Sunrisers Hyderabad",2008,2013,47,45.0,954.0,755.0,76.0,36.0,36.0,78.0,6.0,0.0,4.0,26.5,126.36,6.0,42.0,86.0,1.0,0.0,8.0,0.0,0.0,1/14,7.0,12.29,86.0,42.0,1,22.0
+BA Stokes,e087956b,"Chennai Super Kings, Rajasthan Royals, Rising Pune Supergiant",2017,2023,45,44.0,935.0,698.0,81.0,32.0,38.0,107.0,2.0,2.0,3.0,24.61,133.95,38.0,689.0,992.0,28.0,2.0,228.0,0.0,0.0,3/15,114.5,8.64,35.43,24.6,5,23.0
+Priyansh Arya,b5797845,Punjab Kings,2025,2026,31,31.0,909.0,471.0,87.0,63.0,31.0,103.0,6.0,1.0,3.0,29.32,192.99,,,,,,,,,,,,,,3,10.0
+Shashank Singh,26989d80,"Punjab Kings, Sunrisers Hyderabad",2022,2026,54,42.0,905.0,560.0,67.0,51.0,25.0,68.0,6.0,0.0,3.0,36.2,161.61,8.0,90.0,140.0,5.0,0.0,21.0,0.0,0.0,2/20,15.0,9.33,28.0,18.0,1,18.0
+Washington Sundar,f19ccfad,"Gujarat Titans, Rising Pune Supergiant, Royal Challengers Bangalore, Sunrisers Hyderabad",2017,2026,83,61.0,888.0,656.0,82.0,28.0,43.0,55.0,3.0,0.0,3.0,20.65,135.37,68.0,1174.0,1520.0,40.0,1.0,385.0,0.0,0.0,3/16,195.4,7.77,38.0,29.4,1,20.0
+HH Gibbs,e1d1b294,"Deccan Chargers, Mumbai Indians",2008,2012,36,36.0,886.0,807.0,83.0,31.0,32.0,69.0,6.0,0.0,4.0,27.69,109.79,,,,,,,,,,,,,,1,22.0
+A Raghuvanshi,d7017798,Kolkata Knight Riders,2024,2026,35,30.0,885.0,608.0,86.0,35.0,26.0,82.0,7.0,0.0,0.0,34.04,145.56,,,,,,,,,,,,,,0,12.0
+STR Binny,bd17b45f,"Mumbai Indians, Rajasthan Royals, Royal Challengers Bangalore",2010,2019,95,68.0,880.0,683.0,66.0,35.0,46.0,48.0,0.0,0.0,7.0,19.13,128.84,63.0,594.0,758.0,22.0,0.0,199.0,0.0,0.0,2/14,99.0,7.66,34.45,27.0,0,19.0
+Abdul Samad,8e514b4c,"Lucknow Super Giants, Sunrisers Hyderabad",2020,2026,71,60.0,857.0,576.0,55.0,55.0,44.0,45.0,0.0,0.0,4.0,19.48,148.78,7.0,57.0,125.0,2.0,0.0,12.0,0.0,0.0,1/9,9.3,13.16,62.5,28.5,0,33.0
+RD Rickelton,e66732f8,Mumbai Indians,2025,2026,26,26.0,836.0,497.0,78.0,55.0,24.0,123.0,5.0,1.0,0.0,34.83,168.21,,,,,,,,,,,,,,2,25.0
+R Ashwin,495d42a5,"Chennai Super Kings, Delhi Capitals, Kings XI Punjab, Rajasthan Royals, Rising Pune Supergiants",2009,2025,219,98.0,833.0,705.0,64.0,29.0,64.0,50.0,1.0,0.0,12.0,13.02,118.16,217.0,4710.0,5652.0,187.0,7.0,1606.0,1.0,0.0,4/34,785.0,7.2,30.22,25.2,6,44.0
+Harbhajan Singh,8b5b6769,"Chennai Super Kings, Kolkata Knight Riders, Mumbai Indians",2008,2021,163,90.0,833.0,604.0,79.0,42.0,55.0,64.0,1.0,0.0,13.0,15.15,137.91,160.0,3416.0,4030.0,150.0,5.0,1263.0,1.0,1.0,5/18,569.2,7.08,26.87,22.8,8,38.0
+MS Bisla,5afd4539,"Kings XI Punjab, Kolkata Knight Riders, Royal Challengers Bangalore",2010,2015,39,39.0,798.0,702.0,93.0,23.0,38.0,92.0,4.0,0.0,3.0,21.0,113.68,,,,,,,,,,,,,,1,27.0
+Shakib Al Hasan,7dc35884,"Kolkata Knight Riders, Sunrisers Hyderabad",2011,2021,71,52.0,793.0,637.0,73.0,21.0,40.0,66.0,2.0,0.0,4.0,19.82,124.49,70.0,1484.0,1839.0,63.0,1.0,504.0,0.0,0.0,3/17,247.2,7.44,29.19,23.6,2,13.0
+Nithish Kumar Reddy,aad0c365,Sunrisers Hyderabad,2023,2026,42,35.0,787.0,541.0,50.0,46.0,27.0,76.0,3.0,0.0,1.0,29.15,145.47,26.0,325.0,577.0,13.0,1.0,92.0,0.0,0.0,2/17,54.1,10.65,44.38,25.0,2,22.0
+N Wadhera,d1a60072,"Mumbai Indians, Punjab Kings",2023,2026,45,37.0,784.0,560.0,64.0,43.0,33.0,70.0,4.0,0.0,2.0,23.76,140.0,2.0,17.0,22.0,0.0,0.0,3.0,0.0,0.0,0/9,2.5,7.76,,,0,14.0
+M Shahrukh Khan,7dcb9bc9,"Gujarat Titans, Punjab Kings",2021,2026,64,54.0,775.0,524.0,49.0,52.0,38.0,58.0,2.0,0.0,3.0,20.39,147.9,3.0,18.0,28.0,1.0,0.0,4.0,0.0,0.0,1/13,3.0,9.33,28.0,18.0,0,28.0
+Abishek Porel,ad3b6e95,Delhi Capitals,2023,2026,36,33.0,769.0,529.0,80.0,28.0,30.0,65.0,4.0,0.0,2.0,25.63,145.37,,,,,,,,,,,,,,0,9.0
+ST Jayasuriya,f233bbb4,Mumbai Indians,2008,2010,30,30.0,768.0,532.0,84.0,39.0,28.0,114.0,4.0,1.0,2.0,27.43,144.36,21.0,294.0,390.0,13.0,1.0,83.0,0.0,0.0,3/14,49.0,7.96,30.0,22.6,2,4.0
+SN Khan,f088b960,"Chennai Super Kings, Delhi Capitals, Kings XI Punjab, Punjab Kings, Royal Challengers Bangalore",2015,2026,58,44.0,746.0,543.0,86.0,20.0,33.0,67.0,2.0,0.0,4.0,22.61,137.38,1.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0/6,0.2,18.0,,,0,16.0
+GC Smith,72861603,"Pune Warriors, Rajasthan Royals",2008,2011,29,29.0,739.0,668.0,94.0,9.0,26.0,91.0,4.0,0.0,3.0,28.42,110.63,,,,,,,,,,,,,,2,7.0
+AD Mathews,896d78ad,"Delhi Daredevils, Kolkata Knight Riders, Pune Warriors",2009,2017,49,42.0,724.0,575.0,44.0,29.0,31.0,65.0,1.0,0.0,3.0,23.35,125.91,44.0,791.0,1079.0,27.0,0.0,224.0,1.0,0.0,4/19,131.5,8.18,39.96,29.3,1,19.0
+Naman Dhir,fffa744b,Mumbai Indians,2024,2026,37,33.0,710.0,433.0,67.0,36.0,26.0,62.0,3.0,0.0,5.0,27.31,163.97,5.0,52.0,76.0,0.0,0.0,11.0,0.0,0.0,0/9,8.4,8.77,,,0,24.0
+TL Suman,aaa1b522,"Deccan Chargers, Mumbai Indians, Pune Warriors",2009,2013,43,40.0,676.0,575.0,55.0,26.0,32.0,78.0,2.0,0.0,3.0,21.12,117.57,11.0,150.0,197.0,6.0,0.0,43.0,0.0,0.0,2/14,25.0,7.88,32.83,25.0,1,10.0
+AM Nayar,a45a5e8d,"Kings XI Punjab, Mumbai Indians, Pune Warriors, Rajasthan Royals",2008,2014,60,50.0,672.0,577.0,55.0,20.0,38.0,45.0,0.0,0.0,3.0,17.68,116.46,19.0,229.0,322.0,9.0,0.0,69.0,0.0,0.0,3/13,38.1,8.44,35.78,25.4,0,13.0
+GJ Bailey,5056011d,"Chennai Super Kings, Kings XI Punjab, Rising Pune Supergiants",2009,2016,40,37.0,663.0,544.0,59.0,19.0,27.0,61.0,2.0,0.0,1.0,24.56,121.88,,,,,,,,,,,,,,1,12.0
+E Lewis,0ebfb1ad,"Lucknow Super Giants, Mumbai Indians, Rajasthan Royals",2018,2022,27,26.0,654.0,477.0,62.0,36.0,24.0,65.0,4.0,0.0,2.0,27.25,137.11,,,,,,,,,,,,,,1,9.0
+PJ Cummins,ded9240e,"Delhi Daredevils, Kolkata Knight Riders, Sunrisers Hyderabad",2014,2026,80,53.0,642.0,421.0,40.0,44.0,33.0,66.0,3.0,0.0,4.0,19.45,152.49,80.0,1809.0,2680.0,87.0,3.0,645.0,1.0,0.0,4/34,301.3,8.89,30.8,20.8,3,22.0
+Rashid Khan,5f547c8b,"Gujarat Titans, Sunrisers Hyderabad",2017,2026,153,74.0,635.0,406.0,45.0,43.0,46.0,79.0,1.0,0.0,16.0,13.8,156.4,153.0,3530.0,4282.0,179.0,4.0,1254.0,3.0,0.0,4/24,588.2,7.28,23.92,19.7,14,51.0
+PP Chawla,98ae73b1,"Chennai Super Kings, Kings XI Punjab, Kolkata Knight Riders, Mumbai Indians",2008,2024,192,92.0,624.0,563.0,56.0,20.0,56.0,24.0,0.0,0.0,16.0,11.14,110.83,191.0,3850.0,5108.0,192.0,1.0,1325.0,2.0,0.0,4/17,641.4,7.96,26.6,20.1,3,36.0
+CH Morris,fb66ce1f,"Chennai Super Kings, Delhi Capitals, Delhi Daredevils, Rajasthan Royals, Royal Challengers Bangalore",2013,2021,81,51.0,618.0,398.0,41.0,35.0,28.0,82.0,2.0,0.0,9.0,22.07,155.28,81.0,1720.0,2295.0,95.0,0.0,666.0,4.0,0.0,4/23,286.4,8.01,24.16,18.1,3,36.0
+JJ Roy,d1c36f5c,"Delhi Daredevils, Gujarat Lions, Kolkata Knight Riders, Sunrisers Hyderabad",2017,2023,21,21.0,614.0,443.0,75.0,21.0,19.0,91.0,4.0,0.0,0.0,32.32,138.6,,,,,,,,,,,,,,2,10.0
+D Brevis,844e79d1,"Chennai Super Kings, Mumbai Indians",2022,2026,27,24.0,606.0,415.0,38.0,43.0,24.0,57.0,2.0,0.0,3.0,25.25,146.02,1.0,3.0,8.0,1.0,0.0,1.0,0.0,0.0,1/8,0.3,16.0,8.0,3.0,1,22.0
+JD Ryder,91ffa6c6,"Pune Warriors, Royal Challengers Bangalore",2009,2012,29,29.0,604.0,458.0,69.0,19.0,28.0,86.0,4.0,0.0,4.0,21.57,131.88,16.0,236.0,303.0,8.0,1.0,79.0,0.0,0.0,2/14,39.2,7.7,37.88,29.5,1,10.0
+Shahbaz Ahmed,f9e6e7ef,"Lucknow Super Giants, Royal Challengers Bangalore, Sunrisers Hyderabad",2020,2026,63,40.0,603.0,489.0,33.0,28.0,29.0,59.0,1.0,0.0,1.0,20.79,123.31,50.0,655.0,1069.0,27.0,0.0,168.0,0.0,0.0,3/7,109.1,9.79,39.59,24.3,1,20.0
+WG Jacks,9caf69a1,"Mumbai Indians, Royal Challengers Bengaluru",2024,2026,28,26.0,602.0,379.0,50.0,38.0,22.0,100.0,2.0,1.0,0.0,27.36,158.84,19.0,191.0,314.0,10.0,1.0,62.0,0.0,0.0,2/14,31.5,9.86,31.4,19.1,3,11.0
+HM Amla,e798611a,Kings XI Punjab,2016,2017,16,16.0,577.0,407.0,60.0,21.0,13.0,104.0,3.0,2.0,2.0,44.38,141.77,,,,,,,,,,,,,,2,0.0
+Ashutosh Sharma,84d9c311,"Delhi Capitals, Punjab Kings",2024,2026,32,26.0,564.0,334.0,39.0,40.0,19.0,66.0,2.0,0.0,0.0,29.68,168.86,,,,,,,,,,,,,,1,6.0
+R Powell,650d5e49,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",2022,2026,39,30.0,555.0,390.0,38.0,38.0,25.0,67.0,1.0,0.0,2.0,22.2,142.31,2.0,18.0,35.0,1.0,0.0,4.0,0.0,0.0,1/18,3.0,11.67,35.0,18.0,0,26.0
+JP Inglis,989889ff,"Lucknow Super Giants, Punjab Kings",2025,2026,17,16.0,544.0,314.0,58.0,28.0,14.0,85.0,4.0,0.0,0.0,38.86,173.25,,,,,,,,,,,,,,1,11.0
+CJ Anderson,8abdf100,"Delhi Daredevils, Mumbai Indians, Royal Challengers Bangalore",2014,2018,30,29.0,538.0,423.0,40.0,31.0,22.0,95.0,3.0,0.0,2.0,24.45,127.19,22.0,297.0,518.0,11.0,0.0,79.0,0.0,0.0,2/18,49.3,10.46,47.09,27.0,3,11.0
+RS Bopara,7ca5e05d,"Kings XI Punjab, Sunrisers Hyderabad",2009,2015,24,22.0,531.0,453.0,39.0,16.0,18.0,84.0,3.0,0.0,2.0,29.5,117.22,14.0,206.0,292.0,11.0,0.0,61.0,0.0,0.0,3/31,34.2,8.5,26.55,18.7,1,4.0
+MK Lomror,da934ee8,"Rajasthan Royals, Royal Challengers Bangalore, Royal Challengers Bengaluru",2018,2024,40,35.0,527.0,373.0,33.0,30.0,29.0,54.0,1.0,0.0,3.0,18.17,141.29,11.0,90.0,127.0,1.0,0.0,22.0,0.0,0.0,1/22,15.0,8.47,127.0,90.0,0,12.0
+JP Faulkner,808f425a,"Gujarat Lions, Kings XI Punjab, Pune Warriors, Rajasthan Royals",2011,2017,60,45.0,527.0,389.0,36.0,23.0,25.0,46.0,0.0,0.0,0.0,21.08,135.48,60.0,1227.0,1778.0,59.0,1.0,397.0,0.0,2.0,5/16,204.3,8.69,30.14,20.8,5,16.0
+SE Rutherford,d014d5ac,"Delhi Capitals, Gujarat Titans, Mumbai Indians, Royal Challengers Bangalore",2019,2026,31,27.0,520.0,364.0,30.0,38.0,21.0,71.0,1.0,0.0,2.0,24.76,142.86,6.0,41.0,59.0,1.0,0.0,7.0,0.0,0.0,1/6,6.5,8.63,59.0,41.0,0,7.0
+M Manhas,c42aaf71,"Chennai Super Kings, Delhi Daredevils, Pune Warriors",2008,2014,55,38.0,514.0,470.0,43.0,10.0,23.0,42.0,0.0,0.0,6.0,22.35,109.36,3.0,42.0,42.0,0.0,0.0,15.0,0.0,0.0,0/9,7.0,6.0,,,0,20.0
+Gurkeerat Singh,6eb146d2,"Kings XI Punjab, Royal Challengers Bangalore",2012,2020,41,32.0,511.0,422.0,55.0,11.0,24.0,65.0,2.0,0.0,4.0,21.29,121.09,6.0,78.0,97.0,5.0,0.0,26.0,0.0,0.0,2/15,13.0,7.46,19.4,15.6,0,20.0
+OA Shah,7bf96684,"Kochi Tuskers Kerala, Kolkata Knight Riders, Rajasthan Royals",2010,2013,23,22.0,506.0,389.0,34.0,23.0,15.0,76.0,4.0,0.0,0.0,33.73,130.08,,,,,,,,,,,,,,0,7.0
+PC Valthaty,25eeb281,"Kings XI Punjab, Rajasthan Royals",2009,2013,23,23.0,505.0,418.0,60.0,20.0,22.0,120.0,2.0,1.0,1.0,22.95,120.81,10.0,151.0,205.0,7.0,0.0,44.0,1.0,0.0,4/29,25.1,8.15,29.29,21.6,2,3.0
+SW Billings,c16d4035,"Chennai Super Kings, Delhi Daredevils, Kolkata Knight Riders",2016,2022,30,27.0,503.0,388.0,40.0,20.0,26.0,56.0,3.0,0.0,3.0,19.35,129.64,,,,,,,,,,,,,,1,20.0
+C Connolly,fe366f34,Punjab Kings,2026,2026,14,13.0,491.0,301.0,43.0,32.0,11.0,107.0,2.0,1.0,1.0,44.64,163.12,,,,,,,,,,,,,,1,4.0
+RR Rossouw,cad00a4d,"Delhi Capitals, Punjab Kings, Royal Challengers Bangalore",2014,2024,22,22.0,473.0,308.0,45.0,25.0,20.0,82.0,2.0,0.0,4.0,23.65,153.57,,,,,,,,,,,,,,1,10.0
+DT Christian,2a2e6343,"Deccan Chargers, Delhi Daredevils, Rising Pune Supergiant, Royal Challengers Bangalore",2011,2021,49,41.0,460.0,398.0,23.0,19.0,31.0,39.0,0.0,0.0,2.0,14.84,115.58,49.0,883.0,1192.0,38.0,0.0,296.0,0.0,0.0,2/10,147.1,8.1,31.37,23.2,0,28.0
+A Mhatre,b2b4f545,Chennai Super Kings,2025,2026,13,13.0,441.0,240.0,51.0,23.0,13.0,94.0,3.0,0.0,2.0,33.92,183.75,,,,,,,,,,,,,,0,4.0
+Sameer Rizvi,f89d3b11,"Chennai Super Kings, Delhi Capitals",2024,2026,25,18.0,424.0,293.0,30.0,26.0,14.0,90.0,3.0,0.0,3.0,30.29,144.71,,,,,,,,,,,,,,3,9.0
+SA Asnodkar,ae091d39,Rajasthan Royals,2008,2011,20,20.0,423.0,339.0,56.0,10.0,20.0,60.0,2.0,0.0,3.0,21.15,124.78,,,,,,,,,,,,,,1,6.0
+NLTC Perera,0f12f9df,"Chennai Super Kings, Kings XI Punjab, Kochi Tuskers Kerala, Mumbai Indians, Rising Pune Supergiants, Sunrisers Hyderabad",2010,2016,37,30.0,422.0,307.0,23.0,26.0,22.0,40.0,0.0,0.0,1.0,19.18,137.46,36.0,698.0,1016.0,31.0,1.0,227.0,0.0,0.0,3/20,116.2,8.73,32.77,22.5,0,13.0
+JR Hopes,2498e163,"Delhi Daredevils, Kings XI Punjab",2008,2011,21,19.0,417.0,306.0,49.0,11.0,16.0,71.0,4.0,0.0,1.0,26.06,136.27,20.0,360.0,548.0,14.0,0.0,105.0,0.0,0.0,2/2,60.0,9.13,39.14,25.7,0,5.0
+R Ravindra,ba5e1069,Chennai Super Kings,2024,2025,18,18.0,413.0,287.0,40.0,16.0,17.0,65.0,2.0,0.0,2.0,24.29,143.9,2.0,12.0,7.0,0.0,0.0,5.0,0.0,0.0,0/3,2.0,3.5,,,0,10.0
+J Botha,7c503806,"Delhi Daredevils, Kolkata Knight Riders, Rajasthan Royals",2009,2015,34,28.0,409.0,359.0,39.0,5.0,20.0,67.0,1.0,0.0,0.0,20.45,113.93,34.0,694.0,800.0,25.0,0.0,254.0,0.0,0.0,3/6,115.4,6.92,32.0,27.8,1,16.0
+LR Shukla,b1451597,"Delhi Daredevils, Kolkata Knight Riders",2008,2014,47,34.0,405.0,350.0,33.0,16.0,27.0,48.0,0.0,0.0,3.0,15.0,115.71,27.0,314.0,447.0,15.0,1.0,109.0,0.0,0.0,3/6,52.2,8.54,29.8,20.9,1,15.0
+AL Menaria,8291f939,Rajasthan Royals,2011,2013,29,23.0,401.0,356.0,24.0,18.0,21.0,40.0,0.0,0.0,1.0,19.1,112.64,12.0,110.0,144.0,3.0,0.0,40.0,0.0,0.0,2/20,18.2,7.85,48.0,36.7,0,4.0
+MV Boucher,f3cb53a1,"Kolkata Knight Riders, Royal Challengers Bangalore",2008,2011,31,24.0,394.0,309.0,32.0,13.0,14.0,50.0,1.0,0.0,0.0,28.14,127.51,,,,,,,,,,,,,,2,17.0
+CA Pujara,d4f9dbd4,"Kings XI Punjab, Kolkata Knight Riders, Royal Challengers Bangalore",2010,2014,30,22.0,390.0,391.0,50.0,4.0,19.0,51.0,1.0,0.0,1.0,20.53,99.74,,,,,,,,,,,,,,0,6.0
+Azhar Mahmood,9a158001,"Kings XI Punjab, Kolkata Knight Riders",2012,2015,23,21.0,388.0,303.0,39.0,13.0,19.0,80.0,2.0,0.0,2.0,20.42,128.05,23.0,537.0,700.0,29.0,0.0,199.0,0.0,0.0,3/20,89.3,7.82,24.14,18.5,2,7.0
+J Fraser-McGurk,9b6e1b3f,Delhi Capitals,2024,2025,15,15.0,385.0,193.0,39.0,30.0,15.0,84.0,4.0,0.0,3.0,25.67,199.48,,,,,,,,,,,,,,1,8.0
+A Mishra,6b19d823,"Deccan Chargers, Delhi Capitals, Delhi Daredevils, Lucknow Super Giants, Sunrisers Hyderabad",2008,2024,162,57.0,381.0,419.0,31.0,5.0,32.0,31.0,0.0,0.0,10.0,11.91,90.93,162.0,3371.0,4145.0,174.0,4.0,1185.0,4.0,1.0,5/17,561.5,7.38,23.82,19.4,12,19.0
+KR Mayers,73c18486,Lucknow Super Giants,2023,2023,13,13.0,379.0,263.0,38.0,22.0,13.0,73.0,4.0,0.0,2.0,29.15,144.11,6.0,42.0,59.0,0.0,0.0,14.0,0.0,0.0,0/4,7.0,8.43,,,0,2.0
+DB Ravi Teja,b720a5d6,"Deccan Chargers, Sunrisers Hyderabad",2008,2013,32,25.0,375.0,317.0,35.0,9.0,19.0,60.0,1.0,0.0,1.0,19.74,118.3,2.0,18.0,28.0,1.0,0.0,4.0,0.0,0.0,1/19,3.0,9.33,28.0,18.0,0,11.0
+S Sohal,3fca55af,"Deccan Chargers, Kings XI Punjab",2008,2011,22,20.0,368.0,292.0,34.0,18.0,20.0,62.0,2.0,0.0,3.0,18.4,126.03,,,,,,,,,,,,,,1,2.0
+P Negi,f62772e5,"Chennai Super Kings, Delhi Daredevils, Royal Challengers Bangalore",2012,2019,50,35.0,365.0,289.0,27.0,16.0,26.0,36.0,0.0,0.0,3.0,14.04,126.3,42.0,716.0,939.0,34.0,0.0,237.0,1.0,0.0,4/18,119.2,7.87,27.62,21.1,2,16.0
+Rahmanullah Gurbaz,0bacade8,Kolkata Knight Riders,2023,2025,18,18.0,363.0,269.0,34.0,22.0,17.0,81.0,2.0,0.0,2.0,21.35,134.94,,,,,,,,,,,,,,0,17.0
+B Kumar,2e81a32d,"Pune Warriors, Royal Challengers Bengaluru, Sunrisers Hyderabad",2011,2026,206,78.0,354.0,377.0,34.0,4.0,38.0,27.0,0.0,0.0,6.0,9.32,93.9,206.0,4600.0,5913.0,226.0,17.0,1897.0,3.0,2.0,5/19,766.4,7.71,26.16,20.4,7,33.0
+KV Sharma,119678fd,"Chennai Super Kings, Mumbai Indians, Royal Challengers Bangalore, Royal Challengers Bengaluru, Sunrisers Hyderabad",2009,2025,90,41.0,352.0,295.0,20.0,17.0,26.0,39.0,0.0,0.0,1.0,13.54,119.32,87.0,1585.0,2215.0,83.0,3.0,507.0,2.0,0.0,4/16,264.1,8.38,26.69,19.1,2,18.0
+DJ Mitchell,eade4650,"Chennai Super Kings, Rajasthan Royals",2022,2024,15,15.0,351.0,267.0,28.0,10.0,13.0,63.0,2.0,0.0,0.0,27.0,131.46,4.0,48.0,97.0,1.0,0.0,5.0,0.0,0.0,1/18,8.0,12.12,97.0,48.0,0,11.0
+FH Allen,bf74b130,Kolkata Knight Riders,2026,2026,11,11.0,349.0,163.0,33.0,28.0,10.0,100.0,1.0,1.0,0.0,34.9,214.11,,,,,,,,,,,,,,1,1.0
+SN Thakur,1abb78f8,"Chennai Super Kings, Delhi Capitals, Kings XI Punjab, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, Rising Pune Supergiant",2015,2026,114,45.0,349.0,263.0,32.0,13.0,30.0,68.0,1.0,0.0,8.0,11.63,132.7,109.0,2202.0,3514.0,119.0,2.0,735.0,3.0,0.0,4/34,367.0,9.57,29.53,18.5,4,33.0
+R Bhatia,33a364a6,"Delhi Daredevils, Kolkata Knight Riders, Rajasthan Royals, Rising Pune Supergiant, Rising Pune Supergiants",2008,2017,95,49.0,342.0,284.0,24.0,13.0,30.0,26.0,0.0,0.0,3.0,11.4,120.42,91.0,1636.0,2020.0,71.0,1.0,436.0,1.0,0.0,4/15,272.4,7.41,28.45,23.0,1,23.0
+P Kumar,e938e1bc,"Gujarat Lions, Kings XI Punjab, Mumbai Indians, Royal Challengers Bangalore, Sunrisers Hyderabad",2008,2017,119,59.0,340.0,314.0,22.0,17.0,38.0,34.0,0.0,0.0,9.0,8.95,108.28,119.0,2524.0,3251.0,90.0,14.0,1075.0,0.0,0.0,3/18,420.4,7.73,36.12,28.0,2,13.0
+AP Tare,855a210c,"Delhi Daredevils, Mumbai Indians, Sunrisers Hyderabad",2010,2017,35,28.0,339.0,273.0,40.0,11.0,24.0,59.0,1.0,0.0,5.0,14.12,124.18,,,,,,,,,,,,,,1,9.0
+JEC Franklin,cf73ad76,Mumbai Indians,2011,2012,20,16.0,327.0,301.0,25.0,9.0,11.0,79.0,1.0,0.0,0.0,29.73,108.64,15.0,151.0,220.0,9.0,0.0,39.0,0.0,0.0,2/18,25.1,8.74,24.44,16.8,1,6.0
+RN ten Doeschate,4ec07775,Kolkata Knight Riders,2011,2015,29,22.0,326.0,235.0,26.0,15.0,14.0,70.0,1.0,0.0,3.0,23.29,138.72,10.0,78.0,94.0,2.0,0.0,22.0,0.0,0.0,1/7,13.0,7.23,47.0,39.0,0,7.0
+JC Archer,5574750c,"Mumbai Indians, Rajasthan Royals",2018,2026,68,42.0,326.0,225.0,18.0,22.0,25.0,32.0,0.0,0.0,5.0,13.04,144.89,68.0,1578.0,2161.0,84.0,7.0,677.0,0.0,0.0,3/15,263.0,8.22,25.73,18.8,3,16.0
+D Ferreira,f0af99a7,"Delhi Capitals, Rajasthan Royals",2024,2026,18,16.0,326.0,191.0,25.0,23.0,12.0,69.0,2.0,0.0,1.0,27.17,170.68,3.0,18.0,41.0,1.0,0.0,2.0,0.0,0.0,1/14,3.0,13.67,41.0,18.0,1,16.0
+JO Holder,0f721006,"Chennai Super Kings, Gujarat Titans, Kolkata Knight Riders, Lucknow Super Giants, Rajasthan Royals, Sunrisers Hyderabad",2013,2026,57,34.0,324.0,263.0,16.0,21.0,26.0,47.0,0.0,0.0,3.0,12.46,123.19,57.0,1225.0,1751.0,70.0,0.0,413.0,2.0,0.0,4/24,204.1,8.58,25.01,17.5,3,22.0
+Anuj Rawat,c8f5f961,"Rajasthan Royals, Royal Challengers Bangalore, Royal Challengers Bengaluru",2021,2024,24,21.0,318.0,267.0,26.0,14.0,16.0,66.0,1.0,0.0,4.0,19.88,119.1,,,,,,,,,,,,,,1,18.0
+Aniket Verma,a3b0600d,Sunrisers Hyderabad,2025,2026,24,20.0,315.0,196.0,18.0,25.0,15.0,74.0,1.0,0.0,0.0,21.0,160.71,,,,,,,,,,,,,,0,11.0
+R Vinay Kumar,41eb4a4f,"Kochi Tuskers Kerala, Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bangalore",2008,2018,104,46.0,310.0,274.0,21.0,9.0,28.0,26.0,0.0,0.0,4.0,11.07,113.14,104.0,2121.0,2966.0,105.0,2.0,763.0,1.0,0.0,4/40,353.3,8.39,28.25,20.2,3,32.0
+Lalit Yadav,ad427b5c,Delhi Capitals,2021,2024,27,21.0,305.0,290.0,27.0,7.0,16.0,48.0,0.0,0.0,1.0,19.06,105.17,19.0,288.0,425.0,10.0,0.0,82.0,0.0,0.0,2/11,48.0,8.85,42.5,28.8,0,18.0
+DB Das,7050a1e7,Kolkata Knight Riders,2008,2013,31,22.0,304.0,261.0,23.0,16.0,14.0,35.0,0.0,0.0,1.0,21.71,116.48,,,,,,,,,,,,,,0,7.0
+C de Grandhomme,94d7f855,"Kolkata Knight Riders, Royal Challengers Bangalore",2017,2019,25,21.0,303.0,225.0,18.0,18.0,16.0,40.0,0.0,0.0,3.0,18.94,134.67,19.0,216.0,319.0,6.0,0.0,58.0,0.0,0.0,3/4,36.0,8.86,53.17,36.0,0,6.0
+LA Pomersbach,b63ab531,"Kings XI Punjab, Royal Challengers Bangalore",2008,2013,17,16.0,302.0,246.0,25.0,13.0,11.0,79.0,1.0,0.0,0.0,27.45,122.76,,,,,,,,,,,,,,0,8.0
+UBT Chand,0c94f480,"Delhi Daredevils, Mumbai Indians, Rajasthan Royals",2011,2016,21,20.0,300.0,300.0,32.0,9.0,20.0,58.0,1.0,0.0,4.0,15.0,100.0,,,,,,,,,,,,,,0,9.0
+Ramandeep Singh,be24ead0,"Kolkata Knight Riders, Mumbai Indians",2022,2026,38,26.0,299.0,205.0,17.0,19.0,16.0,35.0,0.0,0.0,1.0,18.69,145.85,6.0,56.0,94.0,7.0,0.0,13.0,0.0,0.0,3/20,9.2,10.07,13.43,8.0,0,21.0
+DJG Sammy,c03c6200,"Royal Challengers Bangalore, Sunrisers Hyderabad",2013,2015,22,20.0,295.0,241.0,15.0,18.0,15.0,60.0,1.0,0.0,2.0,19.67,122.41,19.0,236.0,350.0,11.0,0.0,72.0,1.0,0.0,4/22,39.2,8.9,31.82,21.5,1,9.0
+Kartik Sharma,7b679de5,Chennai Super Kings,2026,2026,11,11.0,295.0,216.0,24.0,16.0,9.0,71.0,2.0,0.0,0.0,32.78,136.57,,,,,,,,,,,,,,0,1.0
+SP Goswami,541f85c9,"Kolkata Knight Riders, Rajasthan Royals, Royal Challengers Bangalore, Sunrisers Hyderabad",2008,2020,31,21.0,293.0,295.0,32.0,3.0,20.0,52.0,1.0,0.0,4.0,14.65,99.32,,,,,,,,,,,,,,1,25.0
+A Manohar,0890552f,"Gujarat Titans, Sunrisers Hyderabad",2022,2025,27,20.0,292.0,235.0,23.0,14.0,19.0,43.0,0.0,0.0,2.0,15.37,124.26,,,,,,,,,,,,,,1,17.0
+Y Nagar,662c47a6,Delhi Daredevils,2009,2012,26,20.0,285.0,259.0,20.0,9.0,14.0,44.0,0.0,0.0,2.0,20.36,110.04,8.0,66.0,125.0,4.0,0.0,16.0,0.0,0.0,2/20,11.0,11.36,31.25,16.5,0,7.0
+GH Vihari,94253925,"Delhi Capitals, Sunrisers Hyderabad",2013,2019,24,23.0,284.0,321.0,23.0,1.0,20.0,46.0,0.0,0.0,0.0,14.2,88.47,6.0,42.0,47.0,1.0,0.0,17.0,0.0,0.0,1/5,7.0,6.71,47.0,42.0,2,6.0
+VVS Laxman,de8cce37,"Deccan Chargers, Kochi Tuskers Kerala",2008,2011,20,20.0,282.0,267.0,33.0,5.0,19.0,52.0,1.0,0.0,4.0,14.84,105.62,,,,,,,,,,,,,,0,4.0
+HV Patel,f986ca1a,"Delhi Capitals, Delhi Daredevils, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",2012,2026,123,49.0,280.0,238.0,18.0,15.0,32.0,36.0,0.0,0.0,10.0,8.75,117.65,121.0,2506.0,3727.0,151.0,5.0,807.0,4.0,1.0,5/27,417.4,8.92,24.68,16.6,5,26.0
+A Ashish Reddy,1c2a64cd,"Deccan Chargers, Sunrisers Hyderabad",2012,2016,31,23.0,280.0,193.0,16.0,15.0,15.0,36.0,0.0,0.0,0.0,18.67,145.08,20.0,262.0,396.0,18.0,0.0,79.0,0.0,0.0,3/25,43.4,9.07,22.0,14.6,0,8.0
+B Chipli,5451a2c1,"Deccan Chargers, Delhi Daredevils, Royal Challengers Bangalore",2008,2013,23,21.0,280.0,251.0,28.0,7.0,15.0,61.0,1.0,0.0,0.0,18.67,111.55,1.0,6.0,20.0,0.0,0.0,1.0,0.0,0.0,0/20,1.0,20.0,,,0,4.0
+MJ Lumb,11df3dc8,"Deccan Chargers, Rajasthan Royals",2010,2011,12,12.0,278.0,194.0,45.0,6.0,12.0,83.0,1.0,0.0,3.0,23.17,143.3,,,,,,,,,,,,,,1,5.0
+P Nissanka,8ee36b18,Delhi Capitals,2026,2026,10,10.0,278.0,175.0,33.0,12.0,10.0,62.0,2.0,0.0,0.0,27.8,158.86,,,,,,,,,,,,,,0,2.0
+PBB Rajapaksa,6c882e9a,Punjab Kings,2022,2023,13,13.0,277.0,191.0,22.0,15.0,13.0,50.0,1.0,0.0,1.0,21.31,145.03,,,,,,,,,,,,,,0,4.0
+PK Garg,bb965e9a,"Delhi Capitals, Sunrisers Hyderabad",2020,2023,23,19.0,273.0,241.0,16.0,9.0,18.0,51.0,1.0,0.0,2.0,15.17,113.28,,,,,,,,,,,,,,1,11.0
+MJ Guptill,2be41edb,"Kings XI Punjab, Mumbai Indians, Sunrisers Hyderabad",2016,2019,13,13.0,270.0,196.0,24.0,15.0,12.0,50.0,1.0,0.0,1.0,22.5,137.76,,,,,,,,,,,,,,0,7.0
+R Sathish,626c5379,"Kings XI Punjab, Kolkata Knight Riders, Mumbai Indians",2010,2016,34,25.0,270.0,231.0,22.0,6.0,17.0,27.0,0.0,0.0,2.0,15.88,116.88,14.0,139.0,232.0,3.0,0.0,30.0,0.0,0.0,1/11,23.1,10.01,77.33,46.3,0,8.0
+R Shepherd,c5aef772,"Lucknow Super Giants, Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad",2022,2026,33,19.0,268.0,153.0,18.0,22.0,11.0,53.0,1.0,0.0,2.0,24.36,175.16,28.0,360.0,706.0,17.0,0.0,98.0,0.0,0.0,3/54,60.0,11.77,41.53,21.2,2,7.0
+K Rabada,e62dd25d,"Delhi Capitals, Delhi Daredevils, Gujarat Titans, Punjab Kings",2017,2026,101,37.0,262.0,239.0,21.0,11.0,20.0,44.0,0.0,0.0,4.0,13.1,109.62,101.0,2290.0,3358.0,148.0,4.0,902.0,6.0,0.0,4/21,381.4,8.8,22.69,15.5,4,31.0
+Atharva Taide,1ac746c8,"Punjab Kings, Sunrisers Hyderabad",2023,2025,10,10.0,260.0,177.0,30.0,8.0,10.0,66.0,2.0,0.0,1.0,26.0,146.89,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0/4,0.1,24.0,,,0,5.0
+M Kaif,d84378a4,"Kings XI Punjab, Rajasthan Royals, Royal Challengers Bangalore",2008,2012,29,22.0,259.0,250.0,22.0,6.0,18.0,34.0,0.0,0.0,0.0,14.39,103.6,,,,,,,,,,,,,,0,16.0
+Harpreet Brar,c05edf8e,"Kings XI Punjab, Punjab Kings",2019,2026,51,27.0,249.0,206.0,20.0,10.0,12.0,29.0,0.0,0.0,1.0,20.75,120.87,48.0,859.0,1145.0,37.0,1.0,285.0,1.0,0.0,4/30,143.1,8.0,30.95,23.2,4,15.0
+K Gowtham,90de905a,"Kings XI Punjab, Lucknow Super Giants, Rajasthan Royals",2018,2024,36,27.0,247.0,148.0,15.0,17.0,18.0,33.0,0.0,0.0,2.0,13.72,166.89,35.0,588.0,808.0,21.0,1.0,206.0,0.0,0.0,2/12,98.0,8.24,38.48,28.0,0,21.0
+SM Katich,fdedb37c,Kings XI Punjab,2008,2009,11,11.0,241.0,186.0,25.0,8.0,10.0,75.0,2.0,0.0,1.0,24.1,129.57,,,,,,,,,,,,,,1,2.0
+BCJ Cutting,2e11c706,"Mumbai Indians, Rajasthan Royals, Sunrisers Hyderabad",2014,2019,21,17.0,238.0,141.0,15.0,19.0,11.0,39.0,0.0,0.0,1.0,21.64,168.79,17.0,281.0,429.0,10.0,0.0,77.0,0.0,0.0,2/20,46.5,9.16,42.9,28.1,1,10.0
+MD Mishra,6afb26d6,"Deccan Chargers, Pune Warriors",2010,2012,18,17.0,237.0,208.0,24.0,8.0,16.0,41.0,0.0,0.0,1.0,14.81,113.94,,,,,,,,,,,,,,1,1.0
+SB Dubey,6b2ff18f,Rajasthan Royals,2024,2026,20,17.0,220.0,143.0,17.0,13.0,10.0,34.0,0.0,0.0,1.0,22.0,153.85,,,,,,,,,,,,,,0,1.0
+K Goel,a1f1829d,Kings XI Punjab,2008,2010,22,17.0,218.0,231.0,17.0,9.0,15.0,38.0,0.0,0.0,2.0,14.53,94.37,6.0,66.0,93.0,0.0,0.0,19.0,0.0,0.0,0/7,11.0,8.45,,,0,9.0
+AA Jhunjhunwala,2815fe50,"Deccan Chargers, Pune Warriors, Rajasthan Royals",2010,2012,21,16.0,217.0,210.0,19.0,5.0,13.0,53.0,1.0,0.0,1.0,16.69,103.33,10.0,85.0,129.0,1.0,0.0,27.0,0.0,0.0,1/13,14.1,9.11,129.0,85.0,1,10.0
+Mohammad Nabi,62af8546,"Mumbai Indians, Sunrisers Hyderabad",2017,2024,24,19.0,215.0,150.0,18.0,11.0,16.0,31.0,0.0,0.0,1.0,13.44,143.33,23.0,417.0,517.0,15.0,0.0,146.0,1.0,0.0,4/11,69.3,7.44,34.47,27.8,0,18.0
+Kuldeep Yadav,8d2c70ad,"Delhi Capitals, Kolkata Knight Riders",2016,2026,111,42.0,210.0,253.0,18.0,3.0,18.0,35.0,0.0,0.0,5.0,11.67,83.0,107.0,2286.0,3159.0,112.0,0.0,684.0,4.0,0.0,4/14,381.0,8.29,28.21,20.4,8,14.0
+R Dhawan,26a85969,"Kings XI Punjab, Mumbai Indians, Punjab Kings",2013,2024,39,24.0,210.0,187.0,18.0,7.0,11.0,25.0,0.0,0.0,1.0,19.09,112.3,36.0,662.0,891.0,25.0,1.0,205.0,0.0,0.0,2/14,110.2,8.08,35.64,26.5,0,13.0
+UT Yadav,cc1e8c68,"Delhi Daredevils, Gujarat Titans, Kolkata Knight Riders, Royal Challengers Bangalore",2010,2024,148,52.0,208.0,201.0,16.0,9.0,21.0,24.0,0.0,0.0,8.0,9.9,103.48,147.0,3050.0,4317.0,144.0,7.0,1185.0,3.0,0.0,4/23,508.2,8.49,29.98,21.2,10,36.0
+CA Ingram,c995d726,"Delhi Capitals, Delhi Daredevils",2011,2019,15,15.0,205.0,180.0,22.0,5.0,12.0,47.0,0.0,0.0,0.0,17.08,113.89,,,,,,,,,,,,,,0,1.0
+PD Collingwood,a386e91b,Delhi Daredevils,2010,2010,8,7.0,203.0,156.0,9.0,13.0,5.0,75.0,3.0,0.0,0.0,40.6,130.13,6.0,89.0,101.0,5.0,0.0,24.0,0.0,0.0,2/19,14.5,6.81,20.2,17.8,1,3.0
+JD Unadkat,1e66c162,"Delhi Daredevils, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians, Rajasthan Royals, Rising Pune Supergiant, Royal Challengers Bangalore, Sunrisers Hyderabad",2010,2026,116,33.0,201.0,169.0,16.0,7.0,16.0,26.0,0.0,0.0,2.0,12.56,118.93,115.0,2351.0,3504.0,114.0,3.0,757.0,0.0,2.0,5/25,391.5,8.94,30.74,20.6,6,22.0
+KS Bharat,44a89551,"Delhi Capitals, Royal Challengers Bangalore",2021,2022,10,9.0,199.0,163.0,12.0,8.0,7.0,78.0,1.0,0.0,1.0,28.43,122.09,,,,,,,,,,,,,,1,6.0
+SK Warne,bb18be76,Rajasthan Royals,2008,2011,55,29.0,198.0,214.0,14.0,6.0,20.0,34.0,0.0,0.0,7.0,9.9,92.52,54.0,1194.0,1447.0,57.0,2.0,426.0,1.0,0.0,4/21,199.0,7.27,25.39,20.9,4,11.0
+Urvil Patel,cf59b3f0,Chennai Super Kings,2025,2026,10,10.0,197.0,96.0,11.0,20.0,10.0,65.0,1.0,0.0,2.0,19.7,205.21,,,,,,,,,,,,,,0,8.0
+SP Fleming,eea6b7f1,Chennai Super Kings,2008,2008,10,10.0,196.0,165.0,27.0,3.0,9.0,45.0,0.0,0.0,1.0,21.78,118.79,,,,,,,,,,,,,,0,2.0
+AS Raut,c69a7b5c,Rajasthan Royals,2009,2011,22,16.0,194.0,167.0,13.0,7.0,9.0,36.0,0.0,0.0,1.0,21.56,116.17,5.0,30.0,44.0,0.0,0.0,6.0,0.0,0.0,0/6,5.0,8.8,,,0,10.0
+BJ Rohrer,27af6414,Delhi Daredevils,2013,2013,8,8.0,193.0,140.0,21.0,5.0,6.0,64.0,1.0,0.0,0.0,32.17,137.86,1.0,6.0,12.0,0.0,0.0,1.0,0.0,0.0,0/12,1.0,12.0,,,0,3.0
+Salman Butt,4d6d6280,Kolkata Knight Riders,2008,2008,7,7.0,193.0,161.0,30.0,2.0,7.0,73.0,1.0,0.0,0.0,27.57,119.88,,,,,,,,,,,,,,0,2.0
+YV Takawale,4e04666c,"Mumbai Indians, Royal Challengers Bangalore",2008,2014,16,10.0,192.0,178.0,26.0,3.0,8.0,45.0,0.0,0.0,2.0,24.0,107.87,,,,,,,,,,,,,,0,17.0
+M Jansen,81c36ee9,"Mumbai Indians, Punjab Kings, Sunrisers Hyderabad",2021,2026,49,26.0,192.0,174.0,9.0,9.0,15.0,34.0,0.0,0.0,3.0,12.8,110.34,47.0,1017.0,1632.0,45.0,2.0,361.0,0.0,0.0,3/17,169.3,9.63,36.27,22.6,1,26.0
+HC Brook,4ae1755b,Sunrisers Hyderabad,2023,2023,11,11.0,190.0,154.0,23.0,4.0,9.0,100.0,0.0,1.0,3.0,21.11,123.38,,,,,,,,,,,,,,1,3.0
+Bipul Sharma,c18496e1,"Kings XI Punjab, Sunrisers Hyderabad",2010,2017,33,17.0,187.0,123.0,11.0,9.0,8.0,35.0,0.0,0.0,0.0,23.38,152.03,28.0,426.0,572.0,17.0,0.0,131.0,0.0,0.0,2/13,71.0,8.06,33.65,25.1,0,7.0
+MS Wade,afa7e784,"Delhi Daredevils, Gujarat Titans",2011,2024,15,14.0,183.0,177.0,23.0,2.0,14.0,35.0,0.0,0.0,0.0,13.07,103.39,,,,,,,,,,,,,,0,9.0
+FY Fazal,c15e2193,Rajasthan Royals,2010,2011,12,11.0,183.0,173.0,22.0,1.0,10.0,45.0,0.0,0.0,1.0,18.3,105.78,2.0,12.0,20.0,0.0,0.0,1.0,0.0,0.0,0/6,2.0,10.0,,,0,7.0
+SD Hope,1fc6ef83,Delhi Capitals,2024,2024,9,9.0,183.0,122.0,12.0,12.0,8.0,41.0,0.0,0.0,0.0,22.88,150.0,,,,,,,,,,,,,,0,6.0
+Sikandar Raza,26d041c4,Punjab Kings,2023,2024,9,9.0,182.0,136.0,12.0,8.0,7.0,57.0,1.0,0.0,0.0,26.0,133.82,7.0,84.0,141.0,3.0,0.0,21.0,0.0,0.0,1/19,14.0,10.07,47.0,28.0,1,5.0
+AC Voges,864c199e,Rajasthan Royals,2010,2010,9,7.0,181.0,143.0,15.0,3.0,4.0,45.0,0.0,0.0,0.0,45.25,126.57,7.0,54.0,76.0,0.0,0.0,15.0,0.0,0.0,0/5,9.0,8.44,,,1,1.0
+CR Brathwaite,e342e5fb,"Delhi Daredevils, Kolkata Knight Riders, Sunrisers Hyderabad",2016,2019,16,14.0,181.0,111.0,10.0,16.0,13.0,43.0,0.0,0.0,0.0,13.92,163.06,16.0,254.0,379.0,13.0,0.0,74.0,0.0,0.0,3/47,42.2,8.95,29.15,19.5,1,6.0
+S Gopal,7a8bd078,"Mumbai Indians, Rajasthan Royals, Sunrisers Hyderabad",2014,2024,52,22.0,180.0,169.0,19.0,2.0,14.0,24.0,0.0,0.0,4.0,12.86,106.51,51.0,991.0,1349.0,52.0,1.0,317.0,1.0,0.0,4/16,165.1,8.17,25.94,19.1,2,5.0
+AB Agarkar,fa463154,"Delhi Daredevils, Kolkata Knight Riders",2008,2013,42,22.0,179.0,154.0,13.0,5.0,10.0,39.0,0.0,0.0,1.0,17.9,116.23,42.0,782.0,1151.0,29.0,2.0,254.0,0.0,0.0,3/25,130.2,8.83,39.69,27.0,0,4.0
+MW Short,a90e53ec,"Chennai Super Kings, Punjab Kings",2023,2026,9,9.0,177.0,143.0,21.0,5.0,9.0,36.0,0.0,0.0,0.0,19.67,123.78,5.0,43.0,64.0,0.0,0.0,16.0,0.0,0.0,0/1,7.1,8.93,,,0,7.0
+MF Maharoof,ab89348d,Delhi Daredevils,2008,2010,20,14.0,177.0,123.0,12.0,9.0,10.0,39.0,0.0,0.0,2.0,17.7,143.9,20.0,420.0,520.0,27.0,0.0,165.0,0.0,0.0,3/34,70.0,7.43,19.26,15.6,1,4.0
+C Munro,af2c687b,"Delhi Capitals, Delhi Daredevils, Kolkata Knight Riders",2016,2019,13,12.0,177.0,141.0,19.0,8.0,12.0,40.0,0.0,0.0,2.0,14.75,125.53,2.0,12.0,15.0,0.0,0.0,5.0,0.0,0.0,0/7,2.0,7.5,,,0,4.0
+MD Choudhary,1c84109e,Lucknow Super Giants,2026,2026,10,10.0,170.0,120.0,11.0,12.0,6.0,54.0,1.0,0.0,0.0,28.33,141.67,,,,,,,,,,,,,,1,3.0
+DH Yagnik,063b3673,Rajasthan Royals,2011,2014,25,17.0,170.0,137.0,23.0,2.0,10.0,34.0,0.0,0.0,1.0,17.0,124.09,,,,,,,,,,,,,,0,17.0
+CM Gautam,30a2649b,"Delhi Daredevils, Mumbai Indians",2013,2015,13,13.0,169.0,150.0,17.0,6.0,10.0,33.0,0.0,0.0,0.0,16.9,112.67,,,,,,,,,,,,,,0,7.0
+DW Steyn,8fd1a8f5,"Deccan Chargers, Gujarat Lions, Royal Challengers Bangalore, Sunrisers Hyderabad",2008,2020,95,37.0,167.0,160.0,14.0,3.0,22.0,19.0,0.0,0.0,5.0,7.59,104.38,95.0,2176.0,2508.0,97.0,10.0,1019.0,0.0,0.0,3/8,362.4,6.92,25.86,22.4,5,22.0
+MN van Wyk,710dd98c,Kolkata Knight Riders,2009,2009,5,5.0,167.0,132.0,19.0,1.0,3.0,74.0,1.0,0.0,1.0,55.67,126.52,,,,,,,,,,,,,,0,7.0
+MG Johnson,f5180fe6,"Kings XI Punjab, Kolkata Knight Riders, Mumbai Indians",2013,2018,54,30.0,167.0,164.0,10.0,7.0,13.0,16.0,0.0,0.0,2.0,12.85,101.83,54.0,1232.0,1702.0,61.0,3.0,533.0,0.0,0.0,3/26,205.2,8.29,27.9,20.2,2,15.0
+Suryansh Shedge,970ddd24,Punjab Kings,2025,2026,12,10.0,165.0,101.0,9.0,12.0,7.0,57.0,1.0,0.0,0.0,23.57,163.37,1.0,18.0,40.0,0.0,0.0,1.0,0.0,0.0,0/40,3.0,13.33,,,0,4.0
+PA Reddy,2461eef2,"Deccan Chargers, Sunrisers Hyderabad",2012,2013,12,11.0,164.0,160.0,15.0,2.0,10.0,42.0,0.0,0.0,0.0,16.4,102.5,,,,,,,,,,,,,,0,2.0
+JG Bethell,3c55c703,Royal Challengers Bengaluru,2025,2026,9,9.0,163.0,116.0,21.0,6.0,9.0,55.0,1.0,0.0,0.0,18.11,140.52,,,,,,,,,,,,,,0,5.0
+N Jagadeesan,bd54eef5,"Chennai Super Kings, Kolkata Knight Riders",2020,2023,13,10.0,162.0,147.0,21.0,2.0,9.0,39.0,0.0,0.0,2.0,18.0,110.2,,,,,,,,,,,,,,0,1.0
+MN Samuels,f846de6a,"Delhi Daredevils, Pune Warriors",2012,2017,15,14.0,161.0,172.0,9.0,7.0,13.0,46.0,0.0,0.0,1.0,12.38,93.6,11.0,214.0,284.0,9.0,0.0,79.0,0.0,0.0,3/39,35.4,7.96,31.56,23.8,1,2.0
+R McLaren,c654af19,"Kings XI Punjab, Kolkata Knight Riders, Mumbai Indians",2010,2013,18,13.0,159.0,171.0,14.0,1.0,8.0,51.0,1.0,0.0,1.0,19.88,92.98,18.0,354.0,542.0,12.0,0.0,116.0,0.0,0.0,2/28,59.0,9.19,45.17,29.5,1,5.0
+RE van der Merwe,05c2ca46,"Delhi Daredevils, Royal Challengers Bangalore",2009,2013,21,15.0,159.0,141.0,11.0,8.0,11.0,35.0,0.0,0.0,0.0,14.45,112.77,21.0,443.0,498.0,21.0,1.0,148.0,0.0,0.0,3/20,73.5,6.74,23.71,21.1,0,6.0
+V Nigam,5ffc0565,Delhi Capitals,2025,2026,19,10.0,157.0,89.0,17.0,8.0,8.0,39.0,0.0,0.0,1.0,19.62,176.4,18.0,288.0,469.0,13.0,0.0,85.0,0.0,0.0,2/18,48.0,9.77,36.08,22.2,0,3.0
+J Overton,59559bc2,Chennai Super Kings,2025,2026,13,8.0,151.0,93.0,14.0,7.0,5.0,43.0,0.0,0.0,0.0,30.2,162.37,13.0,204.0,332.0,14.0,0.0,64.0,1.0,0.0,4/18,34.0,9.76,23.71,14.6,1,1.0
+Azmatullah Omarzai,8f6dd463,"Gujarat Titans, Punjab Kings",2024,2026,20,11.0,151.0,101.0,11.0,10.0,10.0,38.0,0.0,0.0,0.0,15.1,149.5,18.0,354.0,568.0,15.0,0.0,118.0,0.0,0.0,2/27,59.0,9.63,37.87,23.6,0,0.0
+AD Hales,92aeac25,Sunrisers Hyderabad,2018,2018,6,6.0,148.0,118.0,13.0,6.0,6.0,45.0,0.0,0.0,0.0,24.67,125.42,,,,,,,,,,,,,,0,2.0
+D Wiese,aa8d28ae,"Kolkata Knight Riders, Royal Challengers Bangalore",2015,2023,18,11.0,148.0,101.0,12.0,7.0,5.0,47.0,0.0,0.0,0.0,29.6,146.53,15.0,296.0,440.0,16.0,0.0,82.0,1.0,0.0,4/33,49.2,8.92,27.5,18.5,0,8.0
+SM Pollock,88fccd6c,Mumbai Indians,2008,2008,13,8.0,147.0,111.0,12.0,8.0,8.0,33.0,0.0,0.0,2.0,18.38,132.43,13.0,276.0,301.0,11.0,1.0,130.0,0.0,0.0,3/12,46.0,6.54,27.36,25.1,2,2.0
+S Vidyut,756389bd,Chennai Super Kings,2008,2008,9,8.0,145.0,109.0,21.0,3.0,8.0,54.0,1.0,0.0,1.0,18.12,133.03,1.0,12.0,22.0,1.0,0.0,5.0,0.0,0.0,1/22,2.0,11.0,22.0,12.0,0,1.0
+Sachin Baby,dc9dd038,"Rajasthan Royals, Royal Challengers Bangalore, Sunrisers Hyderabad",2013,2025,20,11.0,144.0,118.0,11.0,5.0,9.0,33.0,0.0,0.0,1.0,16.0,122.03,2.0,10.0,8.0,2.0,0.0,5.0,0.0,0.0,2/4,1.4,4.8,4.0,5.0,0,5.0
+Arshad Khan,12314277,"Gujarat Titans, Lucknow Super Giants, Mumbai Indians",2023,2026,26,13.0,142.0,95.0,6.0,11.0,6.0,58.0,1.0,0.0,1.0,23.67,149.47,24.0,364.0,669.0,18.0,1.0,133.0,0.0,0.0,3/22,60.4,11.03,37.17,20.2,0,8.0
+DL Chahar,23eeb873,"Chennai Super Kings, Mumbai Indians, Rising Pune Supergiant, Rising Pune Supergiants",2016,2026,103,21.0,142.0,103.0,8.0,9.0,10.0,39.0,0.0,0.0,4.0,14.2,137.86,103.0,2068.0,2862.0,96.0,8.0,871.0,2.0,0.0,4/13,344.4,8.3,29.81,21.5,2,14.0
+N Saini,addbde6c,Kings XI Punjab,2012,2012,10,10.0,140.0,141.0,16.0,0.0,10.0,50.0,1.0,0.0,0.0,14.0,99.29,,,,,,,,,,,,,,0,13.0
+Anmolpreet Singh,1399b39c,"Mumbai Indians, Sunrisers Hyderabad",2021,2024,9,9.0,139.0,115.0,19.0,3.0,9.0,36.0,0.0,0.0,1.0,15.44,120.87,,,,,,,,,,,,,,0,2.0
+S Anirudha,95a2ea61,"Chennai Super Kings, Sunrisers Hyderabad",2008,2014,20,13.0,136.0,113.0,9.0,7.0,8.0,64.0,1.0,0.0,2.0,17.0,120.35,,,,,,,,,,,,,,1,11.0
+MJ Santner,e4a0deae,"Chennai Super Kings, Mumbai Indians",2019,2026,35,21.0,136.0,123.0,9.0,6.0,8.0,22.0,0.0,0.0,1.0,17.0,110.57,35.0,687.0,860.0,30.0,0.0,241.0,0.0,0.0,3/11,114.3,7.51,28.67,22.9,0,14.0
+GD Phillips,9a46c4e5,"Gujarat Titans, Rajasthan Royals, Sunrisers Hyderabad",2021,2026,14,13.0,132.0,109.0,7.0,8.0,11.0,25.0,0.0,0.0,1.0,12.0,121.1,4.0,30.0,40.0,2.0,0.0,10.0,0.0,0.0,1/10,5.0,8.0,20.0,15.0,1,11.0
+SB Styris,57efa3be,"Chennai Super Kings, Deccan Chargers",2008,2011,12,10.0,131.0,133.0,10.0,3.0,7.0,36.0,0.0,0.0,0.0,18.71,98.5,11.0,216.0,276.0,8.0,0.0,83.0,0.0,0.0,3/32,36.0,7.67,34.5,27.0,0,2.0
+W Jaffer,619aa81f,Royal Challengers Bangalore,2008,2009,8,8.0,130.0,121.0,14.0,3.0,8.0,50.0,1.0,0.0,1.0,16.25,107.44,,,,,,,,,,,,,,0,4.0
+RD Chahar,2ed569a0,"Chennai Super Kings, Mumbai Indians, Punjab Kings, Rising Pune Supergiant, Sunrisers Hyderabad",2017,2026,80,24.0,129.0,124.0,13.0,5.0,16.0,25.0,0.0,0.0,8.0,8.06,104.03,79.0,1694.0,2196.0,75.0,1.0,580.0,1.0,0.0,4/27,282.2,7.78,29.28,22.6,1,21.0
+Kamran Akmal,ff077124,Rajasthan Royals,2008,2008,6,6.0,128.0,78.0,13.0,8.0,5.0,53.0,1.0,0.0,0.0,25.6,164.1,,,,,,,,,,,,,,0,9.0
+UT Khawaja,331ea488,Rising Pune Supergiants,2016,2016,6,6.0,127.0,100.0,14.0,3.0,6.0,30.0,0.0,0.0,0.0,21.17,127.0,,,,,,,,,,,,,,0,1.0
+TK Curran,e86754b2,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",2018,2021,13,10.0,127.0,107.0,10.0,3.0,5.0,54.0,1.0,0.0,0.0,25.4,118.69,13.0,238.0,430.0,13.0,0.0,57.0,0.0,0.0,3/29,39.4,10.84,33.08,18.3,0,2.0
+P Dogra,2728e7e9,"Kings XI Punjab, Kolkata Knight Riders, Rajasthan Royals",2010,2013,13,12.0,127.0,138.0,4.0,5.0,11.0,41.0,0.0,0.0,1.0,11.55,92.03,,,,,,,,,,,,,,0,5.0
+SS Prabhudessai,9385de2e,"Royal Challengers Bangalore, Royal Challengers Bengaluru",2022,2024,11,10.0,126.0,106.0,11.0,4.0,10.0,34.0,0.0,0.0,1.0,12.6,118.87,,,,,,,,,,,,,,0,10.0
+M Morkel,5bb5a915,"Delhi Daredevils, Kolkata Knight Riders, Rajasthan Royals",2009,2016,70,23.0,126.0,90.0,11.0,5.0,11.0,23.0,0.0,0.0,5.0,11.45,140.0,70.0,1629.0,2089.0,77.0,4.0,708.0,1.0,0.0,4/20,271.3,7.69,27.13,21.2,2,11.0
+BB Samantray,53f27a35,"Deccan Chargers, Sunrisers Hyderabad",2012,2013,9,8.0,125.0,113.0,13.0,2.0,5.0,55.0,1.0,0.0,1.0,25.0,110.62,,,,,,,,,,,,,,0,3.0
+MM Sharma,759ac88f,"Chennai Super Kings, Delhi Capitals, Gujarat Titans, Kings XI Punjab",2013,2025,120,33.0,125.0,136.0,8.0,4.0,18.0,21.0,0.0,0.0,5.0,6.94,91.91,119.0,2403.0,3513.0,134.0,2.0,813.0,3.0,1.0,5/10,400.3,8.77,26.22,17.9,5,25.0
+MC Juneja,605b7efa,Delhi Daredevils,2013,2013,7,7.0,125.0,128.0,11.0,1.0,7.0,49.0,0.0,0.0,0.0,17.86,97.66,,,,,,,,,,,,,,0,0.0
+B Lee,dd09ff8e,"Kings XI Punjab, Kolkata Knight Riders",2008,2013,38,19.0,124.0,97.0,8.0,8.0,10.0,25.0,0.0,0.0,1.0,12.4,127.84,38.0,875.0,1095.0,25.0,4.0,374.0,0.0,0.0,3/15,145.5,7.51,43.8,35.0,2,8.0
+Harpreet Singh,28c78fb3,"Kolkata Knight Riders, Pune Warriors, Punjab Kings",2010,2024,9,8.0,123.0,119.0,10.0,3.0,7.0,41.0,0.0,0.0,0.0,17.57,103.36,,,,,,,,,,,,,,0,3.0
+AB McDonald,16043342,"Delhi Daredevils, Royal Challengers Bangalore",2009,2013,10,9.0,123.0,100.0,9.0,4.0,5.0,33.0,0.0,0.0,1.0,24.6,123.0,10.0,186.0,261.0,11.0,0.0,50.0,0.0,0.0,2/25,31.0,8.42,23.73,16.9,0,0.0
+Niraj Patel,a2870fb7,Rajasthan Royals,2008,2009,9,6.0,121.0,119.0,14.0,1.0,4.0,57.0,1.0,0.0,0.0,30.25,101.68,,,,,,,,,,,,,,0,0.0
+S Arora,d7423da1,Sunrisers Hyderabad,2026,2026,13,10.0,121.0,77.0,9.0,9.0,6.0,30.0,0.0,0.0,1.0,20.17,157.14,,,,,,,,,,,,,,0,3.0
+DL Vettori,d7c6af50,"Delhi Daredevils, Royal Challengers Bangalore",2008,2012,34,17.0,121.0,113.0,11.0,2.0,8.0,29.0,0.0,0.0,1.0,15.12,107.08,34.0,777.0,879.0,28.0,0.0,270.0,0.0,0.0,3/15,129.3,6.79,31.39,27.8,1,11.0
+AC Blizzard,1efb8a28,Mumbai Indians,2011,2012,7,7.0,120.0,90.0,21.0,2.0,7.0,51.0,1.0,0.0,1.0,17.14,133.33,,,,,,,,,,,,,,0,4.0
+TG Southee,13c35c9e,"Chennai Super Kings, Kolkata Knight Riders, Mumbai Indians, Rajasthan Royals, Royal Challengers Bangalore",2011,2023,54,20.0,120.0,107.0,8.0,4.0,13.0,36.0,0.0,0.0,3.0,9.23,112.15,54.0,1206.0,1742.0,47.0,1.0,447.0,0.0,0.0,3/20,201.0,8.67,37.06,25.7,1,21.0
+Mohammed Siraj,2f49c897,"Gujarat Titans, Royal Challengers Bangalore, Royal Challengers Bengaluru, Sunrisers Hyderabad",2017,2026,125,28.0,117.0,139.0,11.0,4.0,12.0,14.0,0.0,0.0,3.0,9.75,84.17,125.0,2672.0,3911.0,128.0,5.0,1111.0,3.0,0.0,4/17,445.2,8.78,30.55,20.9,7,37.0
+Misbah-ul-Haq,7eae4418,Royal Challengers Bangalore,2008,2008,8,8.0,117.0,81.0,10.0,6.0,7.0,47.0,0.0,0.0,2.0,16.71,144.44,,,,,,,,,,,,,,0,1.0
+RJ Harris,12eddf28,"Deccan Chargers, Kings XI Punjab",2009,2013,37,21.0,117.0,112.0,6.0,3.0,12.0,17.0,0.0,0.0,2.0,9.75,104.46,37.0,832.0,1047.0,45.0,1.0,364.0,1.0,0.0,4/34,138.4,7.55,23.27,18.5,1,18.0
+Z Khan,91a4a398,"Delhi Daredevils, Mumbai Indians, Royal Challengers Bangalore",2008,2017,99,32.0,117.0,141.0,11.0,2.0,14.0,23.0,0.0,0.0,5.0,8.36,82.98,99.0,2200.0,2782.0,102.0,7.0,873.0,1.0,0.0,4/17,366.4,7.59,27.27,21.6,1,20.0
+KK Cooper,557153ca,Rajasthan Royals,2012,2014,25,14.0,116.0,68.0,9.0,8.0,9.0,32.0,0.0,0.0,1.0,12.89,170.59,25.0,576.0,757.0,33.0,0.0,184.0,1.0,0.0,4/26,96.0,7.89,22.94,17.5,1,11.0
+Mohammed Shami,8cf9814c,"Delhi Daredevils, Gujarat Titans, Kings XI Punjab, Kolkata Knight Riders, Lucknow Super Giants, Punjab Kings, Sunrisers Hyderabad",2013,2026,132,36.0,115.0,111.0,9.0,5.0,19.0,21.0,0.0,0.0,6.0,6.05,103.6,132.0,2912.0,4208.0,145.0,4.0,1164.0,2.0,0.0,4/11,485.2,8.67,29.02,20.1,4,22.0
+Aman Hakim Khan,378daa89,"Delhi Capitals, Kolkata Knight Riders",2022,2023,12,10.0,115.0,104.0,8.0,6.0,9.0,51.0,1.0,0.0,1.0,12.78,110.58,1.0,6.0,13.0,0.0,0.0,1.0,0.0,0.0,0/13,1.0,13.0,,,0,9.0
+DJM Short,1a156c88,Rajasthan Royals,2018,2018,7,7.0,115.0,99.0,11.0,5.0,7.0,44.0,0.0,0.0,0.0,16.43,116.16,2.0,18.0,19.0,1.0,0.0,7.0,0.0,0.0,1/10,3.0,6.33,19.0,18.0,0,2.0
+M Kartik,abfeb126,"Kings XI Punjab, Kolkata Knight Riders, Pune Warriors, Royal Challengers Bangalore",2008,2014,56,16.0,113.0,108.0,7.0,1.0,7.0,21.0,0.0,0.0,1.0,16.14,104.63,55.0,1149.0,1388.0,31.0,1.0,382.0,0.0,0.0,3/17,191.3,7.25,44.77,37.1,1,18.0
+DJ Harris,39f82db3,Deccan Chargers,2012,2012,4,4.0,111.0,101.0,11.0,5.0,4.0,47.0,0.0,0.0,0.0,27.75,109.9,2.0,18.0,26.0,0.0,0.0,4.0,0.0,0.0,0/11,3.0,8.67,,,0,5.0
+MA Starc,3fb19989,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bangalore",2014,2026,58,25.0,111.0,121.0,11.0,0.0,12.0,29.0,0.0,0.0,4.0,9.25,91.74,56.0,1191.0,1750.0,76.0,1.0,468.0,3.0,1.0,5/35,198.3,8.82,23.03,15.7,6,30.0
+JDP Oram,3eac9d95,"Chennai Super Kings, Mumbai Indians, Rajasthan Royals",2008,2013,18,12.0,106.0,108.0,6.0,5.0,8.0,41.0,0.0,0.0,1.0,13.25,98.15,14.0,237.0,349.0,9.0,0.0,79.0,0.0,0.0,3/32,39.3,8.84,38.78,26.3,1,7.0
+LJ Wright,cca50cd6,Pune Warriors,2012,2013,7,6.0,106.0,60.0,16.0,3.0,5.0,44.0,0.0,0.0,0.0,21.2,176.67,6.0,71.0,124.0,2.0,0.0,14.0,0.0,0.0,1/12,11.5,10.48,62.0,35.5,1,2.0
+DS Kulkarni,d2a989fc,"Gujarat Lions, Mumbai Indians, Rajasthan Royals",2008,2021,92,23.0,104.0,108.0,7.0,2.0,9.0,28.0,0.0,0.0,0.0,11.56,96.3,92.0,1787.0,2474.0,86.0,9.0,742.0,1.0,0.0,4/14,297.5,8.31,28.77,20.8,0,18.0
+RJ Quiney,23ac69e6,Rajasthan Royals,2009,2009,7,7.0,103.0,102.0,12.0,3.0,7.0,51.0,1.0,0.0,0.0,14.71,100.98,,,,,,,,,,,,,,0,1.0
+MS Gony,ae78bc32,"Chennai Super Kings, Deccan Chargers, Gujarat Lions, Kings XI Punjab",2008,2017,44,17.0,99.0,71.0,6.0,8.0,10.0,42.0,0.0,0.0,3.0,9.9,139.44,44.0,888.0,1287.0,37.0,3.0,348.0,0.0,0.0,3/31,148.0,8.7,34.78,24.0,1,4.0
+SD Chitnis,facb9086,"Kings XI Punjab, Mumbai Indians, Rajasthan Royals",2008,2012,11,8.0,99.0,89.0,10.0,2.0,7.0,38.0,0.0,0.0,0.0,14.14,111.24,2.0,36.0,60.0,2.0,0.0,9.0,0.0,0.0,2/40,6.0,10.0,30.0,18.0,0,2.0
+MJ Clarke,f842c2cf,Pune Warriors,2012,2012,6,6.0,98.0,94.0,12.0,0.0,6.0,41.0,0.0,0.0,0.0,16.33,104.26,5.0,66.0,67.0,2.0,0.0,22.0,0.0,0.0,1/12,11.0,6.09,33.5,33.0,0,1.0
+CJ Ferguson,9b4935c8,Pune Warriors,2011,2012,9,8.0,98.0,117.0,9.0,0.0,6.0,23.0,0.0,0.0,0.0,16.33,83.76,,,,,,,,,,,,,,0,2.0
+C Bosch,172dff15,Mumbai Indians,2025,2026,9,6.0,97.0,63.0,8.0,5.0,3.0,32.0,0.0,0.0,0.0,32.33,153.97,8.0,163.0,250.0,13.0,1.0,67.0,1.0,0.0,4/26,27.1,9.2,19.23,12.5,0,6.0
+PN Mankad,663b5e34,"Lucknow Super Giants, Punjab Kings",2022,2023,6,6.0,97.0,73.0,13.0,2.0,3.0,64.0,1.0,0.0,1.0,32.33,132.88,,,,,,,,,,,,,,1,6.0
+TA Boult,a818c1be,"Delhi Capitals, Delhi Daredevils, Kolkata Knight Riders, Mumbai Indians, Rajasthan Royals, Sunrisers Hyderabad",2015,2026,124,31.0,93.0,85.0,5.0,4.0,10.0,17.0,0.0,0.0,3.0,9.3,109.41,124.0,2780.0,3935.0,145.0,10.0,1135.0,2.0,0.0,4/18,463.2,8.49,27.14,19.2,7,33.0
+PR Shah,0aadc906,"Mumbai Indians, Rajasthan Royals",2008,2011,16,10.0,92.0,91.0,9.0,2.0,8.0,29.0,0.0,0.0,1.0,11.5,101.1,,,,,,,,,,,,,,0,13.0
+DJ Jacobs,a84468fe,Mumbai Indians,2011,2012,7,7.0,92.0,98.0,10.0,4.0,7.0,32.0,0.0,0.0,1.0,13.14,93.88,,,,,,,,,,,,,,0,5.0
+PHKD Mendis,08548b13,Sunrisers Hyderabad,2025,2025,5,5.0,92.0,69.0,7.0,2.0,4.0,32.0,0.0,0.0,1.0,23.0,133.33,4.0,42.0,60.0,2.0,0.0,11.0,0.0,0.0,1/4,7.0,8.57,30.0,21.0,0,1.0
+Himmat Singh,ebcfef83,Lucknow Super Giants,2025,2026,9,5.0,92.0,69.0,5.0,5.0,3.0,40.0,0.0,0.0,0.0,30.67,133.33,,,,,,,,,,,,,,0,2.0
+JDS Neesham,9219eff0,"Delhi Daredevils, Kings XI Punjab, Mumbai Indians, Rajasthan Royals",2014,2022,14,10.0,92.0,93.0,6.0,2.0,9.0,22.0,0.0,0.0,2.0,10.22,98.92,13.0,216.0,334.0,8.0,0.0,63.0,0.0,0.0,3/12,36.0,9.28,41.75,27.0,0,2.0
+S Rana,90edaaa9,"Pune Warriors, Royal Challengers Bangalore",2011,2014,11,8.0,91.0,81.0,9.0,1.0,4.0,19.0,0.0,0.0,0.0,22.75,112.35,3.0,16.0,18.0,0.0,0.0,5.0,0.0,0.0,0/2,2.4,6.75,,,0,3.0
+AJ Tye,7c7d63a2,"Gujarat Lions, Kings XI Punjab, Lucknow Super Giants, Rajasthan Royals",2017,2022,30,13.0,91.0,76.0,6.0,5.0,9.0,25.0,0.0,0.0,2.0,10.11,119.74,30.0,684.0,979.0,42.0,0.0,208.0,3.0,1.0,5/17,114.0,8.59,23.31,16.3,2,7.0
+RT Ponting,7d415ea5,"Kolkata Knight Riders, Mumbai Indians",2008,2013,10,9.0,91.0,128.0,5.0,2.0,9.0,28.0,0.0,0.0,3.0,10.11,71.09,,,,,,,,,,,,,,0,4.0
+AD Nath,f10e94c4,"Gujarat Lions, Kings XI Punjab, Royal Challengers Bangalore",2016,2019,14,10.0,90.0,98.0,7.0,2.0,10.0,24.0,0.0,0.0,1.0,9.0,91.84,,,,,,,,,,,,,,0,2.0
+PR Veer,e148e6bd,Chennai Super Kings,2026,2026,6,5.0,90.0,67.0,10.0,3.0,2.0,43.0,0.0,0.0,0.0,45.0,134.33,1.0,12.0,25.0,0.0,0.0,5.0,0.0,0.0,0/25,2.0,12.5,,,0,0.0
+MD Shanaka,3ff033bb,"Gujarat Titans, Rajasthan Royals",2023,2026,10,8.0,89.0,72.0,5.0,5.0,7.0,29.0,0.0,0.0,1.0,12.71,123.61,3.0,36.0,60.0,1.0,0.0,7.0,0.0,0.0,1/29,6.0,10.0,60.0,36.0,0,4.0
+SL Malinga,a12e1d51,Mumbai Indians,2009,2019,122,25.0,88.0,99.0,6.0,5.0,16.0,17.0,0.0,0.0,6.0,5.5,88.89,122.0,2827.0,3366.0,170.0,9.0,1144.0,6.0,1.0,5/13,471.1,7.14,19.8,16.6,6,15.0
+Iqbal Abdulla,85aae393,"Kolkata Knight Riders, Rajasthan Royals, Royal Challengers Bangalore",2008,2017,49,13.0,88.0,84.0,9.0,1.0,2.0,33.0,0.0,0.0,1.0,44.0,104.76,48.0,920.0,1109.0,40.0,1.0,331.0,0.0,0.0,3/24,153.2,7.23,27.72,23.0,2,12.0
+AP Majumdar,f4cb4f53,Pune Warriors,2012,2012,4,4.0,87.0,76.0,7.0,2.0,4.0,31.0,0.0,0.0,0.0,21.75,114.47,,,,,,,,,,,,,,0,0.0
+Ankit Sharma,24d94623,"Deccan Chargers, Rajasthan Royals, Rising Pune Supergiant, Rising Pune Supergiants, Sunrisers Hyderabad",2012,2018,22,10.0,87.0,67.0,7.0,4.0,7.0,30.0,0.0,0.0,1.0,12.43,129.85,21.0,367.0,450.0,12.0,0.0,137.0,0.0,0.0,2/20,61.1,7.36,37.5,30.6,0,4.0
+MJ McClenaghan,51a3c5ef,Mumbai Indians,2015,2019,56,24.0,85.0,70.0,5.0,7.0,13.0,20.0,0.0,0.0,6.0,6.54,121.43,56.0,1274.0,1803.0,71.0,2.0,507.0,1.0,0.0,4/21,212.2,8.49,25.39,17.9,2,1.0
+RE Levi,18c78b11,Mumbai Indians,2012,2012,6,6.0,83.0,73.0,10.0,4.0,6.0,50.0,1.0,0.0,2.0,13.83,113.7,,,,,,,,,,,,,,1,2.0
+NM Coulter-Nile,56ab442f,"Delhi Daredevils, Kolkata Knight Riders, Mumbai Indians, Rajasthan Royals",2013,2022,39,17.0,82.0,72.0,7.0,4.0,11.0,24.0,0.0,0.0,0.0,7.45,113.89,38.0,857.0,1100.0,48.0,1.0,368.0,2.0,0.0,4/14,142.5,7.7,22.92,17.9,5,10.0
+WPUJC Vaas,bcce309e,Deccan Chargers,2008,2010,13,11.0,81.0,73.0,2.0,3.0,8.0,20.0,0.0,0.0,3.0,10.12,110.96,13.0,282.0,355.0,18.0,1.0,128.0,0.0,0.0,3/21,47.0,7.55,19.72,15.7,1,0.0
+Shahid Afridi,0dc00542,Deccan Chargers,2008,2008,10,9.0,81.0,46.0,7.0,6.0,8.0,33.0,0.0,0.0,1.0,10.12,176.09,10.0,180.0,225.0,9.0,0.0,57.0,0.0,0.0,3/28,30.0,7.5,25.0,20.0,0,4.0
+PWH de Silva,a97c8ec2,"Rajasthan Royals, Royal Challengers Bangalore",2021,2025,37,19.0,81.0,88.0,7.0,1.0,15.0,18.0,0.0,0.0,5.0,5.4,92.05,37.0,798.0,1119.0,46.0,1.0,264.0,2.0,1.0,5/18,133.0,8.41,24.33,17.3,2,3.0
+CJ Jordan,ffe699c0,"Chennai Super Kings, Kings XI Punjab, Mumbai Indians, Punjab Kings, Royal Challengers Bangalore, Sunrisers Hyderabad",2016,2023,34,13.0,81.0,77.0,3.0,3.0,10.0,30.0,0.0,0.0,1.0,8.1,105.19,34.0,668.0,1070.0,30.0,1.0,205.0,1.0,0.0,4/11,111.2,9.61,35.67,22.3,1,14.0
+LA Carseldine,d872f52a,Rajasthan Royals,2009,2009,5,5.0,81.0,68.0,11.0,0.0,4.0,39.0,0.0,0.0,0.0,20.25,119.12,1.0,6.0,6.0,1.0,0.0,4.0,0.0,0.0,1/6,1.0,6.0,6.0,6.0,0,4.0
+RV Patel,60500956,Delhi Capitals,2021,2023,9,7.0,80.0,73.0,6.0,2.0,5.0,23.0,0.0,0.0,0.0,16.0,109.59,1.0,18.0,22.0,0.0,0.0,5.0,0.0,0.0,0/22,3.0,7.33,,,0,3.0
+AD Mascarenhas,3edb58fc,"Kings XI Punjab, Rajasthan Royals",2008,2013,13,11.0,79.0,78.0,5.0,1.0,9.0,27.0,0.0,0.0,2.0,8.78,101.28,13.0,308.0,356.0,19.0,0.0,124.0,0.0,1.0,5/25,51.2,6.94,18.74,16.2,1,2.0
+CR Woakes,4c5d73db,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bangalore",2017,2021,21,12.0,78.0,77.0,7.0,2.0,6.0,18.0,0.0,0.0,0.0,13.0,101.3,21.0,440.0,658.0,30.0,1.0,161.0,0.0,0.0,3/6,73.2,8.97,21.93,14.7,0,6.0
+JR Philippe,39086549,Royal Challengers Bangalore,2020,2020,5,5.0,78.0,77.0,9.0,1.0,4.0,33.0,0.0,0.0,1.0,19.5,101.3,,,,,,,,,,,,,,0,0.0
+AS Roy,e4cdf230,"Kolkata Knight Riders, Mumbai Indians",2019,2026,25,14.0,78.0,64.0,6.0,2.0,8.0,29.0,0.0,0.0,5.0,9.75,121.88,22.0,323.0,479.0,15.0,0.0,106.0,0.0,0.0,2/19,53.5,8.9,31.93,21.5,0,16.0
+KA Jamieson,68c56d09,"Delhi Capitals, Punjab Kings, Royal Challengers Bangalore",2021,2026,15,10.0,77.0,73.0,6.0,4.0,5.0,16.0,0.0,0.0,0.0,15.4,105.48,15.0,300.0,506.0,16.0,1.0,114.0,0.0,0.0,3/41,50.0,10.12,31.62,18.8,0,2.0
+IR Jaggi,dded65e7,"Deccan Chargers, Kolkata Knight Riders",2011,2017,7,7.0,76.0,97.0,6.0,0.0,5.0,28.0,0.0,0.0,0.0,15.2,78.35,,,,,,,,,,,,,,0,2.0
+B Akhil,af7dadf7,"Kochi Tuskers Kerala, Royal Challengers Bangalore",2008,2011,15,11.0,76.0,55.0,5.0,5.0,6.0,27.0,0.0,0.0,2.0,12.67,138.18,13.0,188.0,242.0,6.0,0.0,60.0,0.0,0.0,2/17,31.2,7.72,40.33,31.3,0,3.0
+TR Birt,d2d4bb0a,Delhi Daredevils,2011,2011,5,5.0,75.0,58.0,9.0,2.0,5.0,27.0,0.0,0.0,0.0,15.0,129.31,,,,,,,,,,,,,,0,0.0
+JJ Bumrah,462411b3,Mumbai Indians,2013,2026,158,33.0,75.0,86.0,6.0,1.0,8.0,16.0,0.0,0.0,5.0,9.38,87.21,158.0,3631.0,4441.0,187.0,6.0,1452.0,3.0,2.0,5/10,605.1,7.34,23.75,19.4,10,15.0
+A Kamboj,fcc21ace,"Chennai Super Kings, Mumbai Indians",2024,2026,25,10.0,74.0,52.0,5.0,4.0,3.0,19.0,0.0,0.0,1.0,24.67,142.31,25.0,491.0,816.0,31.0,0.0,186.0,0.0,0.0,3/13,81.5,9.97,26.32,15.8,0,6.0
+M Klinger,b970a03f,Kochi Tuskers Kerala,2011,2011,4,4.0,73.0,77.0,9.0,0.0,4.0,29.0,0.0,0.0,0.0,18.25,94.81,,,,,,,,,,,,,,0,0.0
+RR Sarwan,36d33dd0,Kings XI Punjab,2008,2008,4,4.0,73.0,75.0,6.0,1.0,4.0,31.0,0.0,0.0,0.0,18.25,97.33,,,,,,,,,,,,,,0,1.0
+LH Ferguson,2f9d0389,"Gujarat Titans, Kolkata Knight Riders, Punjab Kings, Rising Pune Supergiant, Royal Challengers Bengaluru",2017,2026,52,11.0,72.0,47.0,7.0,2.0,3.0,24.0,0.0,0.0,1.0,24.0,153.19,52.0,1089.0,1671.0,52.0,0.0,394.0,1.0,0.0,4/28,181.3,9.21,32.13,20.9,3,9.0
+Vishnu Vinod,0494fa6e,"Mumbai Indians, Punjab Kings, Royal Challengers Bangalore",2017,2026,7,7.0,71.0,65.0,4.0,4.0,6.0,30.0,0.0,0.0,0.0,11.83,109.23,,,,,,,,,,,,,,0,3.0
+SK Rasheed,cbf58a86,Chennai Super Kings,2025,2025,5,5.0,71.0,63.0,9.0,2.0,5.0,27.0,0.0,0.0,1.0,14.2,112.7,,,,,,,,,,,,,,0,2.0
+J Suchith,4125d931,"Delhi Capitals, Mumbai Indians, Sunrisers Hyderabad",2015,2022,22,10.0,70.0,61.0,6.0,3.0,4.0,34.0,0.0,0.0,1.0,17.5,114.75,21.0,420.0,602.0,19.0,0.0,140.0,0.0,0.0,2/12,70.0,8.6,31.68,22.1,0,17.0
+AA Bilakhia,bff458c6,Deccan Chargers,2009,2010,7,7.0,69.0,85.0,5.0,0.0,5.0,22.0,0.0,0.0,0.0,13.8,81.18,,,,,,,,,,,,,,0,1.0
+Vivrant Sharma,1b7b0fa7,Sunrisers Hyderabad,2023,2023,3,1.0,69.0,47.0,9.0,2.0,1.0,69.0,1.0,0.0,0.0,69.0,146.81,2.0,18.0,37.0,0.0,0.0,5.0,0.0,0.0,0/18,3.0,12.33,,,0,0.0
+Avesh Khan,eef2536f,"Delhi Capitals, Delhi Daredevils, Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bangalore",2017,2026,82,18.0,68.0,43.0,7.0,4.0,4.0,19.0,0.0,0.0,1.0,17.0,158.14,82.0,1767.0,2734.0,93.0,1.0,610.0,1.0,0.0,4/24,294.3,9.28,29.4,19.0,3,13.0
+RR Powar,5d096f3d,"Kings XI Punjab, Kochi Tuskers Kerala",2008,2012,27,10.0,67.0,64.0,6.0,1.0,3.0,28.0,0.0,0.0,1.0,22.33,104.69,26.0,426.0,527.0,13.0,0.0,166.0,0.0,0.0,2/11,71.0,7.42,40.54,32.8,0,5.0
+R Sharma,5d9a1a73,"Deccan Chargers, Delhi Daredevils, Pune Warriors",2010,2014,44,20.0,66.0,75.0,5.0,3.0,14.0,14.0,0.0,0.0,8.0,4.71,88.0,44.0,928.0,1086.0,40.0,1.0,334.0,0.0,0.0,3/13,154.4,7.02,27.15,23.2,2,10.0
+HR Shokeen,0c9652b0,Mumbai Indians,2022,2023,13,6.0,66.0,65.0,9.0,0.0,3.0,25.0,0.0,0.0,0.0,22.0,101.54,13.0,204.0,314.0,5.0,0.0,78.0,0.0,0.0,2/34,34.0,9.24,62.8,40.8,0,5.0
+WD Parnell,3a60e0b5,"Delhi Daredevils, Pune Warriors, Royal Challengers Bangalore",2011,2023,33,14.0,65.0,80.0,4.0,1.0,10.0,16.0,0.0,0.0,0.0,6.5,81.25,33.0,723.0,937.0,35.0,1.0,296.0,0.0,0.0,3/10,120.3,7.78,26.77,20.7,1,10.0
+Mohammad Hafeez,9ab63e7b,Kolkata Knight Riders,2008,2008,8,8.0,64.0,83.0,7.0,2.0,7.0,16.0,0.0,0.0,0.0,9.14,77.11,4.0,60.0,68.0,2.0,0.0,22.0,0.0,0.0,1/8,10.0,6.8,34.0,30.0,0,1.0
+Anirudh Singh,7bb62642,Deccan Chargers,2010,2010,5,4.0,63.0,66.0,6.0,1.0,4.0,40.0,0.0,0.0,1.0,15.75,95.45,,,,,,,,,,,,,,0,3.0
+N Sindhu,3cea23da,Gujarat Titans,2026,2026,8,5.0,63.0,50.0,7.0,2.0,5.0,22.0,0.0,0.0,0.0,12.6,126.0,,,,,,,,,,,,,,0,3.0
+A Flintoff,ddc0828d,Chennai Super Kings,2009,2009,3,3.0,62.0,53.0,5.0,2.0,2.0,24.0,0.0,0.0,0.0,31.0,116.98,3.0,66.0,105.0,2.0,0.0,20.0,0.0,0.0,1/11,11.0,9.55,52.5,33.0,0,3.0
+SP Jackson,acc1aeda,Kolkata Knight Riders,2017,2022,9,8.0,61.0,57.0,5.0,1.0,6.0,16.0,0.0,0.0,1.0,10.17,107.02,,,,,,,,,,,,,,0,9.0
+Sandeep Sharma,ce820073,"Kings XI Punjab, Punjab Kings, Rajasthan Royals, Sunrisers Hyderabad",2013,2026,142,28.0,60.0,75.0,4.0,0.0,6.0,9.0,0.0,0.0,4.0,10.0,80.0,142.0,3159.0,4294.0,151.0,6.0,1205.0,2.0,1.0,5/18,526.3,8.16,28.44,20.9,7,19.0
+S Aravind,957532de,Royal Challengers Bangalore,2011,2017,38,12.0,59.0,57.0,7.0,0.0,4.0,14.0,0.0,0.0,2.0,14.75,103.51,38.0,760.0,1039.0,45.0,1.0,290.0,2.0,0.0,4/14,126.4,8.2,23.09,16.9,1,5.0
+Harshit Rana,77b1aa15,Kolkata Knight Riders,2022,2025,33,10.0,59.0,56.0,5.0,3.0,6.0,34.0,0.0,0.0,1.0,9.83,105.36,32.0,649.0,1029.0,40.0,2.0,247.0,0.0,0.0,3/24,108.1,9.51,25.72,16.2,0,11.0
+MG Bracewell,e38bce7a,Royal Challengers Bangalore,2023,2023,5,4.0,58.0,47.0,6.0,1.0,2.0,26.0,0.0,0.0,0.0,29.0,123.4,5.0,66.0,95.0,6.0,0.0,26.0,0.0,0.0,2/13,11.0,8.64,15.83,11.0,0,1.0
+I Sharma,5bb1a1c4,"Deccan Chargers, Delhi Capitals, Gujarat Titans, Kings XI Punjab, Kolkata Knight Riders, Rising Pune Supergiants, Sunrisers Hyderabad",2008,2025,117,28.0,57.0,69.0,4.0,2.0,6.0,10.0,0.0,0.0,1.0,9.5,82.61,117.0,2419.0,3377.0,96.0,7.0,999.0,0.0,1.0,5/12,403.1,8.38,35.18,25.2,4,20.0
+WA Mota,3dba85c2,Kings XI Punjab,2008,2009,12,8.0,56.0,75.0,2.0,0.0,6.0,25.0,0.0,0.0,0.0,9.33,74.67,7.0,72.0,97.0,4.0,0.0,24.0,0.0,0.0,1/6,12.0,8.08,24.25,18.0,0,5.0
+M Rawat,de8d3876,"Pune Warriors, Rajasthan Royals",2008,2013,18,12.0,55.0,69.0,4.0,1.0,5.0,23.0,0.0,0.0,1.0,11.0,79.71,,,,,,,,,,,,,,0,18.0
+TU Deshpande,46a9bea1,"Chennai Super Kings, Delhi Capitals, Rajasthan Royals",2020,2026,53,10.0,54.0,36.0,2.0,4.0,4.0,25.0,0.0,0.0,0.0,13.5,150.0,53.0,1103.0,1858.0,55.0,0.0,377.0,1.0,0.0,4/27,183.5,10.11,33.78,20.1,0,10.0
+A Chopra,e249fdaa,Kolkata Knight Riders,2008,2009,7,6.0,53.0,71.0,7.0,0.0,6.0,24.0,0.0,0.0,0.0,8.83,74.65,,,,,,,,,,,,,,0,2.0
+DJ Willey,7f048519,"Chennai Super Kings, Royal Challengers Bangalore",2018,2023,11,5.0,53.0,62.0,7.0,0.0,2.0,20.0,0.0,0.0,1.0,26.5,85.48,11.0,216.0,272.0,6.0,1.0,79.0,0.0,0.0,2/16,36.0,7.56,45.33,36.0,0,4.0
+Shivang Kumar,7b44eb3e,Sunrisers Hyderabad,2026,2026,13,6.0,53.0,46.0,6.0,1.0,6.0,27.0,0.0,0.0,0.0,8.83,115.22,13.0,234.0,375.0,9.0,0.0,62.0,0.0,0.0,3/33,39.0,9.62,41.67,26.0,0,0.0
+PVD Chameera,327b58d3,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",2022,2026,21,12.0,53.0,45.0,3.0,3.0,4.0,17.0,0.0,0.0,2.0,13.25,117.78,20.0,396.0,648.0,13.0,0.0,151.0,0.0,0.0,2/17,66.0,9.82,49.85,30.5,0,3.0
+RP Singh,c3d1402f,"Deccan Chargers, Kochi Tuskers Kerala, Mumbai Indians, Rising Pune Supergiants, Royal Challengers Bangalore",2008,2016,82,30.0,52.0,76.0,2.0,1.0,15.0,10.0,0.0,0.0,5.0,3.47,68.42,82.0,1775.0,2338.0,90.0,1.0,744.0,2.0,0.0,4/22,295.5,7.9,25.98,19.7,1,27.0
+Shoaib Malik,64c34cd0,Delhi Daredevils,2008,2008,7,5.0,52.0,47.0,5.0,0.0,4.0,24.0,0.0,0.0,0.0,13.0,110.64,5.0,51.0,85.0,2.0,0.0,15.0,0.0,0.0,1/6,8.3,10.0,42.5,25.5,0,6.0
+Swapnil Singh,983f2f61,"Kings XI Punjab, Lucknow Super Giants, Royal Challengers Bengaluru",2016,2024,14,9.0,51.0,45.0,3.0,3.0,5.0,15.0,0.0,0.0,2.0,10.2,113.33,14.0,162.0,241.0,7.0,0.0,39.0,0.0,0.0,2/28,27.0,8.93,34.43,23.1,0,2.0
+OF Smith,23cca426,Punjab Kings,2022,2022,6,6.0,51.0,44.0,1.0,5.0,3.0,25.0,0.0,0.0,1.0,17.0,115.91,6.0,90.0,178.0,6.0,0.0,35.0,1.0,0.0,4/30,15.0,11.87,29.67,15.0,1,2.0
+R Rampaul,d68e7f48,Royal Challengers Bangalore,2013,2014,12,7.0,51.0,50.0,3.0,2.0,5.0,23.0,0.0,0.0,3.0,10.2,102.0,12.0,262.0,298.0,14.0,3.0,127.0,0.0,0.0,3/31,43.4,6.82,21.29,18.7,0,4.0
+KB Arun Karthik,7daedf2f,"Chennai Super Kings, Royal Challengers Bangalore",2010,2013,17,8.0,51.0,51.0,4.0,1.0,5.0,19.0,0.0,0.0,1.0,10.2,100.0,,,,,,,,,,,,,,0,14.0
+Shivam Mavi,c38d3503,Kolkata Knight Riders,2018,2022,32,12.0,51.0,56.0,4.0,2.0,9.0,20.0,0.0,0.0,3.0,5.67,91.07,32.0,649.0,942.0,30.0,3.0,254.0,1.0,0.0,4/21,108.1,8.71,31.4,21.6,2,17.0
+RV Gomez,b2570b38,"Kochi Tuskers Kerala, Pune Warriors",2011,2013,13,9.0,50.0,51.0,5.0,1.0,5.0,26.0,0.0,0.0,3.0,10.0,98.04,9.0,96.0,129.0,5.0,1.0,37.0,0.0,0.0,2/14,16.0,8.06,25.8,19.2,0,3.0
+VR Aaron,0a3d54b9,"Delhi Daredevils, Gujarat Titans, Kings XI Punjab, Rajasthan Royals, Royal Challengers Bangalore",2011,2022,52,13.0,50.0,72.0,2.0,2.0,5.0,17.0,0.0,0.0,1.0,10.0,69.44,50.0,994.0,1481.0,44.0,1.0,387.0,0.0,0.0,3/16,165.4,8.94,33.66,22.6,2,3.0
+AS Yadav,b9be6507,Deccan Chargers,2008,2008,8,6.0,49.0,39.0,5.0,2.0,5.0,16.0,0.0,0.0,1.0,9.8,125.64,,,,,,,,,,,,,,0,1.0
+AG Paunikar,3a02626a,Rajasthan Royals,2010,2011,5,5.0,49.0,58.0,9.0,0.0,5.0,20.0,0.0,0.0,1.0,9.8,84.48,,,,,,,,,,,,,,0,1.0
+A Nortje,acdc62f5,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",2020,2026,49,18.0,49.0,50.0,6.0,0.0,7.0,23.0,0.0,0.0,3.0,7.0,98.0,49.0,1120.0,1696.0,61.0,1.0,422.0,0.0,0.0,3/33,186.4,9.09,27.8,18.4,3,10.0
+SB Bangar,0604ef16,"Deccan Chargers, Kolkata Knight Riders",2008,2009,12,8.0,49.0,58.0,1.0,3.0,7.0,17.0,0.0,0.0,1.0,7.0,84.48,9.0,150.0,219.0,4.0,1.0,55.0,0.0,0.0,2/34,25.0,8.76,54.75,37.5,0,2.0
+T Kohler-Cadmore,f836b33d,Rajasthan Royals,2024,2024,3,3.0,48.0,54.0,7.0,1.0,3.0,20.0,0.0,0.0,0.0,16.0,88.89,,,,,,,,,,,,,,0,1.0
+M Markande,a9fd84fb,"Mumbai Indians, Rajasthan Royals, Sunrisers Hyderabad",2018,2026,40,11.0,48.0,42.0,5.0,1.0,3.0,18.0,0.0,0.0,0.0,16.0,114.29,40.0,750.0,1145.0,37.0,0.0,215.0,2.0,0.0,4/15,125.0,9.16,30.95,20.3,0,8.0
+Yashpal Singh,297b26da,Kolkata Knight Riders,2009,2009,8,4.0,47.0,66.0,5.0,0.0,4.0,20.0,0.0,0.0,0.0,11.75,71.21,,,,,,,,,,,,,,0,3.0
+SU Parakh,926c7443,Delhi Capitals,2026,2026,4,4.0,46.0,33.0,5.0,2.0,4.0,24.0,0.0,0.0,1.0,11.5,139.39,,,,,,,,,,,,,,0,1.0
+Ravi Bishnoi,df064e1a,"Kings XI Punjab, Lucknow Super Giants, Punjab Kings, Rajasthan Royals",2020,2026,86,20.0,45.0,69.0,2.0,2.0,12.0,13.0,0.0,0.0,4.0,3.75,65.22,85.0,1789.0,2494.0,83.0,1.0,599.0,1.0,0.0,4/41,298.1,8.36,30.05,21.6,1,27.0
+TL Seifert,4663bd23,"Delhi Capitals, Kolkata Knight Riders",2021,2026,6,6.0,45.0,41.0,6.0,1.0,6.0,21.0,0.0,0.0,2.0,7.5,109.76,,,,,,,,,,,,,,0,4.0
+D Pretorius,11614d87,Chennai Super Kings,2022,2023,7,5.0,44.0,28.0,3.0,3.0,4.0,22.0,0.0,0.0,1.0,11.0,157.14,7.0,150.0,238.0,6.0,0.0,42.0,0.0,0.0,2/30,25.0,9.52,39.67,25.0,0,3.0
+DR Sams,caf69bf7,"Delhi Capitals, Mumbai Indians, Royal Challengers Bangalore",2020,2022,16,13.0,44.0,44.0,1.0,3.0,9.0,15.0,0.0,0.0,3.0,4.89,100.0,16.0,360.0,523.0,14.0,0.0,142.0,1.0,0.0,4/30,60.0,8.72,37.36,25.7,1,11.0
+Sunny Singh,30e37810,Kings XI Punjab,2011,2011,6,5.0,43.0,31.0,6.0,1.0,4.0,20.0,0.0,0.0,0.0,10.75,138.71,,,,,,,,,,,,,,0,1.0
+Rasikh Salam,b8527c3d,"Delhi Capitals, Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",2019,2026,25,8.0,43.0,42.0,5.0,0.0,5.0,10.0,0.0,0.0,0.0,8.6,102.38,25.0,488.0,814.0,29.0,1.0,151.0,1.0,0.0,4/24,81.2,10.01,28.07,16.8,0,5.0
+AB Barath,d3a3e82d,Kings XI Punjab,2010,2010,3,3.0,42.0,42.0,5.0,1.0,2.0,33.0,0.0,0.0,0.0,21.0,100.0,,,,,,,,,,,,,,0,0.0
+SK Trivedi,3d7e087f,Rajasthan Royals,2008,2013,76,15.0,42.0,59.0,3.0,1.0,7.0,9.0,0.0,0.0,1.0,6.0,71.19,75.0,1506.0,1904.0,65.0,2.0,492.0,1.0,0.0,4/25,251.0,7.59,29.29,23.2,2,12.0
+A Nehra,96fd40ae,"Chennai Super Kings, Delhi Daredevils, Mumbai Indians, Pune Warriors, Sunrisers Hyderabad",2008,2017,88,22.0,41.0,62.0,3.0,1.0,7.0,22.0,0.0,0.0,5.0,5.86,66.13,88.0,1908.0,2495.0,106.0,2.0,798.0,1.0,0.0,4/10,318.0,7.85,23.54,18.0,6,17.0
+J Yadav,81049310,"Delhi Daredevils, Gujarat Titans, Mumbai Indians",2015,2023,20,5.0,40.0,36.0,2.0,1.0,4.0,23.0,0.0,0.0,0.0,10.0,111.11,20.0,390.0,445.0,8.0,0.0,153.0,0.0,0.0,1/8,65.0,6.85,55.62,48.8,0,7.0
+LPC Silva,1be70c88,Deccan Chargers,2008,2008,3,3.0,40.0,26.0,5.0,1.0,2.0,23.0,0.0,0.0,1.0,20.0,153.85,1.0,6.0,21.0,0.0,0.0,0.0,0.0,0.0,0/21,1.0,21.0,,,0,3.0
+BR Dunk,272d796e,Mumbai Indians,2014,2014,3,3.0,40.0,35.0,7.0,0.0,3.0,20.0,0.0,0.0,0.0,13.33,114.29,,,,,,,,,,,,,,0,4.0
+XC Bartlett,3b53243a,Punjab Kings,2025,2026,13,4.0,40.0,28.0,3.0,2.0,2.0,18.0,0.0,0.0,1.0,20.0,142.86,13.0,261.0,484.0,7.0,0.0,82.0,0.0,0.0,2/9,43.3,11.13,69.14,37.3,0,15.0
+DJ Thornely,7d3937ed,Mumbai Indians,2008,2008,6,4.0,39.0,53.0,2.0,2.0,3.0,30.0,0.0,0.0,1.0,13.0,73.58,4.0,42.0,40.0,3.0,0.0,19.0,0.0,0.0,2/7,7.0,5.71,13.33,14.0,0,2.0
+MM Patel,f0f628c7,"Gujarat Lions, Mumbai Indians, Rajasthan Royals",2008,2017,63,15.0,39.0,41.0,5.0,0.0,6.0,23.0,0.0,0.0,5.0,6.5,95.12,63.0,1355.0,1698.0,74.0,5.0,590.0,2.0,1.0,5/21,225.5,7.52,22.95,18.3,2,12.0
+S Nadeem,9d80c5e1,"Delhi Daredevils, Sunrisers Hyderabad",2011,2021,72,22.0,39.0,87.0,2.0,0.0,14.0,6.0,0.0,0.0,6.0,2.79,44.83,70.0,1415.0,1784.0,48.0,2.0,453.0,0.0,0.0,3/16,235.5,7.56,37.17,29.5,2,11.0
+AUK Pathan,3ae3f034,Royal Challengers Bangalore,2011,2012,8,7.0,39.0,23.0,5.0,2.0,5.0,14.0,0.0,0.0,2.0,7.8,169.57,3.0,39.0,63.0,0.0,0.0,9.0,0.0,0.0,0/14,6.3,9.69,,,0,2.0
+Umar Gul,16dfcc19,Kolkata Knight Riders,2008,2008,6,4.0,39.0,19.0,1.0,5.0,3.0,24.0,0.0,0.0,0.0,13.0,205.26,6.0,135.0,184.0,12.0,1.0,51.0,1.0,0.0,4/23,22.3,8.18,15.33,11.2,1,0.0
+YS Chahal,57ee1fde,"Mumbai Indians, Punjab Kings, Rajasthan Royals, Royal Challengers Bangalore",2013,2026,189,20.0,37.0,86.0,0.0,0.0,7.0,8.0,0.0,0.0,1.0,5.29,43.02,184.0,4037.0,5417.0,233.0,6.0,1319.0,8.0,1.0,5/40,672.5,8.05,23.25,17.3,7,31.0
+S Narwal,287686fd,"Kolkata Knight Riders, Rajasthan Royals",2010,2013,7,4.0,37.0,27.0,6.0,0.0,3.0,23.0,0.0,0.0,1.0,12.33,137.04,6.0,106.0,202.0,5.0,0.0,37.0,0.0,0.0,3/36,17.4,11.43,40.4,21.2,0,1.0
+AN Ahmed,2af1b6d2,"Mumbai Indians, Royal Challengers Bangalore",2010,2015,17,6.0,36.0,26.0,4.0,1.0,1.0,18.0,0.0,0.0,0.0,36.0,138.46,17.0,344.0,498.0,12.0,0.0,120.0,0.0,0.0,2/13,57.2,8.69,41.5,28.7,0,2.0
+Sohail Tanvir,64d43928,Rajasthan Royals,2008,2008,11,5.0,36.0,29.0,3.0,1.0,3.0,13.0,0.0,0.0,0.0,12.0,124.14,11.0,247.0,266.0,22.0,3.0,121.0,1.0,1.0,6/14,41.1,6.46,12.09,11.2,2,4.0
+Anureet Singh,69be866a,"Kings XI Punjab, Kolkata Knight Riders, Rajasthan Royals",2009,2018,23,8.0,36.0,47.0,2.0,1.0,4.0,15.0,0.0,0.0,2.0,9.0,76.6,22.0,412.0,623.0,18.0,0.0,139.0,0.0,0.0,3/23,68.4,9.07,34.61,22.9,0,5.0
+Joginder Sharma,9f961c14,Chennai Super Kings,2008,2011,16,6.0,36.0,30.0,1.0,2.0,4.0,16.0,0.0,0.0,2.0,9.0,120.0,15.0,256.0,419.0,12.0,0.0,71.0,0.0,0.0,2/27,42.4,9.82,34.92,21.3,0,5.0
+L Balaji,b2b50355,"Chennai Super Kings, Kings XI Punjab, Kolkata Knight Riders",2008,2014,73,15.0,36.0,49.0,2.0,1.0,8.0,15.0,0.0,0.0,5.0,4.5,73.47,73.0,1512.0,2028.0,76.0,4.0,537.0,3.0,1.0,5/24,252.0,8.05,26.68,19.9,3,9.0
+KW Richardson,dfc4d8b5,"Pune Warriors, Rajasthan Royals, Royal Challengers Bangalore",2013,2021,15,4.0,36.0,39.0,2.0,1.0,3.0,26.0,0.0,0.0,0.0,12.0,92.31,15.0,335.0,472.0,19.0,0.0,129.0,0.0,0.0,3/13,55.5,8.45,24.84,17.6,0,5.0
+A Kumble,0c2730df,Royal Challengers Bangalore,2008,2010,42,17.0,35.0,47.0,3.0,0.0,3.0,8.0,0.0,0.0,0.0,11.67,74.47,42.0,965.0,1058.0,45.0,3.0,374.0,2.0,1.0,5/5,160.5,6.58,23.51,21.4,3,9.0
+B Sumanth,f4f0fafd,Deccan Chargers,2010,2010,5,4.0,35.0,37.0,3.0,0.0,1.0,16.0,0.0,0.0,0.0,35.0,94.59,,,,,,,,,,,,,,0,4.0
+RA Bawa,ba6b2f91,"Mumbai Indians, Punjab Kings",2022,2026,8,4.0,35.0,32.0,2.0,0.0,3.0,16.0,0.0,0.0,1.0,11.67,109.38,2.0,24.0,50.0,2.0,0.0,7.0,0.0,0.0,1/11,4.0,12.5,25.0,12.0,0,6.0
+Salil Arora,d7423da1,Sunrisers Hyderabad,2026,2026,1,1.0,35.0,21.0,2.0,2.0,1.0,35.0,0.0,0.0,0.0,35.0,166.67,,,,,,,,,,,,,,0,0.0
+M Ashwin,e2db2409,"Kings XI Punjab, Mumbai Indians, Punjab Kings, Rajasthan Royals, Rising Pune Supergiants, Royal Challengers Bangalore",2016,2023,44,13.0,35.0,50.0,2.0,1.0,9.0,9.0,0.0,0.0,2.0,3.89,70.0,44.0,870.0,1162.0,35.0,1.0,283.0,0.0,0.0,3/21,145.0,8.01,33.2,24.9,0,7.0
+A Mithun,66cf56a5,Royal Challengers Bangalore,2009,2013,16,8.0,34.0,26.0,4.0,1.0,5.0,11.0,0.0,0.0,1.0,6.8,130.77,16.0,288.0,472.0,7.0,0.0,90.0,0.0,0.0,2/37,48.0,9.83,67.43,41.1,0,7.0
+S Sreesanth,6b8eb6e5,"Kings XI Punjab, Kochi Tuskers Kerala, Rajasthan Royals",2008,2013,44,14.0,34.0,55.0,6.0,0.0,4.0,15.0,0.0,0.0,3.0,8.5,61.82,44.0,880.0,1194.0,40.0,5.0,399.0,0.0,0.0,3/29,146.4,8.14,29.85,22.0,1,3.0
+AP Dole,dbc50253,Rajasthan Royals,2010,2010,3,2.0,34.0,22.0,3.0,1.0,2.0,30.0,0.0,0.0,0.0,17.0,154.55,3.0,66.0,112.0,5.0,0.0,20.0,0.0,0.0,2/36,11.0,10.18,22.4,13.2,0,2.0
+L Ronchi,0fa5042b,Mumbai Indians,2008,2009,5,5.0,34.0,34.0,6.0,1.0,5.0,13.0,0.0,0.0,1.0,6.8,100.0,,,,,,,,,,,,,,0,4.0
+Imran Tahir,acee4cc4,"Chennai Super Kings, Delhi Daredevils, Rising Pune Supergiant",2014,2021,59,9.0,33.0,37.0,5.0,0.0,4.0,13.0,0.0,0.0,0.0,8.25,89.19,59.0,1316.0,1703.0,82.0,3.0,437.0,3.0,0.0,4/12,219.2,7.76,20.77,16.0,1,8.0
+D Salunkhe,0264c10e,Rajasthan Royals,2008,2008,6,3.0,33.0,24.0,5.0,0.0,2.0,26.0,0.0,0.0,0.0,16.5,137.5,5.0,47.0,78.0,1.0,0.0,13.0,0.0,0.0,1/21,7.5,9.96,78.0,47.0,0,2.0
+Basil Thampi,871e9faf,"Gujarat Lions, Mumbai Indians, Sunrisers Hyderabad",2017,2022,25,8.0,32.0,35.0,1.0,1.0,1.0,13.0,0.0,0.0,0.0,32.0,91.43,25.0,521.0,846.0,22.0,0.0,152.0,0.0,0.0,3/29,86.5,9.74,38.45,23.7,0,4.0
+Arshdeep Singh,244048f6,"Kings XI Punjab, Punjab Kings",2019,2026,97,15.0,32.0,47.0,4.0,0.0,6.0,10.0,0.0,0.0,3.0,5.33,68.09,95.0,2032.0,3111.0,111.0,2.0,714.0,2.0,1.0,5/32,338.4,9.19,28.03,18.3,2,16.0
+RJ Peterson,26ff4c29,Mumbai Indians,2012,2012,5,5.0,32.0,30.0,3.0,1.0,3.0,16.0,0.0,0.0,1.0,10.67,106.67,4.0,48.0,70.0,3.0,0.0,21.0,0.0,0.0,3/37,8.0,8.75,23.33,16.0,0,1.0
+AT Carey,69d03465,Delhi Capitals,2020,2020,3,3.0,32.0,29.0,0.0,1.0,2.0,14.0,0.0,0.0,0.0,16.0,110.34,,,,,,,,,,,,,,0,2.0
+S Sriram,64a4c383,"Delhi Daredevils, Royal Challengers Bangalore",2010,2011,2,2.0,31.0,36.0,3.0,0.0,2.0,27.0,0.0,0.0,0.0,15.5,86.11,2.0,18.0,49.0,0.0,0.0,2.0,0.0,0.0,0/24,3.0,16.33,,,0,0.0
+T Taibu,75de770f,Kolkata Knight Riders,2008,2008,3,3.0,31.0,26.0,3.0,0.0,3.0,15.0,0.0,0.0,0.0,10.33,119.23,,,,,,,,,,,,,,0,1.0
+GF Linde,e5437608,Lucknow Super Giants,2026,2026,3,3.0,31.0,21.0,6.0,0.0,3.0,16.0,0.0,0.0,0.0,10.33,147.62,3.0,37.0,55.0,1.0,0.0,10.0,0.0,0.0,1/18,6.1,8.92,55.0,37.0,0,0.0
+Noor Ahmad,efc04be7,"Chennai Super Kings, Gujarat Titans",2023,2026,51,17.0,31.0,58.0,2.0,1.0,11.0,8.0,0.0,0.0,2.0,2.82,53.45,51.0,1098.0,1495.0,61.0,0.0,358.0,2.0,0.0,4/18,183.0,8.17,24.51,18.0,3,12.0
+CV Varun,5b7ab5a9,"Kings XI Punjab, Kolkata Knight Riders",2019,2026,94,15.0,31.0,53.0,3.0,0.0,6.0,10.0,0.0,0.0,2.0,5.17,58.49,94.0,2134.0,2745.0,111.0,1.0,773.0,1.0,1.0,5/20,355.4,7.72,24.73,19.2,8,15.0
+NA Saini,21d4e29b,"Rajasthan Royals, Royal Challengers Bangalore",2019,2023,28,6.0,31.0,35.0,3.0,0.0,3.0,12.0,0.0,0.0,0.0,10.33,88.57,28.0,586.0,837.0,17.0,1.0,251.0,0.0,0.0,2/24,97.4,8.57,49.24,34.5,0,0.0
+G Coetzee,3204c99f,"Gujarat Titans, Mumbai Indians",2024,2025,14,7.0,31.0,33.0,2.0,2.0,6.0,12.0,0.0,0.0,1.0,5.17,93.94,14.0,273.0,472.0,15.0,0.0,90.0,1.0,0.0,4/34,45.3,10.37,31.47,18.2,0,3.0
+NS Naik,aedc3b7c,"Kings XI Punjab, Kolkata Knight Riders",2016,2020,4,4.0,31.0,50.0,2.0,0.0,4.0,22.0,0.0,0.0,0.0,7.75,62.0,,,,,,,,,,,,,,0,3.0
+J Syed Mohammad,c64c2443,Royal Challengers Bangalore,2011,2013,11,5.0,29.0,26.0,4.0,0.0,2.0,13.0,0.0,0.0,0.0,14.5,111.54,11.0,192.0,283.0,8.0,0.0,47.0,0.0,0.0,2/15,32.0,8.84,35.38,24.0,0,1.0
+Akshat Raghuwanshi,d8d67045,Lucknow Super Giants,2026,2026,3,2.0,29.0,25.0,1.0,1.0,2.0,18.0,0.0,0.0,0.0,14.5,116.0,,,,,,,,,,,,,,0,1.0
+VH Zol,6dbcf855,Royal Challengers Bangalore,2014,2014,3,2.0,29.0,26.0,3.0,1.0,2.0,16.0,0.0,0.0,0.0,14.5,111.54,,,,,,,,,,,,,,0,0.0
+SB Jakati,c8179c68,"Chennai Super Kings, Gujarat Lions, Royal Challengers Bangalore",2009,2017,59,8.0,28.0,29.0,3.0,0.0,1.0,13.0,0.0,0.0,0.0,28.0,96.55,57.0,1085.0,1451.0,47.0,1.0,337.0,2.0,0.0,4/22,180.5,8.02,30.87,23.1,1,19.0
+AS Joseph,b0946605,"Gujarat Titans, Mumbai Indians, Royal Challengers Bengaluru",2019,2024,22,7.0,27.0,32.0,3.0,0.0,1.0,15.0,0.0,0.0,1.0,27.0,84.38,22.0,434.0,691.0,21.0,1.0,162.0,0.0,1.0,6/12,72.2,9.55,32.9,20.7,1,3.0
+JM Kemp,6581d753,Chennai Super Kings,2010,2010,5,2.0,26.0,24.0,1.0,1.0,2.0,22.0,0.0,0.0,0.0,13.0,108.33,5.0,44.0,54.0,3.0,1.0,15.0,0.0,0.0,3/12,7.2,7.36,18.0,14.7,0,1.0
+NL McCullum,5673a3fc,Pune Warriors,2011,2011,2,2.0,26.0,22.0,0.0,1.0,1.0,15.0,0.0,0.0,0.0,26.0,118.18,2.0,30.0,34.0,0.0,0.0,10.0,0.0,0.0,0/12,5.0,6.8,,,0,1.0
+AB Dinda,66b30f71,"Delhi Daredevils, Kolkata Knight Riders, Pune Warriors, Rising Pune Supergiant, Rising Pune Supergiants, Royal Challengers Bangalore",2008,2017,78,17.0,26.0,48.0,2.0,0.0,10.0,7.0,0.0,0.0,6.0,2.6,54.17,75.0,1516.0,2073.0,69.0,2.0,627.0,1.0,0.0,4/18,252.4,8.2,30.04,22.0,2,7.0
+AS Rajpoot,db31895a,"Chennai Super Kings, Kings XI Punjab, Kolkata Knight Riders, Rajasthan Royals",2013,2020,29,7.0,26.0,41.0,2.0,1.0,5.0,8.0,0.0,0.0,0.0,5.2,63.41,29.0,529.0,814.0,24.0,1.0,192.0,0.0,1.0,5/14,88.1,9.23,33.92,22.0,2,3.0
+AA Kulkarni,2d140b79,Lucknow Super Giants,2024,2026,4,4.0,26.0,33.0,3.0,0.0,4.0,17.0,0.0,0.0,2.0,6.5,78.79,,,,,,,,,,,,,,0,0.0
+PJ Sangwan,9fc0ef64,"Delhi Daredevils, Gujarat Lions, Gujarat Titans, Kolkata Knight Riders, Mumbai Indians",2008,2022,42,15.0,26.0,44.0,1.0,0.0,8.0,6.0,0.0,0.0,4.0,3.25,59.09,42.0,856.0,1240.0,38.0,2.0,319.0,0.0,0.0,3/18,142.4,8.69,32.63,22.5,0,8.0
+DJ Malan,ad9c32a2,Punjab Kings,2021,2021,1,1.0,26.0,26.0,1.0,1.0,1.0,26.0,0.0,0.0,0.0,26.0,100.0,,,,,,,,,,,,,,0,1.0
+S Chanderpaul,881a9bdd,Royal Challengers Bangalore,2008,2008,3,3.0,25.0,31.0,4.0,0.0,3.0,16.0,0.0,0.0,0.0,8.33,80.65,,,,,,,,,,,,,,0,0.0
+Akash Deep,0a67aec0,"Lucknow Super Giants, Royal Challengers Bangalore, Royal Challengers Bengaluru",2022,2025,14,5.0,25.0,14.0,2.0,2.0,3.0,17.0,0.0,0.0,2.0,8.33,178.57,14.0,278.0,548.0,10.0,1.0,89.0,0.0,0.0,3/45,46.2,11.83,54.8,27.8,0,2.0
+Mohsin Khan,c33d8116,Lucknow Super Giants,2022,2026,31,7.0,25.0,28.0,2.0,1.0,5.0,13.0,0.0,0.0,3.0,5.0,89.29,30.0,654.0,917.0,38.0,2.0,272.0,1.0,1.0,5/23,109.0,8.41,24.13,17.2,1,4.0
+AF Milne,350bb1b1,"Chennai Super Kings, Mumbai Indians, Rajasthan Royals, Royal Challengers Bangalore",2016,2026,11,7.0,25.0,31.0,0.0,1.0,4.0,15.0,0.0,0.0,1.0,6.25,80.65,11.0,227.0,368.0,7.0,0.0,71.0,0.0,0.0,2/21,37.5,9.73,52.57,32.4,0,7.0
+A Choudhary,18e6906e,Royal Challengers Bangalore,2017,2017,5,3.0,25.0,20.0,1.0,1.0,1.0,15.0,0.0,0.0,0.0,25.0,125.0,5.0,101.0,144.0,5.0,2.0,42.0,0.0,0.0,2/17,16.5,8.55,28.8,20.2,0,0.0
+Sanvir Singh,b0f2baf4,Sunrisers Hyderabad,2023,2024,6,5.0,25.0,21.0,2.0,1.0,2.0,8.0,0.0,0.0,1.0,12.5,119.05,,,,,,,,,,,,,,0,3.0
+Tanush Kotian,5724e517,Rajasthan Royals,2024,2024,1,1.0,24.0,31.0,3.0,0.0,1.0,24.0,0.0,0.0,0.0,24.0,77.42,,,,,,,,,,,,,,0,0.0
+KC Cariappa,edb3d4f8,"Kings XI Punjab, Kolkata Knight Riders",2015,2019,11,5.0,24.0,21.0,0.0,2.0,3.0,12.0,0.0,0.0,0.0,8.0,114.29,11.0,216.0,348.0,8.0,0.0,61.0,0.0,0.0,2/16,36.0,9.67,43.5,27.0,0,2.0
+Kartik Tyagi,5d2eea49,"Gujarat Titans, Kolkata Knight Riders, Rajasthan Royals, Sunrisers Hyderabad",2020,2026,34,10.0,24.0,26.0,2.0,1.0,7.0,7.0,0.0,0.0,2.0,3.43,92.31,33.0,728.0,1211.0,33.0,0.0,255.0,0.0,0.0,3/22,121.2,9.98,36.7,22.1,1,6.0
+MA Khote,0d232ffd,Mumbai Indians,2008,2008,4,3.0,24.0,22.0,2.0,1.0,2.0,9.0,0.0,0.0,0.0,12.0,109.09,2.0,30.0,51.0,2.0,0.0,5.0,0.0,0.0,2/29,5.0,10.2,25.5,15.0,0,0.0
+ER Dwivedi,b274dbbd,Gujarat Lions,2016,2016,4,2.0,24.0,14.0,2.0,2.0,2.0,19.0,0.0,0.0,0.0,12.0,171.43,,,,,,,,,,,,,,0,2.0
+AJ Turner,ff1e12a0,"Lucknow Super Giants, Rajasthan Royals",2019,2024,6,6.0,24.0,28.0,0.0,2.0,5.0,16.0,0.0,0.0,3.0,4.8,85.71,,,,,,,,,,,,,,0,0.0
+BMAJ Mendis,9868bc75,Delhi Daredevils,2013,2013,3,3.0,23.0,27.0,0.0,0.0,3.0,12.0,0.0,0.0,1.0,7.67,85.19,2.0,30.0,36.0,1.0,0.0,11.0,0.0,0.0,1/16,5.0,7.2,36.0,30.0,0,2.0
+J Arunkumar,f663ef00,Royal Challengers Bangalore,2008,2008,3,3.0,23.0,23.0,5.0,0.0,3.0,22.0,0.0,0.0,1.0,7.67,100.0,,,,,,,,,,,,,,0,0.0
+P Dubey,ed5a5510,"Delhi Capitals, Punjab Kings",2020,2025,5,2.0,23.0,33.0,2.0,0.0,1.0,16.0,0.0,0.0,0.0,23.0,69.7,5.0,78.0,111.0,2.0,0.0,23.0,0.0,0.0,1/19,13.0,8.54,55.5,39.0,0,4.0
+SW Tait,addfb70e,Rajasthan Royals,2010,2013,21,5.0,23.0,26.0,1.0,1.0,3.0,11.0,0.0,0.0,1.0,7.67,88.46,21.0,473.0,640.0,23.0,2.0,200.0,0.0,0.0,3/13,78.5,8.12,27.83,20.6,0,5.0
+Umran Malik,81c08fa3,Sunrisers Hyderabad,2021,2024,26,6.0,23.0,16.0,1.0,2.0,2.0,19.0,0.0,0.0,2.0,11.5,143.75,26.0,493.0,772.0,29.0,2.0,205.0,1.0,1.0,5/25,82.1,9.4,26.62,17.0,2,4.0
+Sediqullah Atal,3c28853f,Delhi Capitals,2025,2025,1,1.0,22.0,16.0,0.0,2.0,1.0,22.0,0.0,0.0,0.0,22.0,137.5,,,,,,,,,,,,,,0,0.0
+HE van der Dussen,9948e262,Rajasthan Royals,2022,2022,3,3.0,22.0,24.0,2.0,0.0,2.0,12.0,0.0,0.0,0.0,11.0,91.67,,,,,,,,,,,,,,0,0.0
+SA Abbott,1a2676c5,"Royal Challengers Bangalore, Sunrisers Hyderabad",2015,2022,3,3.0,22.0,18.0,1.0,2.0,3.0,14.0,0.0,0.0,0.0,7.33,122.22,3.0,54.0,104.0,1.0,0.0,13.0,0.0,0.0,1/47,9.0,11.56,104.0,54.0,0,0.0
+Yudhvir Singh,4885bbe6,"Lucknow Super Giants, Rajasthan Royals",2023,2025,9,4.0,22.0,16.0,1.0,2.0,4.0,14.0,0.0,0.0,1.0,5.5,137.5,9.0,138.0,253.0,8.0,0.0,54.0,0.0,0.0,3/47,23.0,11.0,31.62,17.2,0,0.0
+KL Nagarkoti,b4f5c2d9,"Delhi Capitals, Kolkata Knight Riders",2020,2022,12,7.0,22.0,33.0,1.0,0.0,4.0,8.0,0.0,0.0,2.0,5.5,66.67,11.0,180.0,285.0,5.0,0.0,50.0,0.0,0.0,2/13,30.0,9.5,57.0,36.0,0,9.0
+AU Rashid,249d60c9,"Punjab Kings, Sunrisers Hyderabad",2021,2023,3,2.0,22.0,16.0,2.0,1.0,2.0,18.0,0.0,0.0,0.0,11.0,137.5,3.0,60.0,91.0,2.0,0.0,20.0,0.0,0.0,2/23,10.0,9.1,45.5,30.0,0,0.0
+GB Hogg,f708a0bc,"Kolkata Knight Riders, Rajasthan Royals",2012,2016,21,6.0,22.0,22.0,1.0,0.0,3.0,13.0,0.0,0.0,0.0,7.33,100.0,21.0,458.0,570.0,23.0,1.0,159.0,1.0,0.0,4/29,76.2,7.47,24.78,19.9,0,4.0
+M Tiwari,fb5f69e4,Delhi Capitals,2025,2026,5,2.0,21.0,12.0,2.0,1.0,1.0,18.0,0.0,0.0,0.0,21.0,175.0,4.0,66.0,101.0,4.0,0.0,19.0,0.0,0.0,2/27,11.0,9.18,25.25,16.5,1,3.0
+B Indrajith,ff1e68fa,Kolkata Knight Riders,2022,2022,3,3.0,21.0,30.0,2.0,0.0,3.0,15.0,0.0,0.0,1.0,7.0,70.0,,,,,,,,,,,,,,0,1.0
+DE Bollinger,45c2196c,Chennai Super Kings,2010,2012,27,4.0,21.0,23.0,1.0,1.0,1.0,16.0,0.0,0.0,0.0,21.0,91.3,27.0,576.0,693.0,37.0,2.0,254.0,1.0,0.0,4/13,96.0,7.22,18.73,15.6,2,6.0
+AJ Hosein,4d7f517e,"Chennai Super Kings, Sunrisers Hyderabad",2023,2026,8,4.0,21.0,13.0,1.0,1.0,0.0,16.0,0.0,0.0,0.0,,161.54,8.0,172.0,238.0,9.0,1.0,63.0,1.0,0.0,4/17,28.4,8.3,26.44,19.1,0,2.0
+Kumar Kushagra,57ca01b3,"Delhi Capitals, Gujarat Titans",2024,2026,5,4.0,21.0,21.0,3.0,0.0,4.0,18.0,0.0,0.0,1.0,5.25,100.0,,,,,,,,,,,,,,0,2.0
+AC Thomas,b552a935,Pune Warriors,2011,2012,15,4.0,20.0,19.0,1.0,1.0,2.0,12.0,0.0,0.0,0.0,10.0,105.26,15.0,315.0,406.0,14.0,2.0,126.0,0.0,0.0,3/22,52.3,7.73,29.0,22.5,0,3.0
+NJ Maddinson,44afbf2d,Royal Challengers Bangalore,2014,2015,3,3.0,20.0,21.0,4.0,0.0,3.0,12.0,0.0,0.0,0.0,6.67,95.24,,,,,,,,,,,,,,0,1.0
+BKG Mendis,5d1e7582,Gujarat Titans,2025,2025,1,1.0,20.0,10.0,1.0,2.0,1.0,20.0,0.0,0.0,0.0,20.0,200.0,,,,,,,,,,,,,,0,1.0
+S Kaul,dcf81436,"Delhi Daredevils, Royal Challengers Bangalore, Sunrisers Hyderabad",2013,2022,55,12.0,20.0,36.0,1.0,0.0,4.0,7.0,0.0,0.0,2.0,5.0,55.56,55.0,1209.0,1739.0,58.0,3.0,387.0,1.0,0.0,4/29,201.3,8.63,29.98,20.8,0,8.0
+RR Raje,5f4e9e8f,Mumbai Indians,2008,2009,10,5.0,20.0,18.0,1.0,1.0,1.0,11.0,0.0,0.0,0.0,20.0,111.11,10.0,139.0,209.0,6.0,1.0,39.0,0.0,0.0,2/16,23.1,9.02,34.83,23.2,0,3.0
+M Muralitharan,4ba44e19,"Chennai Super Kings, Kochi Tuskers Kerala, Royal Challengers Bangalore",2008,2014,66,9.0,20.0,30.0,1.0,0.0,6.0,6.0,0.0,0.0,2.0,3.33,66.67,66.0,1524.0,1696.0,63.0,1.0,598.0,0.0,0.0,3/11,254.0,6.68,26.92,24.2,2,14.0
+C Sakariya,2cdce1be,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",2021,2025,20,8.0,20.0,31.0,3.0,0.0,6.0,7.0,0.0,0.0,1.0,3.33,64.52,20.0,444.0,638.0,20.0,2.0,146.0,0.0,0.0,3/31,74.0,8.62,31.9,22.2,0,6.0
+P Ray Barman,441c72ae,Royal Challengers Bangalore,2019,2019,1,1.0,19.0,24.0,2.0,0.0,1.0,19.0,0.0,0.0,0.0,19.0,79.17,1.0,24.0,56.0,0.0,0.0,2.0,0.0,0.0,0/56,4.0,14.0,,,0,0.0
+P Sahu,9a0146b3,Kings XI Punjab,2016,2016,5,2.0,19.0,13.0,1.0,1.0,1.0,18.0,0.0,0.0,0.0,19.0,146.15,5.0,105.0,146.0,3.0,0.0,24.0,0.0,0.0,2/18,17.3,8.34,48.67,35.0,0,0.0
+A Mukund,6165bca6,"Chennai Super Kings, Royal Challengers Bangalore",2008,2013,3,2.0,19.0,22.0,1.0,0.0,2.0,19.0,0.0,0.0,1.0,9.5,86.36,,,,,,,,,,,,,,0,3.0
+DR Martyn,69762509,Rajasthan Royals,2010,2010,1,1.0,19.0,24.0,1.0,0.0,1.0,19.0,0.0,0.0,0.0,19.0,79.17,,,,,,,,,,,,,,0,0.0
+R Smaran,c1e53c3f,Sunrisers Hyderabad,2026,2026,6,4.0,19.0,25.0,3.0,0.0,3.0,9.0,0.0,0.0,0.0,6.33,76.0,,,,,,,,,,,,,,0,4.0
+JR Hazlewood,03806cf8,"Chennai Super Kings, Royal Challengers Bangalore, Royal Challengers Bengaluru",2020,2026,52,8.0,19.0,30.0,1.0,0.0,1.0,7.0,0.0,0.0,1.0,19.0,63.33,52.0,1176.0,1690.0,72.0,2.0,494.0,3.0,0.0,4/12,196.0,8.62,23.47,16.3,4,8.0
+Gulbadin Naib,9f77963a,Delhi Capitals,2024,2024,2,1.0,19.0,15.0,1.0,1.0,1.0,19.0,0.0,0.0,0.0,19.0,126.67,1.0,6.0,12.0,0.0,0.0,1.0,0.0,0.0,0/12,1.0,12.0,,,0,1.0
+NT Ellis,9eb1455b,"Chennai Super Kings, Punjab Kings",2021,2025,17,5.0,19.0,25.0,0.0,1.0,4.0,12.0,0.0,0.0,2.0,4.75,76.0,17.0,378.0,546.0,19.0,0.0,117.0,1.0,0.0,4/30,63.0,8.67,28.74,19.9,1,2.0
+R Shukla,de4b0555,"Delhi Daredevils, Mumbai Indians, Rajasthan Royals",2012,2014,7,4.0,19.0,23.0,2.0,0.0,1.0,14.0,0.0,0.0,0.0,19.0,82.61,7.0,120.0,208.0,5.0,0.0,38.0,0.0,0.0,2/28,20.0,10.4,41.6,24.0,0,3.0
+Y Gnaneswara Rao,bae11797,Kochi Tuskers Kerala,2011,2011,2,1.0,19.0,17.0,3.0,0.0,1.0,19.0,0.0,0.0,0.0,19.0,111.76,1.0,6.0,7.0,0.0,0.0,3.0,0.0,0.0,0/7,1.0,7.0,,,0,2.0
+R Bishnoi,4d5a1617,Royal Challengers Bangalore,2009,2009,3,3.0,19.0,17.0,1.0,2.0,3.0,18.0,0.0,0.0,1.0,6.33,111.76,,,,,,,,,,,,,,0,1.0
+Arjun Tendulkar,44aac2f0,"Lucknow Super Giants, Mumbai Indians",2023,2026,6,2.0,18.0,14.0,0.0,1.0,1.0,13.0,0.0,0.0,0.0,18.0,128.57,6.0,97.0,150.0,4.0,0.0,36.0,0.0,0.0,1/9,16.1,9.28,37.5,24.2,0,1.0
+R Sai Kishore,c7a995d3,Gujarat Titans,2022,2026,28,5.0,18.0,16.0,0.0,2.0,4.0,13.0,0.0,0.0,0.0,4.5,112.5,27.0,465.0,697.0,33.0,0.0,136.0,1.0,0.0,4/33,77.3,8.99,21.12,14.1,1,8.0
+BJ Haddin,b0c772ee,Kolkata Knight Riders,2011,2011,1,1.0,18.0,11.0,2.0,1.0,1.0,18.0,0.0,0.0,0.0,18.0,163.64,,,,,,,,,,,,,,0,0.0
+DS Lehmann,53fe6ee4,Rajasthan Royals,2008,2008,2,2.0,18.0,18.0,3.0,0.0,2.0,17.0,0.0,0.0,0.0,9.0,100.0,,,,,,,,,,,,,,0,0.0
+KMA Paul,75224f22,Delhi Capitals,2019,2019,8,6.0,18.0,24.0,1.0,1.0,5.0,7.0,0.0,0.0,2.0,3.6,75.0,8.0,163.0,237.0,9.0,0.0,52.0,0.0,0.0,3/17,27.1,8.72,26.33,18.1,1,6.0
+Harmeet Singh,2a72fd4f,"Deccan Chargers, Kings XI Punjab",2009,2013,27,6.0,18.0,12.0,3.0,0.0,4.0,14.0,0.0,0.0,2.0,4.5,150.0,27.0,525.0,697.0,26.0,0.0,189.0,0.0,0.0,3/24,87.3,7.97,26.81,20.2,2,3.0
+JJ van der Wath,6821ac10,Royal Challengers Bangalore,2011,2011,3,3.0,18.0,16.0,1.0,1.0,2.0,14.0,0.0,0.0,1.0,9.0,112.5,3.0,72.0,129.0,3.0,0.0,29.0,0.0,0.0,2/49,12.0,10.75,43.0,24.0,0,0.0
+Sumit Kumar,8998a68f,Delhi Capitals,2024,2024,4,3.0,18.0,24.0,2.0,1.0,2.0,9.0,0.0,0.0,0.0,9.0,75.0,2.0,20.0,38.0,0.0,0.0,4.0,0.0,0.0,0/19,3.2,11.4,,,0,1.0
+PV Tambe,6aed7e79,"Gujarat Lions, Rajasthan Royals",2013,2016,33,6.0,18.0,39.0,1.0,0.0,2.0,7.0,0.0,0.0,0.0,9.0,46.15,33.0,660.0,853.0,28.0,0.0,204.0,1.0,0.0,4/20,110.0,7.75,30.46,23.6,2,1.0
+T Banton,25f7b7d6,Kolkata Knight Riders,2020,2020,2,2.0,18.0,20.0,1.0,1.0,2.0,10.0,0.0,0.0,0.0,9.0,90.0,,,,,,,,,,,,,,0,0.0
+Saurav Chauhan,9e7225b0,Royal Challengers Bengaluru,2024,2024,3,3.0,18.0,15.0,1.0,1.0,3.0,9.0,0.0,0.0,1.0,6.0,120.0,,,,,,,,,,,,,,0,0.0
+Naveen-ul-Haq,c0c411cb,Lucknow Super Giants,2023,2024,18,6.0,18.0,25.0,2.0,0.0,1.0,13.0,0.0,0.0,0.0,18.0,72.0,17.0,387.0,591.0,25.0,0.0,133.0,1.0,0.0,4/38,64.3,9.16,23.64,15.5,0,6.0
+JA Richardson,1ee08e9a,"Delhi Capitals, Punjab Kings",2021,2024,4,3.0,17.0,26.0,2.0,0.0,3.0,15.0,0.0,0.0,1.0,5.67,65.38,4.0,90.0,157.0,3.0,0.0,30.0,0.0,0.0,2/41,15.0,10.47,52.33,30.0,0,1.0
+M Theekshana,f24c6701,"Chennai Super Kings, Rajasthan Royals",2022,2025,38,6.0,17.0,34.0,0.0,1.0,3.0,7.0,0.0,0.0,1.0,5.67,50.0,38.0,876.0,1207.0,36.0,1.0,260.0,1.0,0.0,4/33,146.0,8.27,33.53,24.3,0,4.0
+Parvez Rasool,9170ff49,"Pune Warriors, Royal Challengers Bangalore, Sunrisers Hyderabad",2013,2016,11,5.0,17.0,20.0,1.0,0.0,2.0,10.0,0.0,0.0,0.0,8.5,85.0,11.0,198.0,271.0,4.0,0.0,60.0,0.0,0.0,1/20,33.0,8.21,67.75,49.5,0,3.0
+PP Ojha,6c6591ab,"Deccan Chargers, Mumbai Indians",2008,2015,92,23.0,16.0,45.0,0.0,0.0,12.0,3.0,0.0,0.0,6.0,1.33,35.56,90.0,1899.0,2332.0,89.0,1.0,667.0,0.0,0.0,3/11,316.3,7.37,26.2,21.3,1,14.0
+YV Dhull,dd7e9b3b,Delhi Capitals,2023,2023,4,3.0,16.0,23.0,1.0,0.0,3.0,13.0,0.0,0.0,0.0,5.33,69.57,,,,,,,,,,,,,,0,2.0
+KS Sharma,39ed0d2f,Lucknow Super Giants,2022,2023,3,3.0,16.0,25.0,1.0,0.0,3.0,9.0,0.0,0.0,0.0,5.33,64.0,,,,,,,,,,,,,,0,0.0
+Vijaykumar Vyshak,54e52590,"Punjab Kings, Royal Challengers Bangalore, Royal Challengers Bengaluru",2023,2026,26,6.0,16.0,16.0,0.0,1.0,2.0,13.0,0.0,0.0,2.0,8.0,100.0,25.0,519.0,906.0,26.0,1.0,142.0,0.0,0.0,3/20,86.3,10.47,34.85,20.0,0,6.0
+CK Kapugedera,cfad138c,Chennai Super Kings,2008,2008,5,3.0,16.0,23.0,0.0,0.0,3.0,8.0,0.0,0.0,1.0,5.33,69.57,3.0,17.0,49.0,0.0,0.0,0.0,0.0,0.0,0/8,2.5,17.29,,,0,4.0
+GR Napier,611926bc,Mumbai Indians,2009,2009,1,1.0,15.0,16.0,1.0,0.0,1.0,15.0,0.0,0.0,0.0,15.0,93.75,1.0,24.0,27.0,1.0,0.0,8.0,0.0,0.0,1/27,4.0,6.75,27.0,24.0,0,0.0
+Virat Singh,26d76ad9,Sunrisers Hyderabad,2021,2021,3,2.0,15.0,26.0,1.0,0.0,2.0,11.0,0.0,0.0,0.0,7.5,57.69,,,,,,,,,,,,,,0,2.0
+I Udana,ac5ae4af,Royal Challengers Bangalore,2020,2020,10,4.0,15.0,11.0,1.0,1.0,3.0,10.0,0.0,0.0,1.0,5.0,136.36,10.0,174.0,282.0,8.0,0.0,45.0,0.0,0.0,2/41,29.0,9.72,35.25,21.8,0,3.0
+VY Mahesh,93a17209,"Chennai Super Kings, Delhi Daredevils",2008,2012,17,5.0,15.0,27.0,0.0,0.0,2.0,6.0,0.0,0.0,0.0,7.5,55.56,17.0,339.0,499.0,21.0,0.0,120.0,1.0,0.0,4/36,56.3,8.83,23.76,16.1,0,6.0
+SD Lad,9601c534,Mumbai Indians,2019,2019,1,1.0,15.0,13.0,1.0,1.0,1.0,15.0,0.0,0.0,0.0,15.0,115.38,,,,,,,,,,,,,,0,0.0
+M Prasidh Krishna,85e0cf10,"Gujarat Titans, Kolkata Knight Riders, Rajasthan Royals",2018,2026,78,11.0,15.0,31.0,1.0,0.0,3.0,6.0,0.0,0.0,2.0,5.0,48.39,78.0,1733.0,2598.0,90.0,4.0,687.0,3.0,0.0,4/28,288.5,8.99,28.87,19.3,3,18.0
+JL Pattinson,f752db61,Mumbai Indians,2020,2020,10,2.0,15.0,13.0,2.0,0.0,1.0,11.0,0.0,0.0,0.0,15.0,115.38,10.0,213.0,320.0,11.0,2.0,77.0,0.0,0.0,2/19,35.3,9.01,29.09,19.4,0,2.0
+C Madan,2eeb4370,Mumbai Indians,2010,2010,1,1.0,15.0,19.0,3.0,0.0,1.0,15.0,0.0,0.0,0.0,15.0,78.95,,,,,,,,,,,,,,0,0.0
+A Zampa,14f96089,"Rajasthan Royals, Rising Pune Supergiant, Rising Pune Supergiants, Royal Challengers Bangalore, Sunrisers Hyderabad",2016,2025,22,5.0,15.0,24.0,1.0,0.0,5.0,7.0,0.0,0.0,1.0,3.0,62.5,22.0,467.0,652.0,31.0,0.0,139.0,0.0,1.0,6/19,77.5,8.38,21.03,15.1,1,1.0
+FA Allen,b52ffbbd,"Mumbai Indians, Punjab Kings",2021,2022,5,4.0,14.0,19.0,1.0,0.0,2.0,8.0,0.0,0.0,0.0,7.0,73.68,4.0,90.0,136.0,2.0,1.0,26.0,0.0,0.0,1/22,15.0,9.07,68.0,45.0,0,2.0
+N Burger,465aa633,Rajasthan Royals,2024,2026,18,3.0,14.0,9.0,0.0,1.0,1.0,10.0,0.0,0.0,0.0,14.0,155.56,18.0,363.0,585.0,21.0,1.0,146.0,0.0,0.0,2/21,60.3,9.67,27.86,17.3,1,5.0
+MP Breetzke,35f173a0,Lucknow Super Giants,2025,2025,1,1.0,14.0,12.0,1.0,1.0,1.0,14.0,0.0,0.0,0.0,14.0,116.67,,,,,,,,,,,,,,0,0.0
+Auqib Nabi,7c3c0337,Delhi Capitals,2026,2026,5,2.0,14.0,4.0,2.0,1.0,1.0,10.0,0.0,0.0,0.0,14.0,350.0,5.0,78.0,149.0,0.0,0.0,24.0,0.0,0.0,0/17,13.0,11.46,,,0,1.0
+MDKJ Perera,f21043a5,Rajasthan Royals,2013,2013,2,2.0,14.0,13.0,3.0,0.0,2.0,14.0,0.0,0.0,1.0,7.0,107.69,,,,,,,,,,,,,,0,0.0
+F Behardien,dce2019b,Kings XI Punjab,2016,2016,3,3.0,14.0,13.0,2.0,0.0,2.0,9.0,0.0,0.0,1.0,7.0,107.69,,,,,,,,,,,,,,0,1.0
+DT Patil,f48cf4da,Royal Challengers Bangalore,2008,2008,2,2.0,13.0,13.0,1.0,0.0,2.0,9.0,0.0,0.0,0.0,6.5,100.0,,,,,,,,,,,,,,0,2.0
+KJ Abbott,a9da7784,Kings XI Punjab,2016,2016,5,3.0,13.0,8.0,0.0,1.0,1.0,12.0,0.0,0.0,1.0,13.0,162.5,5.0,96.0,177.0,2.0,0.0,28.0,0.0,0.0,1/38,16.0,11.06,88.5,48.0,0,0.0
+S Badree,76388dc8,"Chennai Super Kings, Rajasthan Royals, Royal Challengers Bangalore",2013,2017,12,5.0,13.0,23.0,0.0,0.0,5.0,8.0,0.0,0.0,2.0,2.6,56.52,12.0,258.0,319.0,11.0,0.0,109.0,1.0,0.0,4/9,43.0,7.42,29.0,23.5,0,2.0
+Mustafizur Rahman,0a8fce53,"Chennai Super Kings, Delhi Capitals, Mumbai Indians, Rajasthan Royals, Sunrisers Hyderabad",2016,2025,60,10.0,13.0,24.0,0.0,1.0,2.0,8.0,0.0,0.0,1.0,6.5,54.17,60.0,1364.0,1849.0,65.0,2.0,487.0,1.0,0.0,4/29,227.2,8.13,28.45,21.0,2,5.0
+DR Shorey,faa7365d,Chennai Super Kings,2018,2019,2,2.0,13.0,17.0,0.0,1.0,2.0,8.0,0.0,0.0,0.0,6.5,76.47,,,,,,,,,,,,,,0,6.0
+Harsh Dubey,25228673,Sunrisers Hyderabad,2025,2026,11,5.0,13.0,9.0,2.0,0.0,2.0,9.0,0.0,0.0,1.0,6.5,144.44,11.0,192.0,326.0,13.0,0.0,54.0,0.0,0.0,3/12,32.0,10.19,25.08,14.8,0,3.0
+DG Nalkande,cd8d2859,Gujarat Titans,2022,2024,6,2.0,12.0,12.0,0.0,1.0,2.0,12.0,0.0,0.0,1.0,6.0,100.0,6.0,84.0,148.0,6.0,0.0,22.0,0.0,0.0,2/21,14.0,10.57,24.67,14.0,0,2.0
+T Thushara,b2ae53f5,Chennai Super Kings,2009,2010,6,4.0,12.0,18.0,0.0,0.0,2.0,8.0,0.0,0.0,0.0,6.0,66.67,6.0,135.0,161.0,8.0,0.0,57.0,0.0,0.0,2/16,22.3,7.16,20.12,16.9,0,3.0
+AA Chavan,29d72eb2,Rajasthan Royals,2011,2013,13,3.0,12.0,11.0,2.0,0.0,2.0,7.0,0.0,0.0,0.0,6.0,109.09,13.0,248.0,326.0,8.0,0.0,100.0,0.0,0.0,2/23,41.2,7.89,40.75,31.0,0,3.0
+R Minz,bafd0398,Mumbai Indians,2025,2026,4,4.0,12.0,19.0,1.0,0.0,3.0,5.0,0.0,0.0,0.0,4.0,63.16,,,,,,,,,,,,,,0,0.0
+AR Bawne,afe3355a,Delhi Daredevils,2017,2017,1,1.0,12.0,12.0,1.0,0.0,0.0,12.0,0.0,0.0,0.0,,100.0,,,,,,,,,,,,,,0,0.0
+Mujeeb Ur Rahman,7d92277a,"Kings XI Punjab, Mumbai Indians, Sunrisers Hyderabad",2018,2025,20,7.0,12.0,15.0,2.0,0.0,3.0,10.0,0.0,0.0,2.0,4.0,80.0,20.0,446.0,620.0,20.0,0.0,151.0,0.0,0.0,3/27,74.2,8.34,31.0,22.3,1,2.0
+Karanveer Singh,1647bd37,Kings XI Punjab,2014,2015,9,4.0,12.0,17.0,1.0,0.0,1.0,5.0,0.0,0.0,0.0,12.0,70.59,9.0,204.0,321.0,12.0,0.0,64.0,1.0,0.0,4/54,34.0,9.44,26.75,17.0,0,2.0
+DAJ Bracewell,2e9fdf9b,Delhi Daredevils,2012,2012,1,1.0,12.0,9.0,1.0,0.0,0.0,12.0,0.0,0.0,0.0,,133.33,1.0,24.0,32.0,3.0,0.0,10.0,0.0,0.0,3/32,4.0,8.0,10.67,8.0,0,1.0
+T Dahiya,f12fe2a1,Kolkata Knight Riders,2026,2026,2,2.0,12.0,15.0,2.0,0.0,2.0,11.0,0.0,0.0,0.0,6.0,80.0,,,,,,,,,,,,,,0,1.0
+K Upadhyay,27e71d47,Pune Warriors,2012,2013,3,2.0,12.0,9.0,0.0,1.0,0.0,11.0,0.0,0.0,0.0,,133.33,3.0,54.0,81.0,0.0,0.0,20.0,0.0,0.0,0/19,9.0,9.0,,,0,1.0
+K Kartikeya,f6d8a7ab,"Mumbai Indians, Rajasthan Royals",2022,2025,16,4.0,12.0,17.0,1.0,0.0,4.0,6.0,0.0,0.0,0.0,3.0,70.59,16.0,282.0,407.0,12.0,0.0,85.0,0.0,0.0,2/22,47.0,8.66,33.92,23.5,0,1.0
+MA Wood,8d92a2c3,"Chennai Super Kings, Lucknow Super Giants",2018,2023,5,3.0,12.0,8.0,1.0,1.0,2.0,10.0,0.0,0.0,0.0,6.0,150.0,5.0,120.0,179.0,11.0,1.0,47.0,0.0,1.0,5/14,20.0,8.95,16.27,10.9,1,3.0
+M Ntini,20a941bb,Chennai Super Kings,2008,2008,9,2.0,11.0,18.0,2.0,0.0,1.0,11.0,0.0,0.0,0.0,11.0,61.11,9.0,210.0,242.0,7.0,1.0,99.0,1.0,0.0,4/21,35.0,6.91,34.57,30.0,2,1.0
+T Henderson,0a4ebc61,Rajasthan Royals,2009,2009,2,2.0,11.0,16.0,0.0,1.0,2.0,11.0,0.0,0.0,1.0,5.5,68.75,2.0,36.0,40.0,1.0,0.0,14.0,0.0,0.0,1/30,6.0,6.67,40.0,36.0,0,0.0
+DNT Zoysa,e0351c86,Deccan Chargers,2008,2008,3,2.0,11.0,9.0,1.0,0.0,1.0,10.0,0.0,0.0,0.0,11.0,122.22,3.0,66.0,99.0,2.0,0.0,24.0,0.0,0.0,1/30,11.0,9.0,49.5,33.0,0,0.0
+T Kohli,40caa465,"Kings XI Punjab, Rajasthan Royals",2008,2009,4,4.0,11.0,19.0,0.0,1.0,3.0,7.0,0.0,0.0,0.0,3.67,57.89,,,,,,,,,,,,,,0,5.0
+JE Root,a343262c,Rajasthan Royals,2023,2023,3,1.0,10.0,15.0,1.0,0.0,1.0,10.0,0.0,0.0,0.0,10.0,66.67,1.0,12.0,14.0,0.0,0.0,1.0,0.0,0.0,0/14,2.0,7.0,,,0,2.0
+J Theron,dec8e038,"Deccan Chargers, Kings XI Punjab, Rajasthan Royals",2010,2015,10,4.0,10.0,12.0,1.0,0.0,2.0,7.0,0.0,0.0,1.0,5.0,83.33,10.0,216.0,293.0,9.0,0.0,66.0,0.0,0.0,2/17,36.0,8.14,32.56,24.0,1,1.0
+VG Arora,7c3b3b78,"Kolkata Knight Riders, Punjab Kings",2022,2026,43,12.0,10.0,27.0,0.0,0.0,4.0,2.0,0.0,0.0,3.0,2.5,37.04,42.0,866.0,1406.0,47.0,1.0,306.0,0.0,0.0,3/27,144.2,9.74,29.91,18.4,1,11.0
+Simarjeet Singh,30df8c66,"Chennai Super Kings, Sunrisers Hyderabad",2022,2025,14,6.0,10.0,15.0,0.0,0.0,3.0,3.0,0.0,0.0,2.0,3.33,66.67,14.0,240.0,400.0,11.0,0.0,102.0,0.0,0.0,3/26,40.0,10.0,36.36,21.8,1,3.0
+RK Bhui,b63e358a,"Delhi Capitals, Sunrisers Hyderabad",2018,2024,4,4.0,10.0,26.0,0.0,0.0,4.0,7.0,0.0,0.0,2.0,2.5,38.46,,,,,,,,,,,,,,0,0.0
+Mukesh Kumar,2cffab74,Delhi Capitals,2023,2026,42,5.0,10.0,18.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,10.0,55.56,42.0,824.0,1455.0,42.0,1.0,270.0,1.0,0.0,4/33,137.2,10.59,34.64,19.6,1,7.0
+TD Paine,5748e866,Pune Warriors,2011,2011,2,2.0,10.0,26.0,0.0,0.0,2.0,8.0,0.0,0.0,0.0,5.0,38.46,,,,,,,,,,,,,,0,0.0
+BB Sran,d8b2f218,"Kings XI Punjab, Mumbai Indians, Rajasthan Royals, Sunrisers Hyderabad",2015,2019,24,9.0,10.0,14.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,10.0,71.43,24.0,483.0,757.0,18.0,1.0,168.0,0.0,0.0,3/28,80.3,9.4,42.06,26.8,0,4.0
+KAJ Roach,78eb4223,Deccan Chargers,2010,2010,2,1.0,10.0,9.0,1.0,0.0,1.0,10.0,0.0,0.0,0.0,10.0,111.11,2.0,48.0,80.0,0.0,0.0,20.0,0.0,0.0,0/32,8.0,10.0,,,0,1.0
+SMSM Senanayake,4c4fa80b,Kolkata Knight Riders,2013,2013,8,4.0,10.0,17.0,0.0,0.0,1.0,7.0,0.0,0.0,0.0,10.0,58.82,8.0,192.0,209.0,9.0,1.0,73.0,0.0,0.0,2/26,32.0,6.53,23.22,21.3,0,2.0
+Krish Bhagat,e48a4814,Mumbai Indians,2026,2026,3,2.0,10.0,21.0,0.0,0.0,1.0,7.0,0.0,0.0,0.0,10.0,47.62,3.0,36.0,63.0,0.0,0.0,15.0,0.0,0.0,0/10,6.0,10.5,,,0,1.0
+D du Preez,d7a57f75,Royal Challengers Bangalore,2009,2009,2,1.0,10.0,13.0,0.0,0.0,1.0,10.0,0.0,0.0,0.0,10.0,76.92,2.0,42.0,56.0,4.0,1.0,18.0,0.0,0.0,3/32,7.0,8.0,14.0,10.5,0,0.0
+X Thalaivan Sargunam,1763bc6c,Sunrisers Hyderabad,2013,2013,1,1.0,10.0,17.0,0.0,0.0,1.0,10.0,0.0,0.0,0.0,10.0,58.82,,,,,,,,,,,,,,0,0.0
+AG Murtaza,ef5da05c,"Mumbai Indians, Pune Warriors",2010,2013,12,3.0,10.0,14.0,1.0,0.0,1.0,5.0,0.0,0.0,0.0,10.0,71.43,12.0,264.0,313.0,9.0,0.0,101.0,0.0,0.0,3/15,44.0,7.11,34.78,29.3,0,3.0
+L Wood,65b6943c,Mumbai Indians,2024,2024,2,1.0,9.0,3.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0,,300.0,2.0,36.0,93.0,1.0,0.0,8.0,0.0,0.0,1/68,6.0,15.5,93.0,36.0,0,0.0
+AA Noffke,b69e69ed,Royal Challengers Bangalore,2008,2008,1,1.0,9.0,10.0,1.0,0.0,1.0,9.0,0.0,0.0,0.0,9.0,90.0,1.0,24.0,40.0,1.0,0.0,6.0,0.0,0.0,1/40,4.0,10.0,40.0,24.0,0,0.0
+SM Harwood,63bff7f9,Rajasthan Royals,2009,2009,3,2.0,9.0,14.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,,64.29,3.0,60.0,73.0,3.0,0.0,33.0,0.0,0.0,2/25,10.0,7.3,24.33,20.0,0,2.0
+PWA Mulder,c96f6ac5,Sunrisers Hyderabad,2025,2025,1,1.0,9.0,11.0,1.0,0.0,1.0,9.0,0.0,0.0,0.0,9.0,81.82,1.0,6.0,16.0,0.0,0.0,1.0,0.0,0.0,0/16,1.0,16.0,,,0,1.0
+JPR Scantlebury-Searles,99ed60f8,Kolkata Knight Riders,2018,2018,4,2.0,8.0,6.0,0.0,1.0,1.0,6.0,0.0,0.0,0.0,8.0,133.33,3.0,42.0,89.0,2.0,0.0,7.0,0.0,0.0,1/24,7.0,12.71,44.5,21.0,0,4.0
+Jaskaran Singh,d7b3a420,Deccan Chargers,2009,2010,8,5.0,8.0,11.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,8.0,72.73,7.0,102.0,171.0,6.0,0.0,39.0,0.0,0.0,2/18,17.0,10.06,28.5,17.0,0,0.0
+OC McCoy,529eb9e0,Rajasthan Royals,2022,2023,8,1.0,8.0,5.0,0.0,1.0,1.0,8.0,0.0,0.0,0.0,8.0,160.0,8.0,161.0,250.0,11.0,0.0,49.0,0.0,0.0,3/23,26.5,9.32,22.73,14.6,0,1.0
+P Chopra,8ac93ca2,Rajasthan Royals,2018,2019,2,1.0,8.0,6.0,2.0,0.0,1.0,8.0,0.0,0.0,0.0,8.0,133.33,,,,,,,,,,,,,,0,1.0
+KT Maphaka,107c26fb,"Mumbai Indians, Rajasthan Royals",2024,2025,4,1.0,8.0,2.0,2.0,0.0,0.0,8.0,0.0,0.0,0.0,,400.0,4.0,66.0,143.0,2.0,0.0,22.0,0.0,0.0,1/23,11.0,13.0,71.5,33.0,0,2.0
+SH Johnson,83c3e8e3,"Chennai Super Kings, Gujarat Titans, Kolkata Knight Riders",2024,2026,12,6.0,8.0,12.0,1.0,0.0,1.0,5.0,0.0,0.0,1.0,8.0,66.67,12.0,230.0,396.0,7.0,0.0,85.0,0.0,0.0,2/25,38.2,10.33,56.57,32.9,0,3.0
+Mukesh Choudhary,765a4731,Chennai Super Kings,2022,2026,24,3.0,8.0,8.0,1.0,0.0,1.0,4.0,0.0,0.0,0.0,8.0,100.0,24.0,483.0,771.0,25.0,0.0,198.0,1.0,0.0,4/46,80.3,9.58,30.84,19.3,1,5.0
+TM Srivastava,a76d10ba,Kings XI Punjab,2008,2009,7,3.0,8.0,11.0,0.0,0.0,1.0,7.0,0.0,0.0,0.0,8.0,72.73,,,,,,,,,,,,,,0,2.0
+CJ McKay,94eac556,Mumbai Indians,2012,2012,2,1.0,8.0,15.0,0.0,0.0,1.0,8.0,0.0,0.0,0.0,8.0,53.33,2.0,42.0,60.0,1.0,0.0,14.0,0.0,0.0,1/36,7.0,8.57,60.0,42.0,0,0.0
+Akash Madhwal,4bd09374,"Mumbai Indians, Rajasthan Royals",2023,2025,17,2.0,8.0,14.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,,57.14,17.0,352.0,590.0,23.0,0.0,105.0,1.0,1.0,5/5,58.4,10.06,25.65,15.3,2,1.0
+CK Langeveldt,d1c94b25,"Kolkata Knight Riders, Royal Challengers Bangalore",2009,2011,7,2.0,8.0,9.0,0.0,1.0,2.0,8.0,0.0,0.0,1.0,4.0,88.89,7.0,156.0,187.0,13.0,0.0,69.0,0.0,0.0,3/15,26.0,7.19,14.38,12.0,0,0.0
+TS Mills,245c97cb,"Mumbai Indians, Royal Challengers Bangalore",2017,2022,10,5.0,8.0,14.0,0.0,1.0,4.0,6.0,0.0,0.0,2.0,2.0,57.14,10.0,209.0,343.0,11.0,0.0,69.0,0.0,0.0,3/35,34.5,9.85,31.18,19.0,0,1.0
+LG Pretorius,60aa2db3,Rajasthan Royals,2026,2026,2,2.0,7.0,8.0,0.0,0.0,2.0,7.0,0.0,0.0,1.0,3.5,87.5,,,,,,,,,,,,,,0,0.0
+V Viyaskanth,03a83c50,Sunrisers Hyderabad,2024,2024,3,1.0,7.0,5.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,,140.0,3.0,60.0,86.0,1.0,0.0,16.0,0.0,0.0,1/37,10.0,8.6,86.0,60.0,0,2.0
+MJ Henry,e84ac20c,"Chennai Super Kings, Kings XI Punjab, Lucknow Super Giants",2017,2026,9,2.0,7.0,10.0,1.0,0.0,2.0,5.0,0.0,0.0,0.0,3.5,70.0,9.0,162.0,311.0,4.0,0.0,40.0,0.0,0.0,2/54,27.0,11.52,77.75,40.5,0,1.0
+IS Sodhi,641ac5ff,Rajasthan Royals,2018,2019,8,2.0,7.0,17.0,0.0,0.0,2.0,6.0,0.0,0.0,0.0,3.5,41.18,8.0,181.0,202.0,9.0,1.0,64.0,0.0,0.0,3/26,30.1,6.7,22.44,20.1,0,0.0
+VS Malik,5f26df4f,"Kings XI Punjab, Rajasthan Royals",2009,2014,13,2.0,7.0,7.0,1.0,0.0,1.0,6.0,0.0,0.0,0.0,7.0,100.0,13.0,205.0,261.0,6.0,0.0,84.0,0.0,0.0,2/14,34.1,7.64,43.5,34.2,0,2.0
+I Malhotra,943fd425,Deccan Chargers,2011,2011,1,1.0,7.0,4.0,1.0,0.0,0.0,7.0,0.0,0.0,0.0,,175.0,1.0,6.0,23.0,0.0,0.0,0.0,0.0,0.0,0/23,1.0,23.0,,,0,0.0
+UA Birla,91b9300b,Pune Warriors,2013,2013,2,1.0,7.0,14.0,1.0,0.0,1.0,7.0,0.0,0.0,0.0,7.0,50.0,,,,,,,,,,,,,,0,1.0
+E Malinga,5750bcb4,Sunrisers Hyderabad,2025,2026,22,3.0,7.0,17.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,7.0,41.18,22.0,486.0,745.0,33.0,0.0,167.0,1.0,0.0,4/32,81.0,9.2,22.58,14.7,1,5.0
+Ankit Soni,f18ba07f,Gujarat Lions,2017,2017,7,3.0,7.0,9.0,0.0,1.0,2.0,7.0,0.0,0.0,2.0,3.5,77.78,6.0,109.0,144.0,2.0,0.0,37.0,0.0,0.0,1/16,18.1,7.93,72.0,54.5,0,1.0
+Pankaj Singh,e32d22f6,"Rajasthan Royals, Royal Challengers Bangalore",2008,2012,17,5.0,7.0,12.0,0.0,0.0,2.0,4.0,0.0,0.0,1.0,3.5,58.33,17.0,300.0,468.0,11.0,1.0,111.0,0.0,0.0,2/18,50.0,9.36,42.55,27.3,0,2.0
+AN Ghosh,7023d182,Kolkata Knight Riders,2009,2009,2,2.0,7.0,8.0,1.0,0.0,2.0,7.0,0.0,0.0,1.0,3.5,87.5,,,,,,,,,,,,,,0,1.0
+DA Payne,6c79c098,Sunrisers Hyderabad,2026,2026,2,1.0,6.0,5.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,,120.0,2.0,30.0,70.0,2.0,0.0,5.0,0.0,0.0,2/35,5.0,14.0,35.0,15.0,0,0.0
+SS Shaikh,5f5d3ad4,Kolkata Knight Riders,2009,2009,2,1.0,6.0,7.0,1.0,0.0,1.0,6.0,0.0,0.0,0.0,6.0,85.71,,,,,,,,,,,,,,0,2.0
+PSP Handscomb,ada15e88,Rising Pune Supergiants,2016,2016,2,1.0,6.0,12.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,6.0,50.0,,,,,,,,,,,,,,0,0.0
+SB Joshi,670709ec,Royal Challengers Bangalore,2008,2008,4,2.0,6.0,14.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,3.0,42.86,4.0,55.0,82.0,1.0,0.0,18.0,0.0,0.0,1/27,9.1,8.95,82.0,55.0,0,0.0
+JP Behrendorff,4933f499,Mumbai Indians,2019,2023,17,2.0,6.0,9.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,,66.67,17.0,366.0,552.0,19.0,0.0,139.0,0.0,0.0,3/23,61.0,9.05,29.05,19.3,0,2.0
+DM Bravo,14b14cd8,Kolkata Knight Riders,2017,2017,1,1.0,6.0,5.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,,120.0,,,,,,,,,,,,,,0,0.0
+BA Bhatt,dc4686e6,Kings XI Punjab,2011,2013,17,2.0,6.0,7.0,0.0,1.0,1.0,6.0,0.0,0.0,1.0,6.0,85.71,15.0,296.0,397.0,12.0,0.0,93.0,1.0,0.0,4/22,49.2,8.05,33.08,24.7,1,0.0
+B Laughlin,b2a79f17,"Chennai Super Kings, Rajasthan Royals",2013,2018,9,4.0,5.0,13.0,0.0,0.0,2.0,4.0,0.0,0.0,2.0,2.5,38.46,9.0,168.0,282.0,10.0,0.0,42.0,0.0,0.0,2/15,28.0,10.07,28.2,16.8,0,1.0
+P Awana,1a0c3177,Kings XI Punjab,2012,2014,33,7.0,5.0,14.0,0.0,0.0,2.0,4.0,0.0,0.0,2.0,2.5,35.71,33.0,747.0,1029.0,39.0,1.0,293.0,1.0,0.0,4/34,124.3,8.27,26.38,19.2,0,4.0
+Shivam Sharma,6f49cc6e,Kings XI Punjab,2014,2015,5,2.0,5.0,3.0,1.0,0.0,1.0,4.0,0.0,0.0,0.0,5.0,166.67,5.0,114.0,165.0,4.0,0.0,37.0,0.0,0.0,2/26,19.0,8.68,41.25,28.5,0,1.0
+MP Yadav,b1ad996b,Lucknow Super Giants,2024,2026,10,1.0,5.0,5.0,1.0,0.0,1.0,5.0,0.0,0.0,0.0,5.0,100.0,10.0,217.0,367.0,9.0,1.0,92.0,0.0,0.0,3/14,36.1,10.15,40.78,24.1,2,3.0
+Fazalhaq Farooqi,e9c7f0d0,"Rajasthan Royals, Sunrisers Hyderabad",2022,2025,12,3.0,5.0,15.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,,33.33,12.0,254.0,437.0,6.0,0.0,80.0,0.0,0.0,2/32,42.2,10.32,72.83,42.3,0,1.0
+KMDN Kulasekara,469ea22b,Chennai Super Kings,2011,2012,5,1.0,5.0,3.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,,166.67,5.0,102.0,120.0,5.0,0.0,45.0,0.0,0.0,2/10,17.0,7.06,24.0,20.4,1,3.0
+B Stanlake,6834d1f2,"Royal Challengers Bangalore, Sunrisers Hyderabad",2017,2018,6,1.0,5.0,2.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,,250.0,6.0,144.0,200.0,7.0,0.0,64.0,0.0,0.0,2/21,24.0,8.33,28.57,20.6,1,1.0
+Sakib Hussain,280fff14,Sunrisers Hyderabad,2026,2026,11,1.0,5.0,7.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,,71.43,11.0,252.0,397.0,15.0,0.0,86.0,1.0,0.0,4/24,42.0,9.45,26.47,16.8,0,1.0
+Prince Yadav,80b2fb19,Lucknow Super Giants,2025,2026,20,3.0,5.0,11.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,,45.45,20.0,449.0,684.0,19.0,0.0,156.0,0.0,0.0,3/32,74.5,9.14,36.0,23.6,0,5.0
+SJ Srivastava,2049f3a0,Kings XI Punjab,2010,2011,14,4.0,5.0,5.0,0.0,0.0,1.0,3.0,0.0,0.0,1.0,5.0,100.0,14.0,282.0,441.0,14.0,2.0,103.0,0.0,0.0,2/20,47.0,9.38,31.5,20.1,0,2.0
+Arshad Khan (2),12314277,Lucknow Super Giants,2024,2024,1,1.0,5.0,4.0,1.0,0.0,1.0,5.0,0.0,0.0,0.0,5.0,125.0,1.0,12.0,24.0,0.0,0.0,4.0,0.0,0.0,0/24,2.0,12.0,,,0,0.0
+T Natarajan,ce794613,"Delhi Capitals, Kings XI Punjab, Sunrisers Hyderabad",2017,2026,74,5.0,4.0,7.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,,57.14,73.0,1553.0,2378.0,73.0,5.0,465.0,1.0,0.0,4/19,258.5,9.19,32.58,21.3,0,10.0
+VRV Singh,034b4b7d,Kings XI Punjab,2008,2010,19,2.0,4.0,3.0,1.0,0.0,2.0,4.0,0.0,0.0,1.0,2.0,133.33,18.0,360.0,542.0,12.0,0.0,114.0,0.0,0.0,3/29,60.0,9.03,45.17,30.0,0,3.0
+A Chandila,99b202b3,Rajasthan Royals,2012,2013,12,2.0,4.0,7.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,,57.14,12.0,234.0,242.0,11.0,0.0,103.0,1.0,0.0,4/13,39.0,6.21,22.0,21.3,1,2.0
+FH Edwards,a7c226e1,Deccan Chargers,2009,2009,6,2.0,4.0,5.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,4.0,80.0,6.0,140.0,154.0,5.0,1.0,70.0,0.0,0.0,2/27,23.2,6.6,30.8,28.0,0,0.0
+SR Dubey,11061889,Kolkata Knight Riders,2026,2026,4,1.0,4.0,2.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,,200.0,4.0,77.0,106.0,5.0,0.0,37.0,0.0,0.0,2/28,12.5,8.26,21.2,15.4,0,0.0
+DP Nannes,c404f58a,"Chennai Super Kings, Delhi Daredevils, Royal Challengers Bangalore",2009,2013,29,3.0,4.0,13.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,4.0,30.77,29.0,646.0,785.0,28.0,2.0,285.0,0.0,0.0,3/27,107.4,7.29,28.04,23.1,1,8.0
+A Uniyal,fdcb08c2,Rajasthan Royals,2010,2010,2,2.0,4.0,7.0,0.0,0.0,1.0,4.0,0.0,0.0,1.0,4.0,57.14,2.0,36.0,66.0,2.0,0.0,8.0,0.0,0.0,2/41,6.0,11.0,33.0,18.0,0,0.0
+RS Sodhi,a3ecf01f,Kings XI Punjab,2010,2010,3,1.0,4.0,2.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,,200.0,,,,,,,,,,,,,,0,2.0
+A Dananjaya,5b16a806,Mumbai Indians,2018,2018,1,1.0,4.0,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,,80.0,1.0,24.0,47.0,0.0,0.0,6.0,0.0,0.0,0/47,4.0,11.75,,,0,0.0
+Ravi Singh,548516a6,Rajasthan Royals,2026,2026,1,1.0,4.0,2.0,1.0,0.0,1.0,4.0,0.0,0.0,0.0,4.0,200.0,,,,,,,,,,,,,,0,0.0
+Liton Das,0404d43c,Kolkata Knight Riders,2023,2023,1,1.0,4.0,4.0,1.0,0.0,1.0,4.0,0.0,0.0,0.0,4.0,100.0,,,,,,,,,,,,,,0,0.0
+A Tomar,aa5d8c9e,Kolkata Knight Riders,2022,2022,1,1.0,4.0,8.0,1.0,0.0,1.0,4.0,0.0,0.0,0.0,4.0,50.0,,,,,,,,,,,,,,0,0.0
+GD McGrath,ee7d0c82,Delhi Daredevils,2008,2008,14,3.0,4.0,5.0,1.0,0.0,1.0,4.0,0.0,0.0,1.0,4.0,80.0,14.0,324.0,357.0,12.0,2.0,153.0,1.0,0.0,4/29,54.0,6.61,29.75,27.0,1,2.0
+Yash Dayal,7210d461,"Gujarat Titans, Royal Challengers Bengaluru",2022,2025,43,4.0,4.0,9.0,0.0,0.0,3.0,3.0,0.0,0.0,2.0,1.33,44.44,43.0,871.0,1390.0,41.0,1.0,307.0,0.0,0.0,3/20,145.1,9.58,33.9,21.2,0,8.0
+CRD Fernando,342d8ade,Mumbai Indians,2008,2010,10,2.0,4.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,,133.33,10.0,234.0,298.0,17.0,0.0,99.0,1.0,0.0,4/18,39.0,7.64,17.53,13.8,1,2.0
+L Ngidi,f834dcfc,"Chennai Super Kings, Delhi Capitals, Royal Challengers Bengaluru",2018,2026,28,4.0,4.0,9.0,0.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,44.44,27.0,620.0,869.0,42.0,1.0,238.0,1.0,0.0,4/10,103.2,8.41,20.69,14.8,1,1.0
+DS Rathi,13fc5c6d,Lucknow Super Giants,2025,2026,23,4.0,3.0,8.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,37.5,23.0,546.0,826.0,19.0,0.0,149.0,0.0,0.0,2/30,91.0,9.08,43.47,28.7,1,7.0
+Younis Khan,33cb3411,Rajasthan Royals,2008,2008,1,1.0,3.0,7.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,3.0,42.86,,,,,,,,,,,,,,0,1.0
+JE Taylor,4180d897,Pune Warriors,2011,2011,5,2.0,3.0,3.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,100.0,5.0,117.0,157.0,6.0,0.0,48.0,0.0,0.0,3/30,19.3,8.05,26.17,19.5,0,0.0
+GC Viljoen,a316d663,Kings XI Punjab,2019,2019,6,3.0,3.0,7.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,1.5,42.86,6.0,138.0,222.0,7.0,0.0,43.0,0.0,0.0,2/39,23.0,9.65,31.71,19.7,0,0.0
+Kamran Khan,6ef60d3a,"Pune Warriors, Rajasthan Royals",2009,2011,9,2.0,3.0,5.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,3.0,60.0,9.0,160.0,224.0,9.0,1.0,62.0,0.0,0.0,3/18,26.4,8.4,24.89,17.8,0,4.0
+D Kalyankrishna,94bc776b,Deccan Chargers,2008,2008,3,1.0,3.0,8.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,3.0,37.5,3.0,48.0,87.0,2.0,0.0,10.0,0.0,0.0,1/30,8.0,10.88,43.5,24.0,0,1.0
+R Ninan,ce4cc4d5,Royal Challengers Bangalore,2011,2011,2,1.0,3.0,6.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,3.0,50.0,2.0,36.0,65.0,3.0,0.0,8.0,0.0,0.0,2/31,6.0,10.83,21.67,12.0,0,1.0
+Mohammad Asif,e03b66ec,Delhi Daredevils,2008,2008,8,2.0,3.0,6.0,0.0,0.0,2.0,3.0,0.0,0.0,1.0,1.5,50.0,8.0,192.0,296.0,8.0,0.0,64.0,0.0,0.0,2/19,32.0,9.25,37.0,24.0,0,0.0
+S Tyagi,c24a2c5d,Chennai Super Kings,2009,2010,14,3.0,3.0,4.0,0.0,0.0,1.0,3.0,0.0,0.0,1.0,3.0,75.0,14.0,209.0,295.0,6.0,1.0,93.0,0.0,0.0,2/18,34.5,8.47,49.17,34.8,0,3.0
+PP Hinge,ece7b6b3,Sunrisers Hyderabad,2026,2026,7,2.0,3.0,9.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,3.0,33.33,7.0,156.0,305.0,14.0,0.0,60.0,1.0,0.0,4/34,26.0,11.73,21.79,11.1,1,2.0
+RJW Topley,8db7f47f,"Mumbai Indians, Royal Challengers Bangalore, Royal Challengers Bengaluru",2023,2025,6,1.0,3.0,6.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,,50.0,6.0,120.0,222.0,5.0,0.0,44.0,0.0,0.0,2/27,20.0,11.1,44.4,24.0,0,2.0
+BAW Mendis,ea0cdc12,"Kolkata Knight Riders, Pune Warriors",2008,2013,10,3.0,3.0,6.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,1.5,50.0,10.0,240.0,285.0,8.0,0.0,76.0,0.0,0.0,2/19,40.0,7.12,35.62,30.0,0,1.0
+S Randiv,f5f18a18,Chennai Super Kings,2011,2011,8,1.0,2.0,4.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,50.0,8.0,174.0,223.0,6.0,0.0,60.0,0.0,0.0,2/24,29.0,7.69,37.17,29.0,0,2.0
+AM Ghazanfar,9ca68676,Mumbai Indians,2026,2026,11,1.0,2.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,,66.67,11.0,233.0,389.0,15.0,1.0,69.0,0.0,0.0,2/17,38.5,10.02,25.93,15.5,0,1.0
+A Singh,5b040b81,Rajasthan Royals,2009,2012,23,5.0,2.0,10.0,0.0,0.0,4.0,1.0,0.0,0.0,3.0,0.5,20.0,23.0,473.0,620.0,28.0,1.0,189.0,1.0,0.0,4/19,78.5,7.86,22.14,16.9,1,1.0
+BR Sharath,c2dd89ea,Gujarat Titans,2024,2024,1,1.0,2.0,5.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,40.0,,,,,,,,,,,,,,0,1.0
+H Das,0ed0cdbf,Deccan Chargers,2008,2008,1,1.0,2.0,5.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,40.0,,,,,,,,,,,,,,0,0.0
+Mohammad Ashraful,2bb09eb2,Mumbai Indians,2009,2009,1,1.0,2.0,10.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,20.0,,,,,,,,,,,,,,0,2.0
+DV Malewar,9e6032fa,Mumbai Indians,2026,2026,2,2.0,2.0,5.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,1.0,40.0,,,,,,,,,,,,,,0,0.0
+SB Wagh,dddca1d6,"Pune Warriors, Rajasthan Royals",2010,2011,8,2.0,2.0,3.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,1.0,66.67,8.0,102.0,137.0,5.0,1.0,45.0,0.0,0.0,3/16,17.0,8.06,27.4,20.4,1,1.0
+GHS Garton,be869ccf,Royal Challengers Bangalore,2021,2021,5,3.0,2.0,4.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,2.0,50.0,5.0,90.0,135.0,3.0,0.0,31.0,0.0,0.0,1/27,15.0,9.0,45.0,30.0,0,1.0
+Navdeep Saini,21d4e29b,"Kolkata Knight Riders, Rajasthan Royals, Royal Challengers Bangalore",2021,2026,6,1.0,2.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,100.0,5.0,90.0,174.0,6.0,0.0,26.0,0.0,0.0,3/40,15.0,11.6,29.0,15.0,0,8.0
+RS Gavaskar,9ff100a6,Kolkata Knight Riders,2010,2010,2,1.0,2.0,8.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,25.0,1.0,6.0,8.0,0.0,0.0,2.0,0.0,0.0,0/8,1.0,8.0,,,0,0.0
+Shivam Singh,e1d9ae9c,Punjab Kings,2024,2024,1,1.0,2.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,,66.67,,,,,,,,,,,,,,0,2.0
+RJ Gleeson,402f8494,"Chennai Super Kings, Mumbai Indians",2024,2025,3,1.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,,100.0,3.0,68.0,110.0,2.0,0.0,24.0,0.0,0.0,1/30,11.2,9.71,55.0,34.0,0,0.0
+VS Yeligati,38f2c66c,Mumbai Indians,2008,2008,2,1.0,2.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,100.0,2.0,30.0,59.0,0.0,0.0,6.0,0.0,0.0,0/16,5.0,11.8,,,0,0.0
+KK Ahmed,a2f46292,"Chennai Super Kings, Delhi Capitals, Sunrisers Hyderabad",2018,2026,76,7.0,2.0,9.0,0.0,0.0,5.0,1.0,0.0,0.0,4.0,0.4,22.22,76.0,1657.0,2474.0,91.0,4.0,683.0,0.0,0.0,3/21,276.1,8.96,27.19,18.2,2,5.0
+Shoaib Akhtar,10a91f35,Kolkata Knight Riders,2008,2008,3,1.0,2.0,7.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,28.57,3.0,42.0,54.0,5.0,0.0,23.0,1.0,0.0,4/11,7.0,7.71,10.8,8.4,1,0.0
+RG More,b2b23612,Chennai Super Kings,2015,2015,2,1.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,,100.0,2.0,35.0,59.0,1.0,0.0,4.0,0.0,0.0,1/31,5.5,10.11,59.0,35.0,0,1.0
+KP Appanna,d92e42f5,Royal Challengers Bangalore,2009,2012,13,3.0,2.0,4.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,50.0,13.0,216.0,286.0,9.0,0.0,68.0,1.0,0.0,4/19,36.0,7.94,31.78,24.0,0,3.0
+Mashrafe Mortaza,e186f49c,Kolkata Knight Riders,2009,2009,1,1.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,,100.0,1.0,24.0,58.0,0.0,0.0,6.0,0.0,0.0,0/58,4.0,14.5,,,0,0.0
+T Shamsi,a03bba42,"Rajasthan Royals, Royal Challengers Bangalore",2016,2021,5,1.0,2.0,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,,50.0,5.0,120.0,181.0,3.0,0.0,28.0,0.0,0.0,1/21,20.0,9.05,60.33,40.0,0,0.0
+Brijesh Sharma,133bbd61,Rajasthan Royals,2026,2026,13,2.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,50.0,13.0,273.0,450.0,14.0,0.0,84.0,0.0,0.0,2/18,45.3,9.89,32.14,19.5,0,1.0
+Ashwani Kumar,d45c29b1,Mumbai Indians,2025,2026,10,1.0,1.0,6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,16.67,10.0,183.0,334.0,17.0,1.0,57.0,2.0,0.0,4/24,30.3,10.95,19.65,10.8,1,2.0
+Abdul Basith,cc777ffa,Rajasthan Royals,2023,2023,1,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,100.0,,,,,,,,,,,,,,0,0.0
+MJ Suthar,025c4400,Gujarat Titans,2024,2026,5,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,50.0,4.0,48.0,94.0,2.0,0.0,17.0,0.0,0.0,1/19,8.0,11.75,47.0,24.0,0,2.0
+HF Gurney,e412cb64,Kolkata Knight Riders,2019,2019,8,1.0,1.0,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,20.0,8.0,162.0,238.0,7.0,0.0,50.0,0.0,0.0,2/25,27.0,8.81,34.0,23.1,1,0.0
+MS Bhandage,e96801ea,Royal Challengers Bengaluru,2025,2025,1,1.0,1.0,4.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,25.0,,,,,,,,,,,,,,0,2.0
+Mohit Rathee,9a5f2863,Punjab Kings,2023,2023,1,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,50.0,1.0,12.0,29.0,0.0,0.0,3.0,0.0,0.0,0/29,2.0,14.5,,,0,0.0
+PM Sarvesh Kumar,4b4d1957,Deccan Chargers,2008,2008,2,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,50.0,2.0,30.0,42.0,1.0,0.0,11.0,0.0,0.0,1/18,5.0,8.4,42.0,30.0,0,0.0
+NJ Rimmington,6042bf26,Kings XI Punjab,2011,2011,1,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,100.0,1.0,18.0,19.0,0.0,0.0,9.0,0.0,0.0,0/19,3.0,6.33,,,0,0.0
+SE Bond,4f629497,Kolkata Knight Riders,2010,2010,8,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,50.0,8.0,186.0,224.0,9.0,1.0,75.0,0.0,0.0,2/24,31.0,7.23,24.89,20.7,0,0.0
+DP Vijaykumar,acd4f5dc,Deccan Chargers,2008,2008,9,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,100.0,9.0,152.0,199.0,4.0,0.0,63.0,0.0,0.0,1/17,25.2,7.86,49.75,38.0,0,0.0
+Shoaib Ahmed,8a668774,Deccan Chargers,2009,2009,8,3.0,1.0,6.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,0.5,16.67,7.0,102.0,152.0,5.0,0.0,33.0,0.0,0.0,2/20,17.0,8.94,30.4,20.4,0,4.0
+BE Hendricks,b56dc5f7,Kings XI Punjab,2014,2015,7,3.0,1.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,33.33,7.0,150.0,235.0,9.0,0.0,52.0,0.0,0.0,3/36,25.0,9.4,26.11,16.7,0,3.0
+KA Maharaj,0b60eb09,Rajasthan Royals,2024,2024,2,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,50.0,2.0,36.0,39.0,2.0,0.0,11.0,0.0,0.0,2/23,6.0,6.5,19.5,18.0,0,1.0
+SZ Mulani,9d704f6f,Mumbai Indians,2024,2024,2,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,100.0,2.0,30.0,57.0,0.0,0.0,7.0,0.0,0.0,0/24,5.0,11.4,,,0,0.0
+DJ Muthuswami,2c76b512,Delhi Daredevils,2015,2015,6,2.0,1.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,33.33,6.0,84.0,101.0,4.0,0.0,44.0,0.0,0.0,2/18,14.0,7.21,25.25,21.0,0,0.0
+SS Mishra,92500ad5,Rajasthan Royals,2026,2026,2,1.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,33.33,2.0,38.0,67.0,2.0,1.0,15.0,0.0,0.0,2/21,6.2,10.58,33.5,19.0,0,0.0
+P Parameswaran,0c432afb,"Kochi Tuskers Kerala, Royal Challengers Bangalore",2011,2012,8,2.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,50.0,8.0,154.0,224.0,9.0,0.0,64.0,0.0,0.0,3/30,25.4,8.73,24.89,17.1,1,0.0
+Ashok Sharma,50c09020,Gujarat Titans,2026,2026,6,2.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,25.0,6.0,126.0,228.0,6.0,0.0,48.0,0.0,0.0,2/32,21.0,10.86,38.0,21.0,0,2.0
+M de Lange,d4eef961,"Kolkata Knight Riders, Mumbai Indians",2012,2015,5,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,50.0,5.0,108.0,169.0,5.0,2.0,39.0,0.0,0.0,3/34,18.0,9.39,33.8,21.6,0,0.0
+LB Williams,a1d95bd8,Delhi Capitals,2024,2024,2,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,50.0,2.0,36.0,72.0,1.0,0.0,12.0,0.0,0.0,1/38,6.0,12.0,72.0,36.0,0,1.0
+LE Plunkett,9a963804,Delhi Daredevils,2018,2018,7,2.0,1.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,33.33,7.0,150.0,225.0,4.0,0.0,39.0,0.0,0.0,3/17,25.0,9.0,56.25,37.5,0,2.0
+PVSN Raju,c27b5a0e,Mumbai Indians,2025,2025,2,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,,100.0,2.0,24.0,53.0,1.0,0.0,3.0,0.0,0.0,1/40,4.0,13.25,53.0,24.0,0,1.0
+R Sanjay Yadav,33ffc3dd,Mumbai Indians,2022,2022,1,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,12.0,23.0,0.0,0.0,6.0,0.0,0.0,0/23,2.0,11.5,,,0,0.0
+ND Doshi,6ec424a9,"Rajasthan Royals, Royal Challengers Bangalore",2010,2011,4,1.0,0.0,13.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,56.0,79.0,2.0,0.0,24.0,0.0,0.0,1/15,9.2,8.46,39.5,28.0,0,0.0
+Musheer Khan,d621b427,Punjab Kings,2025,2025,1,1.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,12.0,27.0,1.0,0.0,1.0,0.0,0.0,1/27,2.0,13.5,27.0,12.0,0,0.0
+YA Abdulla,4353bba5,Kings XI Punjab,2009,2010,11,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,11.0,209.0,307.0,15.0,2.0,88.0,2.0,0.0,4/31,34.5,8.81,20.47,13.9,0,0.0
+Y Prithvi Raj,cfa4bd2b,Kolkata Knight Riders,2019,2019,2,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,30.0,57.0,1.0,0.0,8.0,0.0,0.0,1/29,5.0,11.4,57.0,30.0,0,0.0
+BW Hilfenhaus,f3171936,Chennai Super Kings,2012,2014,17,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,17.0,372.0,479.0,22.0,1.0,173.0,0.0,0.0,3/27,62.0,7.73,21.77,16.9,2,1.0
+JL Denly,bdadf7da,Kolkata Knight Riders,2019,2019,1,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,0,0.0
+Mayank Rawat,2b801189,Mumbai Indians,2026,2026,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,,0,0.0
+S Ladda,fb693839,"Delhi Daredevils, Gujarat Lions, Kolkata Knight Riders",2010,2016,9,2.0,0.0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,9.0,138.0,224.0,5.0,1.0,48.0,0.0,0.0,2/44,23.0,9.74,44.8,27.6,0,1.0
+K Yadav,030f3089,Rajasthan Royals,2021,2023,3,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,54.0,84.0,2.0,0.0,13.0,0.0,0.0,1/18,9.0,9.33,42.0,27.0,0,0.0
+SS Cottrell,a1d053dd,Kings XI Punjab,2020,2020,6,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,6.0,120.0,176.0,6.0,1.0,58.0,0.0,0.0,2/17,20.0,8.8,29.33,20.0,0,0.0
+KM Asif,798cc28e,"Chennai Super Kings, Rajasthan Royals",2018,2023,7,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7.0,133.0,231.0,7.0,0.0,46.0,0.0,0.0,2/42,22.1,10.42,33.0,19.0,0,1.0
+KR Sen,2e78f685,Rajasthan Royals,2022,2024,12,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,12.0,241.0,387.0,14.0,1.0,83.0,1.0,0.0,4/20,40.1,9.63,27.64,17.2,0,3.0
+KS Rathore,e3851766,Rajasthan Royals,2025,2025,1,1.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,0,0.0
+TP Sudhindra,2f3817ce,Deccan Chargers,2012,2012,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,3.0,70.0,136.0,1.0,0.0,18.0,0.0,0.0,1/46,11.4,11.66,136.0,70.0,0,0.0
+L Ablish,8b9704ae,Kings XI Punjab,2010,2011,3,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,42.0,75.0,3.0,0.0,10.0,0.0,0.0,2/17,7.0,10.71,25.0,14.0,0,0.0
+U Kaul,622cc511,Kings XI Punjab,2008,2008,5,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,,,,,,,,,,,,,,0,2.0
+S Lamichhane,b410bd3d,"Delhi Capitals, Delhi Daredevils",2018,2019,9,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,9.0,210.0,292.0,13.0,0.0,75.0,0.0,0.0,3/36,35.0,8.34,22.46,16.2,0,1.0
+S Kaushik,1da489ff,Gujarat Lions,2016,2017,10,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,10.0,204.0,297.0,6.0,0.0,68.0,0.0,0.0,3/20,34.0,8.74,49.5,34.0,0,0.0
+Mayank Dagar,a457cfb5,"Royal Challengers Bengaluru, Sunrisers Hyderabad",2023,2024,8,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,8.0,137.0,203.0,2.0,0.0,43.0,0.0,0.0,1/23,22.5,8.89,101.5,68.5,0,3.0
+Abdur Razzak,888e32bf,Royal Challengers Bangalore,2008,2008,1,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,12.0,29.0,0.0,0.0,5.0,0.0,0.0,0/29,2.0,14.5,,,0,0.0
+V Pratap Singh,d718440b,Deccan Chargers,2012,2012,9,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,9.0,204.0,296.0,10.0,0.0,71.0,0.0,0.0,2/31,34.0,8.71,29.6,20.4,0,0.0
+MJ Owen,f2c936d7,Punjab Kings,2025,2025,1,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,0,2.0
+Sunny Gupta,ee3dfa89,Delhi Daredevils,2012,2012,1,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,18.0,47.0,0.0,0.0,0.0,0.0,0.0,0/47,3.0,15.67,,,0,0.0
+RR Bhatkal,7d3720ba,Royal Challengers Bangalore,2012,2012,1,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,12.0,35.0,0.0,0.0,0.0,0.0,0.0,0/35,2.0,17.5,,,0,1.0
+RP Meredith,64775749,"Mumbai Indians, Punjab Kings",2021,2023,18,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,18.0,388.0,612.0,19.0,0.0,147.0,0.0,0.0,2/24,64.4,9.46,32.21,20.4,0,2.0
+IC Pandey,e0407c01,"Chennai Super Kings, Pune Warriors",2013,2015,25,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,462.0,591.0,18.0,4.0,212.0,0.0,0.0,2/23,77.0,7.68,32.83,25.7,0,6.0
+C Nanda,f24ca2ba,Mumbai Indians,2009,2009,3,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,48.0,57.0,2.0,0.0,13.0,0.0,0.0,1/4,8.0,7.12,28.5,24.0,0,0.0
+C Ganapathy,798934ea,Chennai Super Kings,2010,2010,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,1.0,6.0,13.0,0.0,0.0,1.0,0.0,0.0,0/13,1.0,13.0,,,0,0.0
+A Nel,2503e881,Mumbai Indians,2008,2008,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,,1.0,18.0,31.0,1.0,0.0,7.0,0.0,0.0,1/31,3.0,10.33,31.0,18.0,0,0.0
+AA Kazi,16605a1b,Royal Challengers Bangalore,2011,2011,1,,,,,,,,,,,,,1.0,12.0,21.0,0.0,0.0,2.0,0.0,0.0,0/21,2.0,10.5,,,0,0.0
+AM Salvi,260fd380,Delhi Daredevils,2009,2011,7,,,,,,,,,,,,,7.0,150.0,200.0,7.0,0.0,57.0,0.0,0.0,2/19,25.0,8.0,28.57,21.4,0,2.0
+Abhinandan Singh,82c10dac,Royal Challengers Bengaluru,2026,2026,3,,,,,,,,,,,,,3.0,58.0,122.0,3.0,0.0,15.0,0.0,0.0,2/30,9.4,12.62,40.67,19.3,0,2.0
+Akash Singh,b483905d,"Chennai Super Kings, Lucknow Super Giants, Rajasthan Royals",2021,2026,12,,,,,,,,,,,,,12.0,247.0,406.0,13.0,0.0,91.0,0.0,0.0,3/26,41.1,9.86,31.23,19.0,0,2.0
+Anand Rajan,d2340a43,"Deccan Chargers, Sunrisers Hyderabad",2011,2013,8,,,,,,,,,,,,,8.0,149.0,201.0,8.0,0.0,57.0,0.0,0.0,3/27,24.5,8.09,25.12,18.6,0,3.0
+B Geeves,50758325,Delhi Daredevils,2008,2008,2,,,,,,,,,,,,,2.0,48.0,91.0,1.0,0.0,15.0,0.0,0.0,1/50,8.0,11.38,91.0,48.0,0,3.0
+B Muzarabani,449f4e3c,Kolkata Knight Riders,2026,2026,2,,,,,,,,,,,,,2.0,42.0,75.0,4.0,0.0,12.0,1.0,0.0,4/41,7.0,10.71,18.75,10.5,0,0.0
+BJ Dwarshuis,e1b9f3a9,Punjab Kings,2026,2026,1,,,,,,,,,,,,,1.0,24.0,51.0,1.0,0.0,6.0,0.0,0.0,1/51,4.0,12.75,51.0,24.0,0,1.0
+CJ Dala,1cb14aa4,Delhi Daredevils,2018,2018,1,,,,,,,,,,,,,1.0,18.0,34.0,0.0,0.0,7.0,0.0,0.0,0/34,3.0,11.33,,,0,0.0
+CJ Green,19b9f399,Kolkata Knight Riders,2020,2020,1,,,,,,,,,,,,,1.0,17.0,24.0,0.0,0.0,6.0,0.0,0.0,0/24,2.5,8.47,,,0,1.0
+D Jansen,8dc152d1,Mumbai Indians,2023,2023,1,,,,,,,,,,,,,1.0,24.0,53.0,1.0,0.0,6.0,0.0,0.0,1/53,4.0,13.25,53.0,24.0,0,2.0
+D Madushanka,de7d833e,Sunrisers Hyderabad,2026,2026,1,,,,,,,,,,,,,1.0,24.0,36.0,1.0,0.0,8.0,0.0,0.0,1/36,4.0,9.0,36.0,24.0,0,2.0
+GS Sandhu,1558d83b,Delhi Daredevils,2015,2015,3,,,,,,,,,,,,,2.0,48.0,82.0,1.0,0.0,9.0,0.0,0.0,1/33,8.0,10.25,82.0,48.0,0,0.0
+Gagandeep Singh,890de8cb,Kings XI Punjab,2008,2008,4,,,,,,,,,,,,,4.0,84.0,141.0,3.0,0.0,25.0,0.0,0.0,1/33,14.0,10.07,47.0,28.0,0,0.0
+Gurjapneet Singh,cc61ee8f,Chennai Super Kings,2026,2026,8,,,,,,,,,,,,,8.0,151.0,233.0,4.0,0.0,46.0,0.0,0.0,1/7,25.1,9.26,58.25,37.8,0,5.0
+Gurnoor Brar,99258814,Punjab Kings,2023,2023,1,,,,,,,,,,,,,1.0,18.0,42.0,0.0,0.0,7.0,0.0,0.0,0/42,3.0,14.0,,,0,0.0
+H Sharma,52294a79,"Royal Challengers Bangalore, Royal Challengers Bengaluru",2023,2024,2,,,,,,,,,,,,,2.0,30.0,57.0,0.0,0.0,2.0,0.0,0.0,0/28,5.0,11.4,,,0,0.0
+Harmeet Singh (2),0bf15e52,Rajasthan Royals,2013,2013,1,,,,,,,,,,,,,1.0,24.0,34.0,1.0,0.0,12.0,0.0,0.0,1/34,4.0,8.5,34.0,24.0,0,0.0
+IC Porel,fdf7491e,Punjab Kings,2021,2021,1,,,,,,,,,,,,,1.0,24.0,39.0,1.0,0.0,7.0,0.0,0.0,1/39,4.0,9.75,39.0,24.0,0,0.0
+J Little,9061a703,Gujarat Titans,2023,2024,11,,,,,,,,,,,,,11.0,228.0,339.0,11.0,0.0,82.0,1.0,0.0,4/45,38.0,8.92,30.82,20.7,1,5.0
+JA Duffy,dadbdb68,Royal Challengers Bengaluru,2026,2026,6,,,,,,,,,,,,,6.0,144.0,263.0,9.0,0.0,54.0,0.0,0.0,3/22,24.0,10.96,29.22,16.0,1,1.0
+JW Hastings,012829ff,"Chennai Super Kings, Kolkata Knight Riders",2014,2016,3,,,,,,,,,,,,,3.0,58.0,66.0,3.0,1.0,31.0,0.0,0.0,2/6,9.4,6.83,22.0,19.3,0,0.0
+Jalaj S Saxena,249abedf,Punjab Kings,2021,2021,1,,,,,,,,,,,,,1.0,18.0,27.0,0.0,0.0,5.0,0.0,0.0,0/27,3.0,9.0,,,0,0.0
+K Khejroliya,fa2f1dde,"Gujarat Titans, Kolkata Knight Riders, Royal Challengers Bangalore",2018,2026,9,,,,,,,,,,,,,9.0,151.0,277.0,6.0,0.0,39.0,0.0,0.0,2/33,25.1,11.01,46.17,25.2,0,1.0
+K Santokie,531f0278,Mumbai Indians,2014,2014,2,,,,,,,,,,,,,2.0,48.0,90.0,3.0,0.0,15.0,0.0,0.0,2/50,8.0,11.25,30.0,16.0,0,1.0
+KH Devdhar,62e07f92,Deccan Chargers,2011,2011,1,,,,,,,,,,,,,,,,,,,,,,,,,,0,1.0
+Karim Janat,62175638,Gujarat Titans,2025,2025,1,,,,,,,,,,,,,1.0,6.0,30.0,0.0,0.0,0.0,0.0,0.0,0/30,1.0,30.0,,,0,0.0
+LI Meriwala,d3611425,Delhi Capitals,2021,2021,1,,,,,,,,,,,,,1.0,18.0,32.0,1.0,0.0,6.0,0.0,0.0,1/32,3.0,10.67,32.0,18.0,0,0.0
+M Pathirana,64839cb3,"Chennai Super Kings, Kolkata Knight Riders",2022,2026,33,,,,,,,,,,,,,33.0,710.0,1025.0,47.0,2.0,240.0,1.0,0.0,4/28,118.2,8.66,21.81,15.1,2,9.0
+M Siddharth,cf0ccafa,Lucknow Super Giants,2024,2026,9,,,,,,,,,,,,,9.0,186.0,283.0,9.0,0.0,59.0,0.0,0.0,2/35,31.0,9.13,31.44,20.7,0,3.0
+MB Parmar,86ae8ef2,Kolkata Knight Riders,2010,2010,1,,,,,,,,,,,,,1.0,18.0,33.0,0.0,0.0,4.0,0.0,0.0,0/33,3.0,11.0,,,0,0.0
+MG Neser,0164b064,Kings XI Punjab,2013,2013,1,,,,,,,,,,,,,1.0,24.0,62.0,0.0,0.0,5.0,0.0,0.0,0/62,4.0,15.5,,,0,0.0
+Monu Kumar,fb24e76c,Chennai Super Kings,2020,2020,1,,,,,,,,,,,,,1.0,12.0,20.0,0.0,0.0,4.0,0.0,0.0,0/20,2.0,10.0,,,0,0.0
+N Thushara,ee1b6c27,"Mumbai Indians, Royal Challengers Bengaluru",2024,2025,8,,,,,,,,,,,,,8.0,180.0,283.0,9.0,0.0,58.0,0.0,0.0,3/28,30.0,9.43,31.44,20.0,0,1.0
+NB Singh,b822e99c,Gujarat Lions,2017,2017,2,,,,,,,,,,,,,2.0,24.0,15.0,1.0,0.0,13.0,0.0,0.0,1/7,4.0,3.75,15.0,24.0,0,0.0
+O Thomas,c6097d68,Rajasthan Royals,2019,2019,4,,,,,,,,,,,,,4.0,60.0,79.0,5.0,0.0,17.0,0.0,0.0,2/6,10.0,7.9,15.8,12.0,0,1.0
+P Amarnath,6ad3a659,Chennai Super Kings,2008,2008,6,,,,,,,,,,,,,6.0,132.0,236.0,7.0,0.0,29.0,0.0,0.0,2/29,22.0,10.73,33.71,18.9,0,2.0
+P Dharmani,eaa90ab4,Kings XI Punjab,2008,2008,1,,,,,,,,,,,,,,,,,,,,,,,,,,0,0.0
+P Prasanth,ddb00822,Kochi Tuskers Kerala,2011,2011,1,,,,,,,,,,,,,1.0,6.0,18.0,0.0,0.0,3.0,0.0,0.0,0/18,1.0,18.0,,,0,0.0
+P Suyal,cedc1d9a,Mumbai Indians,2013,2015,5,,,,,,,,,,,,,5.0,96.0,151.0,2.0,0.0,36.0,0.0,0.0,1/21,16.0,9.44,75.5,48.0,0,1.0
+PH Solanki,c695b423,Chennai Super Kings,2022,2022,2,,,,,,,,,,,,,2.0,36.0,38.0,2.0,0.0,11.0,0.0,0.0,2/20,6.0,6.33,19.0,18.0,0,0.0
+R Goyal,266849c1,Mumbai Indians,2023,2023,1,,,,,,,,,,,,,1.0,24.0,33.0,0.0,0.0,6.0,0.0,0.0,0/33,4.0,8.25,,,0,1.0
+RA Shaikh,7c390b03,Mumbai Indians,2009,2009,1,,,,,,,,,,,,,1.0,6.0,11.0,0.0,0.0,1.0,0.0,0.0,0/11,1.0,11.0,,,0,0.0
+RR Bose,21ac077a,Kings XI Punjab,2009,2009,1,,,,,,,,,,,,,1.0,12.0,24.0,0.0,0.0,5.0,0.0,0.0,0/24,2.0,12.0,,,0,0.0
+RS Ghosh,dee07622,Chennai Super Kings,2026,2026,1,,,,,,,,,,,,,1.0,18.0,24.0,1.0,0.0,6.0,0.0,0.0,1/24,3.0,8.0,24.0,18.0,0,1.0
+RS Hangargekar,c3c92b42,Chennai Super Kings,2023,2023,2,,,,,,,,,,,,,2.0,36.0,60.0,3.0,0.0,14.0,0.0,0.0,3/36,6.0,10.0,20.0,12.0,0,0.0
+RV Pawar,c9d33ef5,Mumbai Indians,2008,2008,1,,,,,,,,,,,,,,,,,,,,,,,,,,0,0.0
+RW Price,67af6f81,Mumbai Indians,2011,2011,1,,,,,,,,,,,,,1.0,18.0,33.0,0.0,0.0,1.0,0.0,0.0,0/33,3.0,11.0,,,0,0.0
+Raghu Sharma,5b615e7c,Mumbai Indians,2026,2026,6,,,,,,,,,,,,,5.0,90.0,130.0,1.0,0.0,23.0,0.0,0.0,1/36,15.0,8.67,130.0,90.0,0,0.0
+S Joseph,97290faf,Lucknow Super Giants,2024,2024,1,,,,,,,,,,,,,1.0,24.0,47.0,0.0,0.0,9.0,0.0,0.0,0/47,4.0,11.75,,,0,0.0
+S Midhun,ade90de7,Rajasthan Royals,2019,2019,1,,,,,,,,,,,,,1.0,12.0,27.0,0.0,0.0,3.0,0.0,0.0,0/27,2.0,13.5,,,0,1.0
+S Sandeep Warrier,cdc6bdba,"Gujarat Titans, Kolkata Knight Riders",2019,2024,10,,,,,,,,,,,,,10.0,168.0,253.0,8.0,0.0,72.0,0.0,0.0,3/15,28.0,9.04,31.62,21.0,0,1.0
+SC Kuggeleijn,fef92afc,Chennai Super Kings,2019,2019,2,,,,,,,,,,,,,2.0,48.0,71.0,2.0,0.0,17.0,0.0,0.0,2/37,8.0,8.88,35.5,24.0,0,0.0
+SM Boland,d167edd3,Rising Pune Supergiants,2016,2016,2,,,,,,,,,,,,,2.0,42.0,54.0,2.0,0.0,14.0,0.0,0.0,2/31,7.0,7.71,27.0,21.0,0,0.0
+SS Agarwal,b51f72a5,Gujarat Lions,2017,2017,1,,,,,,,,,,,,,1.0,24.0,42.0,1.0,0.0,7.0,0.0,0.0,1/42,4.0,10.5,42.0,24.0,0,0.0
+SS Mundhe,0af3426f,Pune Warriors,2011,2011,1,,,,,,,,,,,,,1.0,6.0,6.0,1.0,0.0,4.0,0.0,0.0,1/6,1.0,6.0,6.0,6.0,0,0.0
+SS Sarkar,caa89a48,Kolkata Knight Riders,2009,2009,2,,,,,,,,,,,,,2.0,25.0,34.0,1.0,0.0,4.0,0.0,0.0,1/15,4.1,8.16,34.0,25.0,0,0.0
+SSB Magala,8361e524,Chennai Super Kings,2023,2023,2,,,,,,,,,,,,,2.0,36.0,51.0,1.0,0.0,5.0,0.0,0.0,1/37,6.0,8.5,51.0,36.0,0,1.0
+Suyash Sharma,9440ef41,"Kolkata Knight Riders, Royal Challengers Bengaluru",2023,2026,39,,,,,,,,,,,,,39.0,803.0,1190.0,27.0,2.0,249.0,0.0,0.0,3/17,133.5,8.89,44.07,29.7,1,2.0
+T Mishra,c9cac448,Deccan Chargers,2012,2012,1,,,,,,,,,,,,,,,,,,,,,,,,,,0,1.0
+T Vijay,51ec3919,Delhi Capitals,2026,2026,1,,,,,,,,,,,,,1.0,12.0,29.0,0.0,0.0,2.0,0.0,0.0,0/29,2.0,14.5,,,0,2.0
+Tejas Baroka,c28e9f12,Gujarat Lions,2017,2017,1,,,,,,,,,,,,,1.0,21.0,33.0,0.0,0.0,6.0,0.0,0.0,0/33,3.3,9.43,,,0,0.0
+V Kaverappa,d4d929b0,Punjab Kings,2024,2024,1,,,,,,,,,,,,,1.0,24.0,36.0,2.0,0.0,11.0,0.0,0.0,2/36,4.0,9.0,18.0,12.0,0,0.0
+V Puthur,1e030637,Mumbai Indians,2025,2025,5,,,,,,,,,,,,,5.0,72.0,109.0,6.0,0.0,24.0,0.0,0.0,3/32,12.0,9.08,18.17,12.0,0,1.0
+W O'Rourke,cb9b8664,Lucknow Super Giants,2025,2025,3,,,,,,,,,,,,,3.0,62.0,132.0,6.0,0.0,15.0,0.0,0.0,3/27,10.2,12.77,22.0,10.3,0,1.0
+Yash Raj Punja,02dfebbe,Rajasthan Royals,2026,2026,8,,,,,,,,,,,,,8.0,180.0,279.0,9.0,0.0,47.0,0.0,0.0,2/35,30.0,9.3,31.0,20.0,0,0.0
+Yash Thakur,4b31f3a3,"Lucknow Super Giants, Punjab Kings",2023,2026,22,,,,,,,,,,,,,22.0,467.0,825.0,27.0,0.0,146.0,1.0,1.0,5/30,77.5,10.6,30.56,17.3,1,2.0
+Zeeshan Ansari,36619795,Sunrisers Hyderabad,2025,2025,10,,,,,,,,,,,,,10.0,203.0,333.0,6.0,0.0,47.0,0.0,0.0,3/42,33.5,9.84,55.5,33.8,0,3.0
