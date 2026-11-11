@@ -1,4 +1,6 @@
-# IPL analysis
+# IPL player-value model
+
+Ball-by-ball IPL data (2008 to 2026) turned into player, ground and squad tables, a next-season player forecast, and a per-team squad optimiser that respects the IPL rules and the auction purse. Results and caveats are in [IPL_MODEL.md](IPL_MODEL.md). Code is MIT-licensed; the data keeps its own licences (see [DATA_SOURCES.md](DATA_SOURCES.md)).
 
 Ball-by-ball IPL data (2008 to 2026, 1,243 matches, 295,732 deliveries) turned into player, match and ground tables.
 
